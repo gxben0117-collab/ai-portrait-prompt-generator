@@ -1,0 +1,582 @@
+[
+  {
+    "id": "tang-daming-01",
+    "title": "牡丹晨光・含元殿貴妃",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "Daming Palace Hanyuan Hall exterior with peony garden",
+      "props": [
+        "blooming peony flowers",
+        "palace columns with golden details",
+        "ceremonial incense burner",
+        "jade railing",
+        "morning sunlight filtering through architecture"
+      ],
+      "timeOfDay": "early morning",
+      "weather": "clear sunny day"
+    },
+    "costume": {
+      "layer1": "Tang Dynasty high-waist crimson silk foundation",
+      "layers": "crimson ruqun with peony embroidery, golden banbi jacket, flowing pibo shawl, phoenix crown with jade ornaments",
+      "layer10": "Tang Dynasty imperial consort ceremonial silhouette, historically accurate Xuanzong era costume"
+    },
+    "action": {
+      "pose": "graceful standing posture with slight turn",
+      "gesture": "holding ceremonial fan elegantly",
+      "gaze": "gentle dignified look into distance",
+      "expression": "serene noble beauty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-02",
+    "title": "夕陽金殿・鳳冠霞帔",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "Linde Hall golden sunset ceremony space",
+      "props": [
+        "golden palace lanterns lit for ceremony",
+        "imperial throne backdrop",
+        "ceremonial silk banners",
+        "golden incense smoke",
+        "palace architectural columns"
+      ],
+      "timeOfDay": "golden hour sunset",
+      "weather": "warm golden light"
+    },
+    "costume": {
+      "layer1": "imperial golden silk foundation with phoenix patterns",
+      "layers": "full ceremonial phoenix crown and霞帔 robe, golden embroidery, jade and pearl jewelry, elaborate court accessories",
+      "layer10": "supreme Tang Dynasty empress ceremonial silhouette, maximum historical grandeur"
+    },
+    "action": {
+      "pose": "formal ceremonial standing posture",
+      "gesture": "hands gracefully positioned in ceremonial gesture",
+      "gaze": "dignified imperial presence looking forward",
+      "expression": "regal composed authority"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-03",
+    "title": "春日御花園・綠意盎然",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "Daming Palace imperial garden in spring",
+      "props": [
+        "blooming spring flowers",
+        "garden pavilion with curved roof",
+        "ornamental pond with lotus",
+        "willow trees swaying",
+        "butterfly visiting flowers"
+      ],
+      "timeOfDay": "mid-morning",
+      "weather": "gentle spring breeze"
+    },
+    "costume": {
+      "layer1": "spring green silk foundation with lighter fabrics",
+      "layers": "jade green ruqun, peacock blue banbi, flowing white pibo, spring flower hair ornaments",
+      "layer10": "Tang Dynasty garden leisure costume, elegant but less formal than ceremony dress"
+    },
+    "action": {
+      "pose": "relaxed standing by garden pond",
+      "gesture": "gently touching willow branch",
+      "gaze": "appreciating natural beauty with soft look",
+      "expression": "peaceful gentle smile"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-04",
+    "title": "秋菊盛宴・宮廷雅集",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "palace garden with autumn chrysanthemums in full bloom",
+      "props": [
+        "golden chrysanthemum arrangements",
+        "garden pavilion with painted beams",
+        "autumn leaves falling",
+        "ornamental rocks",
+        "palace musicians in background"
+      ],
+      "timeOfDay": "afternoon",
+      "weather": "clear autumn day"
+    },
+    "costume": {
+      "layer1": "golden-yellow silk foundation",
+      "layers": "chrysanthemum-embroidered ruqun, golden accessories, autumn-themed jewelry, flowing shawl",
+      "layer10": "Tang autumn festival elegance silhouette"
+    },
+    "action": {
+      "pose": "appreciating chrysanthemums with gentle stance",
+      "gesture": "holding chrysanthemum branch delicately",
+      "gaze": "serene contemplation of flowers",
+      "expression": "refined cultural appreciation"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-05",
+    "title": "月華凝霜・夜宴華章",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "moonlit palace courtyard during night banquet",
+      "props": [
+        "full moon overhead",
+        "palace lanterns everywhere",
+        "banquet tables with silk cloths",
+        "musicians playing",
+        "moonlight on marble floor"
+      ],
+      "timeOfDay": "full moon night",
+      "weather": "clear moonlit sky"
+    },
+    "costume": {
+      "layer1": "moon-white silk with silver embroidery",
+      "layers": "elegant night banquet dress, pearl accessories, moonstone jewelry, translucent outer layer",
+      "layer10": "moonlight palace banquet silhouette with silver-white elegance"
+    },
+    "action": {
+      "pose": "graceful dance pose in moonlight",
+      "gesture": "arms raised in classical Tang dance position",
+      "gaze": "looking at moon with reverence",
+      "expression": "ethereal moonlit beauty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-06",
+    "title": "玉階梨花・春日佳人",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "palace jade steps with pear blossoms",
+      "props": [
+        "blooming pear trees",
+        "white petals falling",
+        "jade stone steps",
+        "palace railings",
+        "spring morning light"
+      ],
+      "timeOfDay": "spring morning",
+      "weather": "gentle spring breeze with petals"
+    },
+    "costume": {
+      "layer1": "white silk with jade-green accents",
+      "layers": "spring pear-blossom themed hanfu, jade jewelry, delicate hair ornaments with flowers",
+      "layer10": "spring palace beauty silhouette among falling petals"
+    },
+    "action": {
+      "pose": "standing on steps with falling petals around",
+      "gesture": "catching pear blossom petal",
+      "gaze": "gentle upward look at petals",
+      "expression": "innocent spring joy"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-07",
+    "title": "朱雀大典・盛世威儀",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "grand ceremony at palace main gate",
+      "props": [
+        "massive palace gates",
+        "phoenix and dragon decorations",
+        "ceremonial guards in formation",
+        "imperial banners",
+        "incense smoke rising"
+      ],
+      "timeOfDay": "ceremonial hour midday",
+      "weather": "solemn clear day"
+    },
+    "costume": {
+      "layer1": "crimson ceremonial foundation",
+      "layers": "full imperial ceremony regalia, phoenix crown maximum grandeur, official court dress, jade scepter",
+      "layer10": "supreme Tang Dynasty ceremony silhouette with maximum authority"
+    },
+    "action": {
+      "pose": "formal standing ceremony position",
+      "gesture": "holding ceremonial items with protocol",
+      "gaze": "dignified forward ceremonial look",
+      "expression": "imperial solemn authority"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-08",
+    "title": "荷塘月色・夏夜清涼",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "palace lotus pond under summer moon",
+      "props": [
+        "blooming lotus flowers",
+        "lily pads on water",
+        "reflection in pond",
+        "summer night insects",
+        "pavilion over water"
+      ],
+      "timeOfDay": "summer evening",
+      "weather": "warm summer night with breeze"
+    },
+    "costume": {
+      "layer1": "lotus-pink silk foundation",
+      "layers": "summer light hanfu, lotus flower embroidery, minimal jewelry for coolness, flowing fabric",
+      "layer10": "summer palace leisure silhouette with lotus theme"
+    },
+    "action": {
+      "pose": "sitting by pond with feet near water",
+      "gesture": "touching lotus flower gently",
+      "gaze": "peaceful contemplation of pond",
+      "expression": "summer evening tranquility"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-09",
+    "title": "冬雪寒梅・歲寒三友",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "palace courtyard in winter with plum blossoms in snow",
+      "props": [
+        "snow covering palace grounds",
+        "plum blossoms blooming in snow",
+        "red lanterns contrast with white snow",
+        "bamboo visible through snow",
+        "winter pine trees"
+      ],
+      "timeOfDay": "winter morning",
+      "weather": "light snowfall"
+    },
+    "costume": {
+      "layer1": "warm crimson silk with fur lining",
+      "layers": "winter palace costume with fur trim, plum blossom patterns, warm accessories, elegant winter cape",
+      "layer10": "winter palace beauty silhouette with warmth and elegance"
+    },
+    "action": {
+      "pose": "admiring plum blossoms in snow",
+      "gesture": "gently brushing snow from plum branch",
+      "gaze": "appreciating winter flowers",
+      "expression": "serene winter strength"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-10",
+    "title": "琴瑟和鳴・音樂殿堂",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "palace music hall with traditional instruments",
+      "props": [
+        "guqin on ornate stand",
+        "pipa leaning against wall",
+        "music scrolls open",
+        "acoustically designed hall",
+        "elegant furniture"
+      ],
+      "timeOfDay": "afternoon music practice",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "elegant jade-green foundation",
+      "layers": "musician's refined hanfu, minimal accessories for playing, elegant but practical design",
+      "layer10": "Tang Dynasty court musician silhouette"
+    },
+    "action": {
+      "pose": "seated playing guqin",
+      "gesture": "fingers on guqin strings in playing position",
+      "gaze": "concentrated on instrument",
+      "expression": "musical immersion and skill"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-11",
+    "title": "書香門第・翰林詩韻",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "palace library study room",
+      "props": [
+        "ancient books and scrolls",
+        "calligraphy brushes and ink",
+        "scholar's desk",
+        "paintings on walls",
+        "incense for concentration"
+      ],
+      "timeOfDay": "quiet afternoon",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "scholarly white-blue foundation",
+      "layers": "refined scholar's hanfu, simple elegant accessories, hair in scholarly style",
+      "layer10": "cultured palace scholar silhouette"
+    },
+    "action": {
+      "pose": "writing calligraphy at desk",
+      "gesture": "holding brush in proper calligraphy grip",
+      "gaze": "focused on scroll",
+      "expression": "intellectual concentration"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-12",
+    "title": "錦繡織房・巧手繡娘",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "palace embroidery workshop",
+      "props": [
+        "embroidery frames with silk",
+        "colorful thread spools",
+        "partially finished embroidery",
+        "patterns and designs",
+        "natural light for work"
+      ],
+      "timeOfDay": "morning work hours",
+      "weather": "bright daylight through windows"
+    },
+    "costume": {
+      "layer1": "practical but elegant work foundation",
+      "layers": "embroiderer's refined working hanfu, practical accessories, work-appropriate elegance",
+      "layer10": "skilled artisan beauty silhouette"
+    },
+    "action": {
+      "pose": "seated at embroidery frame working",
+      "gesture": "hands doing delicate embroidery",
+      "gaze": "concentrated on needlework",
+      "expression": "focused artisan skill"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-13",
+    "title": "御花園遊・百花爭艷",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "imperial flower garden with diverse blooms",
+      "props": [
+        "various flowers in peak bloom",
+        "butterflies flying",
+        "garden paths",
+        "decorative rocks and ponds",
+        "colorful springtime"
+      ],
+      "timeOfDay": "late morning",
+      "weather": "perfect spring day"
+    },
+    "costume": {
+      "layer1": "multicolor floral foundation",
+      "layers": "vibrant spring hanfu with multiple flower embroideries, colorful accessories, festive garden party dress",
+      "layer10": "spring garden festival silhouette among flowers"
+    },
+    "action": {
+      "pose": "walking through garden with joy",
+      "gesture": "reaching toward butterflies",
+      "gaze": "delighted by nature",
+      "expression": "joyful spring celebration"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-14",
+    "title": "宮燈雅宴・元宵佳節",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "Lantern Festival celebration in palace",
+      "props": [
+        "elaborate lanterns everywhere",
+        "festival decorations",
+        "crowds in background",
+        "night festival atmosphere",
+        "colorful lights"
+      ],
+      "timeOfDay": "festival evening",
+      "weather": "festive night"
+    },
+    "costume": {
+      "layer1": "festive red and gold foundation",
+      "layers": "Lantern Festival celebratory hanfu, festive accessories, bright colors, joyful design",
+      "layer10": "festival celebration silhouette with lantern glow"
+    },
+    "action": {
+      "pose": "holding beautiful lantern",
+      "gesture": "admiring lantern in hands",
+      "gaze": "happy festival enjoyment",
+      "expression": "festive joy and excitement"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-15",
+    "title": "晨鐘暮鼓・禮佛虔誠",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "palace Buddhist temple hall",
+      "props": [
+        "Buddha statue",
+        "incense burning",
+        "prayer cushions",
+        "temple bells",
+        "sacred atmosphere"
+      ],
+      "timeOfDay": "early morning prayer",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "plain elegant white foundation",
+      "layers": "simple devout hanfu, minimal jewelry, respectful temple attire",
+      "layer10": "pious palace devotee silhouette"
+    },
+    "action": {
+      "pose": "kneeling in prayer position",
+      "gesture": "hands in prayer gesture",
+      "gaze": "eyes closed in meditation",
+      "expression": "serene spiritual devotion"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-16",
+    "title": "鳳凰來儀・祥瑞降臨",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "palace throne room during auspicious ceremony",
+      "props": [
+        "phoenix decorations everywhere",
+        "auspicious symbols",
+        "golden throne backdrop",
+        "ceremonial offerings",
+        "sacred atmosphere"
+      ],
+      "timeOfDay": "ceremonial midday",
+      "weather": "auspicious clear sky"
+    },
+    "costume": {
+      "layer1": "supreme phoenix-pattern foundation",
+      "layers": "maximum ceremonial phoenix regalia, most elaborate crown, supreme court dress",
+      "layer10": "supreme phoenix empress silhouette with ultimate grandeur"
+    },
+    "action": {
+      "pose": "receiving heavenly mandate pose",
+      "gesture": "ceremonial receiving gesture",
+      "gaze": "divine authority emanating",
+      "expression": "heavenly chosen empress"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-17",
+    "title": "雨後清音・曲江春漲",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "palace lake after spring rain",
+      "props": [
+        "rain-fresh scenery",
+        "water level risen",
+        "reflections in clear water",
+        "wet greenery",
+        "rainbow in distance"
+      ],
+      "timeOfDay": "after morning rain",
+      "weather": "clearing skies with rainbow"
+    },
+    "costume": {
+      "layer1": "fresh light-blue foundation",
+      "layers": "post-rain outing hanfu, water-inspired design, fresh clean appearance",
+      "layer10": "spring rain beauty silhouette with freshness"
+    },
+    "action": {
+      "pose": "standing by lakeside appreciating scenery",
+      "gesture": "pointing to rainbow",
+      "gaze": "admiring post-rain beauty",
+      "expression": "refreshed joy after rain"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-18",
+    "title": "絲竹悠揚・舞袖翩躚",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "palace performance stage",
+      "props": [
+        "stage with audience area",
+        "musicians playing",
+        "silk ribbons for dance",
+        "stage decorations",
+        "performance lighting"
+      ],
+      "timeOfDay": "evening performance",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "performance dance foundation",
+      "layers": "Tang Dynasty court dance costume, flowing sleeves for dance, ribbons, performance accessories",
+      "layer10": "court dancer mid-performance silhouette with motion"
+    },
+    "action": {
+      "pose": "mid-dance elegant pose",
+      "gesture": "sleeves creating graceful arcs",
+      "gaze": "performance artistry expression",
+      "expression": "dancing beauty and skill"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-19",
+    "title": "紫宸殿議・垂簾聽政",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "imperial audience hall behind curtain",
+      "props": [
+        "throne with semi-transparent curtain",
+        "court officials visible through curtain",
+        "formal meeting atmosphere",
+        "imperial authority symbols",
+        "serious governance setting"
+      ],
+      "timeOfDay": "court assembly time",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "authoritative purple-gold foundation",
+      "layers": "governance regalia, crown of authority, official court dress, commanding presence",
+      "layer10": "empress regent silhouette with political power"
+    },
+    "action": {
+      "pose": "seated on throne behind curtain",
+      "gesture": "commanding gesture of decision",
+      "gaze": "powerful ruling presence",
+      "expression": "serious political authority"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "tang-daming-20",
+    "title": "盛唐氣象・天下繁華",
+    "categoryId": "tang-daming-palace",
+    "scene": {
+      "location": "grand overview of Daming Palace at its peak",
+      "props": [
+        "magnificent architecture visible",
+        "prosperous atmosphere",
+        "golden age prosperity",
+        "all palace beauty combined",
+        "Tang Dynasty zenith glory"
+      ],
+      "timeOfDay": "golden age perfect moment",
+      "weather": "glorious sunshine"
+    },
+    "costume": {
+      "layer1": "ultimate Tang Dynasty foundation",
+      "layers": "supreme combination of all Tang elements, maximum historical accuracy and grandeur, peak imperial regalia",
+      "layer10": "ultimate Tang Dynasty empress silhouette representing peak civilization"
+    },
+    "action": {
+      "pose": "supreme imperial presence overlooking prosperity",
+      "gesture": "gesture encompassing all empire",
+      "gaze": "visionary empress surveying golden age",
+      "expression": "ultimate Tang Dynasty glory personified"
+    },
+    "style": "photorealistic"
+  }
+]

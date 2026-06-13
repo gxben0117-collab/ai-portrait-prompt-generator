@@ -1,0 +1,584 @@
+[
+  {
+    "id": "fallen-angel-01",
+    "title": "墮羽哀歌・黑翼墮天使",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "collapsed gothic cathedral with sunlight piercing through broken ceiling",
+      "props": [
+        "massive black feathered wings",
+        "scattered falling black feathers",
+        "broken stone pillars",
+        "shattered stained glass on floor",
+        "burned sacred cloth remnants",
+        "silver armor fragments",
+        "ash particles floating in light beams"
+      ],
+      "timeOfDay": "late afternoon with dramatic light beams",
+      "weather": "dusty atmosphere with ash"
+    },
+    "costume": {
+      "layer1": "cold white silk inner layer with black shadow veil",
+      "layers": "torn sacred white robe with black accents, silver holy armor fragments attached, gothic embroidery details, remnant wing cape draping from shoulders",
+      "layer10": "cinematic fallen angel silhouette with massive black wings spread, sacred destruction aesthetic"
+    },
+    "action": {
+      "pose": "kneeling on one knee with wings spread behind",
+      "gesture": "one hand touching broken stone floor",
+      "gaze": "looking up toward broken ceiling with anguish",
+      "expression": "divine sorrow and fallen grace"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-02",
+    "title": "聖光破碎・灰燼之翼",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "ruined temple altar with moonlight streaming through collapsed roof",
+      "props": [
+        "destroyed altar with broken religious symbols",
+        "black feathers mixed with ash on ground",
+        "cracked stone architecture",
+        "moonlight creating god rays through ruins",
+        "sacred fire still burning weakly"
+      ],
+      "timeOfDay": "midnight with full moon",
+      "weather": "cold clear night with mist"
+    },
+    "costume": {
+      "layer1": "black and white contrasting foundation",
+      "layers": "black-white divided sacred robe, oxidized silver armor pieces, gothic chains, ash-covered fabric showing wear and battle damage",
+      "layer10": "dramatic fallen warrior silhouette with wings folded, divine destruction mood"
+    },
+    "action": {
+      "pose": "standing with wings partially folded, looking at ruined altar",
+      "gesture": "holding broken holy sword pointed downward",
+      "gaze": "downcast eyes showing regret and loss",
+      "expression": "stoic acceptance of fallen state"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-03",
+    "title": "黯夜墮落・殘翼天使",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "gothic cathedral ruins at night with storm clouds",
+      "props": [
+        "lightning illuminating broken architecture",
+        "rain-soaked black feathers",
+        "destroyed holy statues",
+        "broken stained glass shards reflecting light",
+        "gothic arches still standing"
+      ],
+      "timeOfDay": "stormy night",
+      "weather": "heavy rain and lightning"
+    },
+    "costume": {
+      "layer1": "wet white fabric clinging to form",
+      "layers": "rain-soaked torn robes, heavy black feather cape, damaged silver armor with rain streaming off, gothic accessories",
+      "layer10": "dramatic stormy fallen angel silhouette with rain and lightning effects"
+    },
+    "action": {
+      "pose": "standing defiantly in rain with wings spread wide",
+      "gesture": "arms outstretched toward stormy sky",
+      "gaze": "looking up at lightning with defiance",
+      "expression": "rebellious fallen angel fury"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-04",
+    "title": "晨曦墮落・銀羽破曉",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "mountain cliff edge at dawn with ruins below",
+      "props": [
+        "dawn light breaking through storm clouds",
+        "massive silver-black wings catching first light",
+        "ancient ruins in valley below",
+        "broken halo fragments floating",
+        "cliff edge with dramatic drop"
+      ],
+      "timeOfDay": "dawn breaking after storm",
+      "weather": "clearing storm with first light"
+    },
+    "costume": {
+      "layer1": "dawn-touched white with black shadows",
+      "layers": "battle-worn sacred armor, torn white-silver robes, wing cape transitioning silver to black, gothic belt and chains",
+      "layer10": "cliff edge silhouette with wings spread against dawn sky"
+    },
+    "action": {
+      "pose": "standing at cliff edge ready to leap",
+      "gesture": "arms spread wide preparing for flight",
+      "gaze": "looking at distant horizon with determination",
+      "expression": "acceptance and new fallen purpose"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-05",
+    "title": "血月祭典・墮天之冠",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "ruined throne room under blood moon",
+      "props": [
+        "blood moon visible through destroyed ceiling",
+        "broken throne with black feathers",
+        "fallen crown on ground",
+        "red moonlight casting dramatic shadows",
+        "gothic architecture in decay"
+      ],
+      "timeOfDay": "blood moon night",
+      "weather": "clear with blood moon"
+    },
+    "costume": {
+      "layer1": "blood-red and black foundation",
+      "layers": "regal fallen angel robes, black feather cloak, corrupted silver crown pieces, blood-red accent fabrics",
+      "layer10": "throne room fallen royalty silhouette with blood moon backdrop"
+    },
+    "action": {
+      "pose": "sitting on broken throne with authority",
+      "gesture": "holding fallen crown contemplatively",
+      "gaze": "staring at crown with complex emotions",
+      "expression": "fallen royal pride and melancholy"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-06",
+    "title": "深淵邊緣・暗翼審判",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "edge of dark abyss with swirling darkness below",
+      "props": [
+        "bottomless dark abyss",
+        "black wings with purple-dark shimmer",
+        "floating black feathers falling into void",
+        "broken chains hanging over edge",
+        "purple-black energy swirls"
+      ],
+      "timeOfDay": "timeless dark realm",
+      "weather": "void atmosphere with dark energy"
+    },
+    "costume": {
+      "layer1": "void-black with purple shadows",
+      "layers": "abyss-touched robes, black armor with purple glow, wing cape absorbing light, void accessories",
+      "layer10": "abyss edge silhouette with wings and void energy"
+    },
+    "action": {
+      "pose": "standing at abyss edge with wings half-spread",
+      "gesture": "one hand reaching toward void",
+      "gaze": "staring into abyss with fascination",
+      "expression": "darkness calling and fallen curiosity"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-07",
+    "title": "戰場廢墟・折翼戰神",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "ancient battlefield ruins with holy war aftermath",
+      "props": [
+        "battlefield covered with broken holy weapons",
+        "damaged black wings with visible tears",
+        "burning remains of sacred banners",
+        "smoke and ash filling air",
+        "broken celestial armor scattered"
+      ],
+      "timeOfDay": "dusk after battle",
+      "weather": "smoke and ash thick atmosphere"
+    },
+    "costume": {
+      "layer1": "battle-stained white and black",
+      "layers": "heavily damaged battle armor, torn wing cape showing injuries, battle-worn robes, blood and ash stains",
+      "layer10": "warrior aftermath silhouette with damaged wings"
+    },
+    "action": {
+      "pose": "kneeling exhausted on battlefield",
+      "gesture": "sword planted in ground for support",
+      "gaze": "surveying battlefield destruction",
+      "expression": "battle-worn fallen warrior resolve"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-08",
+    "title": "冰封神殿・霜翼墮天",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "frozen temple interior with ice formations",
+      "props": [
+        "ice-covered gothic architecture",
+        "frozen black wings with ice crystals",
+        "ice-covered holy relics",
+        "cold blue light through ice",
+        "frozen waterfall backdrop"
+      ],
+      "timeOfDay": "eternal frozen twilight",
+      "weather": "frozen temple atmosphere"
+    },
+    "costume": {
+      "layer1": "ice-white with black frost accents",
+      "layers": "cold-adapted robes, ice crystal armor pieces, frost-covered wing cape, frozen gothic accessories",
+      "layer10": "frozen temple silhouette with crystalline wings"
+    },
+    "action": {
+      "pose": "standing frozen in contemplative pose",
+      "gesture": "touching ice-covered relic gently",
+      "gaze": "reflecting on frozen past",
+      "expression": "cold preservation of fallen memories"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-09",
+    "title": "火焰審判・燃燼之翼",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "burning cathedral with falling embers",
+      "props": [
+        "cathedral engulfed in holy fire",
+        "black wings with fire-orange glow",
+        "burning sacred texts falling",
+        "embers and ash rising",
+        "melting stained glass"
+      ],
+      "timeOfDay": "night with fire illumination",
+      "weather": "heat haze and smoke"
+    },
+    "costume": {
+      "layer1": "fire-resistant black-orange foundation",
+      "layers": "fire-touched robes with burn marks, heat-darkened armor, wing cape with ember glow, flame accessories",
+      "layer10": "burning cathedral silhouette with fire wings"
+    },
+    "action": {
+      "pose": "walking through flames untouched",
+      "gesture": "arms spread embracing destruction",
+      "gaze": "watching sacred fire with acceptance",
+      "expression": "purification through fallen fire"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-10",
+    "title": "地獄之門・冥界守護",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "massive hell gate with dark energy",
+      "props": [
+        "gothic hell gate architecture",
+        "dark energy pouring from gate",
+        "black wings framing gate",
+        "skull and gothic decorations",
+        "purple-black flames"
+      ],
+      "timeOfDay": "eternal underworld darkness",
+      "weather": "underworld dark energy atmosphere"
+    },
+    "costume": {
+      "layer1": "underworld black with purple veins",
+      "layers": "hell guardian robes, black armor with purple glow, massive wing cape, underworld crown",
+      "layer10": "hell gate guardian silhouette with wings and crown"
+    },
+    "action": {
+      "pose": "standing guard before hell gate",
+      "gesture": "holding infernal staff of authority",
+      "gaze": "watchful guardian eyes",
+      "expression": "fallen guardian eternal duty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-11",
+    "title": "聖骸教堂・亡靈之翼",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "ossuary chapel with bones and skulls",
+      "props": [
+        "walls decorated with bones",
+        "black wings among skeletal remains",
+        "candlelight casting bone shadows",
+        "gothic bone architecture",
+        "sacred death atmosphere"
+      ],
+      "timeOfDay": "candlelit eternal night",
+      "weather": "still ossuary air"
+    },
+    "costume": {
+      "layer1": "bone-white with black decay",
+      "layers": "death priest robes, bone-decorated armor, wing cape with skeletal patterns, skull accessories",
+      "layer10": "ossuary silhouette with death and wings"
+    },
+    "action": {
+      "pose": "praying among bones with wings folded",
+      "gesture": "hands in prayer position",
+      "gaze": "contemplating mortality and fall",
+      "expression": "fallen acceptance of death's beauty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-12",
+    "title": "星空墮落・宇宙之翼",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "floating ruins in cosmic void with stars",
+      "props": [
+        "ruined temple floating in space",
+        "cosmic starfield background",
+        "black wings with starlight reflection",
+        "floating debris and meteors",
+        "nebula colors in distance"
+      ],
+      "timeOfDay": "cosmic eternal",
+      "weather": "void of space atmosphere"
+    },
+    "costume": {
+      "layer1": "cosmic black with star shimmer",
+      "layers": "space-fallen robes, cosmic armor, wing cape reflecting starlight, celestial fallen accessories",
+      "layer10": "cosmic void silhouette with wings among stars"
+    },
+    "action": {
+      "pose": "floating in zero gravity with wings spread",
+      "gesture": "reaching toward distant nebula",
+      "gaze": "looking at infinite cosmos",
+      "expression": "cosmic scale fallen contemplation"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-13",
+    "title": "破曉之戰・光暗對決",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "border between light and darkness realms",
+      "props": [
+        "light realm and dark realm splitting scene",
+        "black wings touching light boundary",
+        "holy and unholy energy clashing",
+        "torn reality showing both worlds",
+        "dramatic light-dark contrast"
+      ],
+      "timeOfDay": "eternal boundary moment",
+      "weather": "reality-torn atmosphere"
+    },
+    "costume": {
+      "layer1": "half-light half-dark split design",
+      "layers": "divided realm robes, light-dark armor split, wing cape showing both sides, boundary accessories",
+      "layer10": "boundary warrior silhouette between two realms"
+    },
+    "action": {
+      "pose": "standing at realm boundary with power",
+      "gesture": "controlling both light and dark energy",
+      "gaze": "mastering both realms",
+      "expression": "fallen power transcending boundaries"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-14",
+    "title": "地下墓穴・暗影統治",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "ancient catacombs with gothic arches",
+      "props": [
+        "endless gothic catacombs",
+        "black wings filling corridor",
+        "torch-lit darkness",
+        "ancient tombs and sarcophagi",
+        "shadow servants lurking"
+      ],
+      "timeOfDay": "eternal catacomb darkness",
+      "weather": "underground cold and damp"
+    },
+    "costume": {
+      "layer1": "shadow-black with tomb dust",
+      "layers": "catacomb lord robes, ancient dark armor, wing cape dragging on ground, underground crown",
+      "layer10": "catacomb ruler silhouette with wings in darkness"
+    },
+    "action": {
+      "pose": "walking through catacombs with authority",
+      "gesture": "commanding shadow servants",
+      "gaze": "surveying underground kingdom",
+      "expression": "fallen underground sovereignty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-15",
+    "title": "毒蛇教堂・禁忌之翼",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "corrupted church with serpent motifs",
+      "props": [
+        "snake-corrupted architecture",
+        "serpents coiling around wings",
+        "poisonous green mist",
+        "corrupted holy symbols",
+        "toxic gothic atmosphere"
+      ],
+      "timeOfDay": "toxic twilight",
+      "weather": "poisonous mist atmosphere"
+    },
+    "costume": {
+      "layer1": "poison-green with black corruption",
+      "layers": "serpent-adorned robes, toxic armor with scales, wing cape with snake patterns, venom accessories",
+      "layer10": "serpent temple silhouette with poisonous wings"
+    },
+    "action": {
+      "pose": "throne sitting with serpents around",
+      "gesture": "stroking serpent familiar",
+      "gaze": "toxic forbidden knowledge eyes",
+      "expression": "fallen forbidden power embrace"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-16",
+    "title": "暴風祭壇・雷翼墮神",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "mountain peak altar during thunderstorm",
+      "props": [
+        "lightning striking altar constantly",
+        "black wings conducting electricity",
+        "storm clouds swirling overhead",
+        "destroyed weather control artifacts",
+        "electric purple-blue energy"
+      ],
+      "timeOfDay": "storm apocalypse",
+      "weather": "violent thunderstorm"
+    },
+    "costume": {
+      "layer1": "electric-charged black-purple foundation",
+      "layers": "storm-resistant robes, lightning-scarred armor, electrically charged wing cape, storm crown",
+      "layer10": "storm altar silhouette with lightning wings"
+    },
+    "action": {
+      "pose": "standing in lightning with arms raised",
+      "gesture": "channeling storm power through body",
+      "gaze": "eyes glowing with storm energy",
+      "expression": "fallen storm god power"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-17",
+    "title": "鏡界迷宮・幻翼重影",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "infinite mirror labyrinth with reflections",
+      "props": [
+        "endless mirror surfaces",
+        "infinite wing reflections",
+        "broken mirror shards floating",
+        "reality distortion effects",
+        "multiple self-reflections"
+      ],
+      "timeOfDay": "mirror realm timeless",
+      "weather": "reflection dimension atmosphere"
+    },
+    "costume": {
+      "layer1": "mirror-reflective black-silver",
+      "layers": "reflection-shifting robes, mirror-shard armor, wing cape with infinite reflections, illusion accessories",
+      "layer10": "mirror labyrinth silhouette with multiple wing reflections"
+    },
+    "action": {
+      "pose": "surrounded by mirror reflections",
+      "gesture": "touching multiple mirror surfaces",
+      "gaze": "looking at infinite fallen selves",
+      "expression": "fallen identity fragmentation"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-18",
+    "title": "血色玫瑰・荊棘聖殿",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "rose cathedral with thorns everywhere",
+      "props": [
+        "red roses covering ruins",
+        "black wings caught in thorns",
+        "blood-red petals falling",
+        "gothic rose vines on walls",
+        "beauty and pain combined"
+      ],
+      "timeOfDay": "rose garden twilight",
+      "weather": "petal rain atmosphere"
+    },
+    "costume": {
+      "layer1": "blood-red with black thorn patterns",
+      "layers": "rose-thorn robes, thorn-crown armor, wing cape adorned with roses, thorned accessories",
+      "layer10": "rose cathedral silhouette with thorned wings"
+    },
+    "action": {
+      "pose": "standing among roses and thorns",
+      "gesture": "holding blood-red rose gently",
+      "gaze": "contemplating beauty in pain",
+      "expression": "fallen beauty through suffering"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-19",
+    "title": "時間盡頭・永恆墮天",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "end of time with decaying universe",
+      "props": [
+        "crumbling space-time fabric",
+        "ancient black wings weathered by eons",
+        "dying stars in background",
+        "time itself visibly breaking down",
+        "entropy and ending everywhere"
+      ],
+      "timeOfDay": "universe's final moments",
+      "weather": "end of time atmosphere"
+    },
+    "costume": {
+      "layer1": "time-worn ancient black-gray",
+      "layers": "eon-weathered robes, ancient rusted armor, eternally old wing cape, timeless artifacts",
+      "layer10": "end of time silhouette with ancient wings"
+    },
+    "action": {
+      "pose": "sitting exhausted at time's end",
+      "gesture": "watching universe die peacefully",
+      "gaze": "eternal weariness and acceptance",
+      "expression": "fallen witness to all time ending"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "fallen-angel-20",
+    "title": "重生涅槃・墮天歸來",
+    "categoryId": "fallen-angel",
+    "scene": {
+      "location": "rebirth chamber with new and old energies",
+      "props": [
+        "phoenix fire and dark energy merging",
+        "black wings transforming with light edges",
+        "destroyed and renewed elements combined",
+        "rebirth circle with gothic symbols",
+        "ultimate transformation moment"
+      ],
+      "timeOfDay": "rebirth eternal moment",
+      "weather": "transformation energy atmosphere"
+    },
+    "costume": {
+      "layer1": "transforming black-white-gold foundation",
+      "layers": "rebirth robes combining all elements, evolved armor, wings showing light-dark fusion, ultimate transformation accessories",
+      "layer10": "ultimate rebirth silhouette - fallen angel reborn into new being"
+    },
+    "action": {
+      "pose": "emerging from rebirth with new power",
+      "gesture": "wings spreading with combined light and dark",
+      "gaze": "eyes showing transcendence achieved",
+      "expression": "ultimate fallen angel evolution - neither pure angel nor pure demon but something beyond"
+    },
+    "style": "photorealistic"
+  }
+]

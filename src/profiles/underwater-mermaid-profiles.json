@@ -1,0 +1,602 @@
+[
+  {
+    "id": "underwater-mermaid-01",
+    "title": "珊瑚宮殿・海底王座",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "magnificent coral palace throne room underwater",
+      "props": [
+        "coral throne encrusted with pearls",
+        "bioluminescent coral architecture",
+        "schools of tropical fish swimming",
+        "sea anemones and underwater plants",
+        "rays of sunlight filtering through water",
+        "underwater palace grandeur"
+      ],
+      "timeOfDay": "underwater afternoon with sunbeams",
+      "weather": "clear ocean with perfect visibility"
+    },
+    "costume": {
+      "layer1": "iridescent scales foundation in ocean colors",
+      "layers": "mermaid tail with shimmering scales, seashell bikini top adorned with pearls, coral crown, pearl jewelry, underwater royalty styling",
+      "layer10": "mermaid queen silhouette on coral throne"
+    },
+    "action": {
+      "pose": "sitting regally on coral throne with tail elegantly positioned",
+      "gesture": "holding pearl scepter with royal authority",
+      "gaze": "surveying underwater kingdom with sovereignty",
+      "expression": "mermaid royalty grace and ocean majesty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-02",
+    "title": "海豚共舞・深海芭蕾",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "open ocean with dolphin pod swimming together",
+      "props": [
+        "playful dolphins circling mermaid",
+        "sunlight creating underwater stage",
+        "bubbles from dolphin play",
+        "clear blue ocean water",
+        "marine mammal interaction",
+        "joyful ocean dance"
+      ],
+      "timeOfDay": "midday underwater brightness",
+      "weather": "perfect ocean conditions"
+    },
+    "costume": {
+      "layer1": "playful blue-green scales foundation",
+      "layers": "athletic mermaid tail for swimming, simple shell accessories, flowing hair underwater, dolphin-companion styling",
+      "layer10": "dancing mermaid silhouette with dolphins"
+    },
+    "action": {
+      "pose": "swimming gracefully alongside dolphins",
+      "gesture": "reaching out to touch dolphin companion",
+      "gaze": "joyful interaction with marine friends",
+      "expression": "playful mermaid happiness and ocean harmony"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-03",
+    "title": "沉船寶藏・探險發現",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "ancient shipwreck on ocean floor with treasure",
+      "props": [
+        "sunken pirate ship covered in barnacles",
+        "treasure chests spilling gold and jewels",
+        "ancient artifacts scattered",
+        "mysterious underwater archaeology",
+        "adventure discovery atmosphere",
+        "historical shipwreck"
+      ],
+      "timeOfDay": "mysterious underwater exploration",
+      "weather": "slightly murky with mystery"
+    },
+    "costume": {
+      "layer1": "adventurous scales foundation",
+      "layers": "practical explorer mermaid tail, simple accessories, treasure pouch, adventurer styling with found jewels",
+      "layer10": "treasure hunter mermaid silhouette exploring wreck"
+    },
+    "action": {
+      "pose": "examining treasure chest with curiosity",
+      "gesture": "holding ancient artifact discovered",
+      "gaze": "fascinated by sunken treasure",
+      "expression": "mermaid explorer wonder and discovery excitement"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-04",
+    "title": "月光之池・水面邂逅",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "ocean surface under full moon with mermaid emerging",
+      "props": [
+        "full moon reflected on calm water",
+        "mermaid breaking water surface",
+        "moonlight creating magical atmosphere",
+        "stars visible above",
+        "romantic ocean night",
+        "surface world glimpse"
+      ],
+      "timeOfDay": "romantic moonlit night",
+      "weather": "calm sea with perfect moon"
+    },
+    "costume": {
+      "layer1": "moonlight-silver scales foundation",
+      "layers": "elegant mermaid tail catching moonlight, shell accessories with silver sheen, wet hair clinging beautifully, romantic styling",
+      "layer10": "emerging mermaid silhouette in moonlight"
+    },
+    "action": {
+      "pose": "emerging gracefully from water gazing at moon",
+      "gesture": "reaching toward moon with longing",
+      "gaze": "yearning for surface world",
+      "expression": "romantic mermaid longing and moonlight dreaming"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-05",
+    "title": "海草森林・綠色秘境",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "dense kelp forest with underwater forest atmosphere",
+      "props": [
+        "towering kelp stalks swaying",
+        "sea otters and small fish",
+        "filtered green light through kelp",
+        "underwater forest ecosystem",
+        "mysterious green depths",
+        "kelp forest sanctuary"
+      ],
+      "timeOfDay": "filtered green forest light",
+      "weather": "gentle ocean currents moving kelp"
+    },
+    "costume": {
+      "layer1": "forest-green scales foundation",
+      "layers": "camouflaged mermaid tail in kelp colors, seaweed accessories, natural forest styling, kelp-dweller adaptation",
+      "layer10": "forest mermaid silhouette among kelp"
+    },
+    "action": {
+      "pose": "gliding through kelp forest gracefully",
+      "gesture": "parting kelp to move through",
+      "gaze": "navigating underwater forest",
+      "expression": "kelp forest mermaid peace and natural harmony"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-06",
+    "title": "珍珠採集・貝殼寶石",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "oyster bed with mermaid harvesting pearls",
+      "props": [
+        "giant oysters opening to reveal pearls",
+        "collection of harvested pearls",
+        "shell gardens on ocean floor",
+        "pearl-diving activity",
+        "underwater resource gathering",
+        "ocean bounty scene"
+      ],
+      "timeOfDay": "working underwater afternoon",
+      "weather": "clear productive conditions"
+    },
+    "costume": {
+      "layer1": "practical work scales foundation",
+      "layers": "working mermaid tail, simple shell top, collection pouches for pearls, pearl diver styling",
+      "layer10": "pearl harvester mermaid silhouette working"
+    },
+    "action": {
+      "pose": "opening giant oyster to retrieve pearl",
+      "gesture": "carefully extracting precious pearl",
+      "gaze": "focused on pearl harvesting work",
+      "expression": "mermaid worker satisfaction and ocean harvest pride"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-07",
+    "title": "深海發光・螢光之舞",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "deep ocean with bioluminescent creatures",
+      "props": [
+        "glowing jellyfish floating everywhere",
+        "bioluminescent fish schools",
+        "deep sea glow in darkness",
+        "phosphorescent plankton",
+        "magical underwater lights",
+        "deep sea light show"
+      ],
+      "timeOfDay": "deep ocean eternal darkness with bioluminescence",
+      "weather": "deep sea environment"
+    },
+    "costume": {
+      "layer1": "bioluminescent scales foundation glowing",
+      "layers": "deep sea mermaid tail with glowing patterns, phosphorescent accessories, glowing hair tips, bioluminescent styling",
+      "layer10": "glowing mermaid silhouette in deep darkness"
+    },
+    "action": {
+      "pose": "swimming through bioluminescent jellyfish",
+      "gesture": "touching glowing creatures gently",
+      "gaze": "enchanted by deep sea lights",
+      "expression": "deep sea mermaid wonder and bioluminescent magic"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-08",
+    "title": "海龜守護・長壽之友",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "open ocean with ancient sea turtle",
+      "props": [
+        "massive ancient sea turtle swimming",
+        "turtle carrying barnacles and history",
+        "clear ocean for turtle watching",
+        "respectful marine life interaction",
+        "wisdom of the ocean",
+        "ancient companion"
+      ],
+      "timeOfDay": "peaceful underwater afternoon",
+      "weather": "serene ocean conditions"
+    },
+    "costume": {
+      "layer1": "wisdom-aged scales foundation",
+      "layers": "mature mermaid tail showing experience, traditional shell accessories, turtle-companion styling, guardian appearance",
+      "layer10": "guardian mermaid silhouette with ancient turtle"
+    },
+    "action": {
+      "pose": "swimming respectfully beside ancient turtle",
+      "gesture": "gentle hand on turtle shell in greeting",
+      "gaze": "respectful interaction with ocean elder",
+      "expression": "mermaid wisdom and ocean guardian bond"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-09",
+    "title": "海底火山・熱泉奇觀",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "underwater volcanic vent with unique ecosystem",
+      "props": [
+        "hydrothermal vents releasing hot water",
+        "unusual deep sea creatures",
+        "mineral deposits glowing",
+        "volcanic underwater landscape",
+        "extreme environment life",
+        "geological wonder"
+      ],
+      "timeOfDay": "volcanic eternal glow",
+      "weather": "extreme underwater conditions"
+    },
+    "costume": {
+      "layer1": "heat-resistant dark scales foundation",
+      "layers": "volcanic region mermaid tail with darker colors, mineral-encrusted accessories, extreme environment adaptation styling",
+      "layer10": "volcanic mermaid silhouette near vents"
+    },
+    "action": {
+      "pose": "navigating near volcanic vents carefully",
+      "gesture": "examining unusual vent creatures",
+      "gaze": "fascinated by extreme environment",
+      "expression": "volcanic explorer mermaid courage and geological wonder"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-10",
+    "title": "人魚之歌・音波魔法",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "underwater amphitheater with sound visualization",
+      "props": [
+        "sound waves visible in water",
+        "marine audience gathered",
+        "natural rock amphitheater",
+        "acoustic underwater space",
+        "mermaid song magic",
+        "musical performance"
+      ],
+      "timeOfDay": "performance twilight underwater",
+      "weather": "perfect acoustics"
+    },
+    "costume": {
+      "layer1": "performer scales foundation in vibrant colors",
+      "layers": "concert mermaid tail with decorative fins, performance accessories, musical styling, siren appearance",
+      "layer10": "singing mermaid silhouette with sound waves visible"
+    },
+    "action": {
+      "pose": "performing with arms spread singing",
+      "gesture": "conducting water with song magic",
+      "gaze": "lost in musical performance",
+      "expression": "mermaid singer passion and siren song power"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-11",
+    "title": "冰海美人・極地之舞",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "Arctic underwater ice formations",
+      "props": [
+        "ice ceiling above water",
+        "icebergs underwater portions",
+        "cold-water marine life",
+        "blue-white ice atmosphere",
+        "polar underwater world",
+        "Arctic beauty"
+      ],
+      "timeOfDay": "polar underwater light",
+      "weather": "freezing clear Arctic water"
+    },
+    "costume": {
+      "layer1": "ice-white with blue scales foundation",
+      "layers": "Arctic mermaid tail with white-blue coloring, ice crystal accessories, cold-adapted styling, polar beauty",
+      "layer10": "ice mermaid silhouette in Arctic waters"
+    },
+    "action": {
+      "pose": "swimming gracefully under ice ceiling",
+      "gesture": "touching ice formations gently",
+      "gaze": "adapted to polar environment",
+      "expression": "Arctic mermaid resilience and ice beauty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-12",
+    "title": "海馬騎士・波浪之主",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "open ocean with giant seahorse mount",
+      "props": [
+        "enormous rideable seahorse",
+        "seahorse reins and riding gear",
+        "open ocean for riding",
+        "noble seahorse steed",
+        "mounted mermaid warrior",
+        "cavalry of the sea"
+      ],
+      "timeOfDay": "riding patrol afternoon",
+      "weather": "clear ocean for riding"
+    },
+    "costume": {
+      "layer1": "warrior scales foundation",
+      "layers": "armored mermaid tail for combat, seahorse rider gear, warrior accessories, cavalry styling",
+      "layer10": "mounted mermaid silhouette on seahorse"
+    },
+    "action": {
+      "pose": "riding giant seahorse with command",
+      "gesture": "guiding seahorse mount through ocean",
+      "gaze": "patrolling ocean territory",
+      "expression": "seahorse cavalry pride and warrior mermaid authority"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-13",
+    "title": "珊瑚園丁・生態守護",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "coral reef garden being tended and restored",
+      "props": [
+        "healthy coral being planted",
+        "reef restoration tools",
+        "colorful reef fish returning",
+        "environmental care scene",
+        "ocean conservation",
+        "ecological healing"
+      ],
+      "timeOfDay": "restoration work afternoon",
+      "weather": "ideal coral growing conditions"
+    },
+    "costume": {
+      "layer1": "earth-toned scales foundation",
+      "layers": "working mermaid tail, gardening accessories adapted for underwater, conservationist styling, eco-guardian appearance",
+      "layer10": "gardener mermaid silhouette tending coral"
+    },
+    "action": {
+      "pose": "carefully planting coral fragments",
+      "gesture": "nurturing coral with gentle care",
+      "gaze": "focused on reef restoration",
+      "expression": "conservationist mermaid dedication and ecological love"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-14",
+    "title": "鯊魚同游・勇者之證",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "open ocean with shark pod swimming peacefully",
+      "props": [
+        "multiple sharks swimming calmly",
+        "fearless interaction visible",
+        "ocean predators as allies",
+        "mutual respect shown",
+        "apex predator companionship",
+        "courage demonstration"
+      ],
+      "timeOfDay": "brave afternoon swim",
+      "weather": "open ocean confidence"
+    },
+    "costume": {
+      "layer1": "fearless scales foundation",
+      "layers": "brave mermaid tail, minimal accessories for swimming freedom, warrior confidence styling, shark-sister appearance",
+      "layer10": "fearless mermaid silhouette among sharks"
+    },
+    "action": {
+      "pose": "swimming confidently among sharks",
+      "gesture": "touching shark fin in trust",
+      "gaze": "fearless eye contact with predators",
+      "expression": "apex mermaid courage and ocean mastery"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-15",
+    "title": "漩渦之心・水流主宰",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "underwater whirlpool with mermaid controlling currents",
+      "props": [
+        "massive water vortex spinning",
+        "current control magic visible",
+        "water manipulation displayed",
+        "powerful whirlpool center",
+        "elemental water mastery",
+        "current command"
+      ],
+      "timeOfDay": "power demonstration moment",
+      "weather": "magically controlled currents"
+    },
+    "costume": {
+      "layer1": "power-glowing scales foundation",
+      "layers": "magical mermaid tail with glowing patterns, water-bending accessories, sorceress styling, elemental power appearance",
+      "layer10": "water mage mermaid silhouette controlling whirlpool"
+    },
+    "action": {
+      "pose": "arms raised commanding water currents",
+      "gesture": "directing whirlpool with magical control",
+      "gaze": "focused on elemental manipulation",
+      "expression": "water magic mastery and elemental mermaid power"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-16",
+    "title": "寶石海葵・毒與美",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "anemone garden with dangerous beauty",
+      "props": [
+        "colorful but venomous anemones",
+        "clownfish among tentacles",
+        "dangerous beauty scene",
+        "toxic reef section",
+        "immunity demonstrated",
+        "poisonous garden"
+      ],
+      "timeOfDay": "dangerous beauty afternoon",
+      "weather": "vibrant but hazardous"
+    },
+    "costume": {
+      "layer1": "toxic-bright scales foundation",
+      "layers": "poison-immune mermaid tail with warning colors, anemone-style accessories, dangerous beauty styling, venom-adapted appearance",
+      "layer10": "toxic mermaid silhouette in anemone garden"
+    },
+    "action": {
+      "pose": "resting among venomous anemones safely",
+      "gesture": "touching poisonous tentacles without harm",
+      "gaze": "comfortable in dangerous environment",
+      "expression": "toxic beauty mermaid confidence and poisonous immunity"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-17",
+    "title": "古代遺跡・亞特蘭提斯",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "ruins of ancient underwater civilization",
+      "props": [
+        "sunken city architecture",
+        "ancient columns and temples",
+        "mysterious glyphs and symbols",
+        "lost civilization remnants",
+        "archaeological underwater site",
+        "legendary Atlantis"
+      ],
+      "timeOfDay": "mysterious ruin exploration",
+      "weather": "ancient atmosphere"
+    },
+    "costume": {
+      "layer1": "ancient-styled scales foundation",
+      "layers": "archaeologist mermaid tail, Atlantean artifacts as accessories, historian styling, ancient civilization connection",
+      "layer10": "scholar mermaid silhouette in ancient ruins"
+    },
+    "action": {
+      "pose": "studying ancient underwater architecture",
+      "gesture": "deciphering ancient glyphs",
+      "gaze": "unraveling lost civilization mysteries",
+      "expression": "archaeological mermaid fascination and historical discovery"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-18",
+    "title": "雷雨之下・暴風潛行",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "underwater during surface storm with chaos",
+      "props": [
+        "turbulent water from storm above",
+        "lightning illuminating underwater",
+        "violent wave action effects",
+        "storm survival scene",
+        "dangerous conditions",
+        "tempest underwater"
+      ],
+      "timeOfDay": "storm survival",
+      "weather": "violent surface storm affecting depths"
+    },
+    "costume": {
+      "layer1": "storm-grey scales foundation",
+      "layers": "storm-adapted mermaid tail, protective styling, tempest survivor appearance, battle-tested look",
+      "layer10": "storm mermaid silhouette in turbulent water"
+    },
+    "action": {
+      "pose": "struggling through storm-tossed water",
+      "gesture": "swimming powerfully against currents",
+      "gaze": "determined storm survival",
+      "expression": "tempest mermaid strength and storm endurance"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-19",
+    "title": "小丑魚媽媽・海底育兒",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "anemone home with baby mermaids and fish",
+      "props": [
+        "protective anemone home",
+        "baby mermaids playing",
+        "clownfish family nearby",
+        "nursery atmosphere",
+        "maternal care scene",
+        "family underwater life"
+      ],
+      "timeOfDay": "peaceful family afternoon",
+      "weather": "safe nurturing conditions"
+    },
+    "costume": {
+      "layer1": "maternal warm scales foundation",
+      "layers": "comfortable mother mermaid tail, practical family accessories, nurturing styling, protective parent appearance",
+      "layer10": "mother mermaid silhouette with young"
+    },
+    "action": {
+      "pose": "caring for baby mermaids tenderly",
+      "gesture": "protecting and teaching young",
+      "gaze": "maternal love and vigilance",
+      "expression": "mermaid mother devotion and family bond"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "underwater-mermaid-20",
+    "title": "人海兩界・永恆抉擇",
+    "categoryId": "underwater-mermaid",
+    "scene": {
+      "location": "border between underwater and surface world",
+      "props": [
+        "water surface visible above",
+        "legs transforming from tail or vice versa",
+        "both worlds visible simultaneously",
+        "transformation magic happening",
+        "ultimate choice moment",
+        "two-world boundary"
+      ],
+      "timeOfDay": "transformation twilight",
+      "weather": "magical boundary conditions"
+    },
+    "costume": {
+      "layer1": "transforming scales-to-skin foundation",
+      "layers": "tail becoming legs or legs becoming tail - transformation visible, magical styling, between-worlds appearance",
+      "layer10": "transforming mermaid silhouette at world boundary"
+    },
+    "action": {
+      "pose": "experiencing transformation between forms",
+      "gesture": "reaching toward chosen world",
+      "gaze": "making ultimate choice between sea and land",
+      "expression": "ultimate mermaid decision - choosing between ocean home and surface love, transformation completion, eternal choice made"
+    },
+    "style": "photorealistic"
+  }
+]

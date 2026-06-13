@@ -1,0 +1,582 @@
+[
+  {
+    "id": "succubus-01",
+    "title": "紫蝶夜宴魅魔・暗紫絲絨",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "dark purple velvet bedroom chamber with obsidian mirror",
+      "props": [
+        "obsidian mirror surface",
+        "amethyst wine glass",
+        "black rose arrangement",
+        "gothic carved screen",
+        "low candlelight"
+      ],
+      "timeOfDay": "midnight",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "luxury deep purple silk slip nightgown foundation, soft skin-close fabric",
+      "layers": "one-piece satin nightgown, deep V neckline, butterfly shoulder veil, jewel shoulder chain, flowing purple-black cape",
+      "layer10": "cinematic dark romantic silhouette with gothic luxury nightgown, purple satin and moon-silver veil, mature elegant presence"
+    },
+    "action": {
+      "pose": "seated on velvet chair with elegant posture",
+      "gesture": "one hand holding amethyst wine glass",
+      "gaze": "confident seductive eye contact with camera",
+      "expression": "mature mysterious smile"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-02",
+    "title": "血月魅影・深紅寢宮",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "crimson velvet chamber with blood moon window light",
+      "props": [
+        "blood moon high window",
+        "crimson velvet canopy bed",
+        "black crystal chandelier",
+        "gothic mirror frame",
+        "red candles with dark wax"
+      ],
+      "timeOfDay": "deep night",
+      "weather": "blood moon visible"
+    },
+    "costume": {
+      "layer1": "deep crimson silk foundation with black lace trim",
+      "layers": "crimson satin nightgown, off-shoulder design, black lace shawl, ruby jewelry, gothic waist chain",
+      "layer10": "blood moon vampire queen silhouette, crimson and black contrast, dramatic gothic elegance"
+    },
+    "action": {
+      "pose": "reclining on velvet chaise with one arm extended",
+      "gesture": "fingers trailing on velvet fabric",
+      "gaze": "intense direct stare with slight head tilt",
+      "expression": "dangerous alluring smile"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-03",
+    "title": "月夜玫瑰・黑紫雅韻",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "moonlit gothic bedroom with black rose garden view",
+      "props": [
+        "moonlight streaming through gothic windows",
+        "black rose bouquet in crystal vase",
+        "silver gothic candelabra",
+        "dark purple silk curtains",
+        "antique jewelry box"
+      ],
+      "timeOfDay": "late night",
+      "weather": "clear moonlit sky"
+    },
+    "costume": {
+      "layer1": "midnight black silk slip with silver embroidery",
+      "layers": "black-purple ombre nightgown, silver chain accessories, moonstone jewelry, flowing dark cape",
+      "layer10": "moonlit gothic enchantress silhouette, black and purple harmony, silver accents gleaming"
+    },
+    "action": {
+      "pose": "standing by window gazing at moon",
+      "gesture": "one hand touching black rose petals",
+      "gaze": "looking over shoulder toward camera",
+      "expression": "contemplative mysterious beauty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-04",
+    "title": "暗夜女王・紫晶寢殿",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "luxurious dark purple chamber with crystal chandelier",
+      "props": [
+        "amethyst crystal chandelier",
+        "velvet throne chair",
+        "gothic jewelry display",
+        "purple silk drapes",
+        "ornate mirror with golden frame"
+      ],
+      "timeOfDay": "midnight",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "royal purple silk foundation with golden trim",
+      "layers": "elaborate purple satin gown with train, golden jewelry, crown-like headdress, flowing cape with fur trim",
+      "layer10": "dark queen silhouette with regal purple and gold, commanding presence"
+    },
+    "action": {
+      "pose": "seated on throne with crossed legs",
+      "gesture": "one hand resting on armrest, other holding scepter",
+      "gaze": "powerful downward look at viewer",
+      "expression": "dominant queen authority"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-05",
+    "title": "絲絨蝴蝶・午夜綺夢",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "candlelit boudoir with butterfly motifs",
+      "props": [
+        "butterfly-patterned screens",
+        "candles in gothic holders",
+        "silk cushions",
+        "purple butterfly decorations",
+        "vintage perfume bottles"
+      ],
+      "timeOfDay": "late night",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "soft lavender silk slip",
+      "layers": "butterfly-wing shoulder cape, flowing purple nightgown, delicate chain jewelry, lace details",
+      "layer10": "ethereal butterfly enchantress silhouette with wing-like cape creating fantasy mood"
+    },
+    "action": {
+      "pose": "standing with arms slightly raised mimicking butterfly",
+      "gesture": "fingers delicately positioned as if wings spreading",
+      "gaze": "playful enchanting look",
+      "expression": "mischievous fairy-like smile"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-06",
+    "title": "深夜酒杯・誘惑之吻",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "intimate bar corner in gothic chamber",
+      "props": [
+        "wine bottles and crystal glasses",
+        "gothic bar furniture",
+        "dim red lighting",
+        "velvet bar stools",
+        "decorative wine rack"
+      ],
+      "timeOfDay": "after midnight",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "burgundy silk foundation",
+      "layers": "wine-red satin dress with slit, black lace overlay, ruby necklace, elegant gloves",
+      "layer10": "seductive bar enchantress silhouette with mature sophistication"
+    },
+    "action": {
+      "pose": "leaning against bar with hip tilted",
+      "gesture": "holding wine glass near lips",
+      "gaze": "inviting look over rim of glass",
+      "expression": "sultry knowing smile"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-07",
+    "title": "月光寢宮・銀紫魅影",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "moonlit chamber with silver and purple tones",
+      "props": [
+        "large moon visible through window",
+        "silver candelabras",
+        "purple silk bed",
+        "moonstone decorations",
+        "sheer curtains blowing"
+      ],
+      "timeOfDay": "full moon midnight",
+      "weather": "clear with moonlight"
+    },
+    "costume": {
+      "layer1": "silver-white silk foundation",
+      "layers": "purple-silver ombre gown, moonstone jewelry, flowing sheer cape, silver crown",
+      "layer10": "moonlight goddess silhouette with silver-purple harmony"
+    },
+    "action": {
+      "pose": "standing in moonlight with arms outstretched",
+      "gesture": "reaching toward moon through window",
+      "gaze": "looking at moon with longing",
+      "expression": "ethereal peaceful beauty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-08",
+    "title": "暗紅誘惑・夜宴主人",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "grand dining hall with gothic banquet setup",
+      "props": [
+        "long gothic dining table",
+        "red candles everywhere",
+        "wine goblets and decanters",
+        "gothic chairs",
+        "red rose centerpieces"
+      ],
+      "timeOfDay": "dinner midnight",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "dark red velvet foundation",
+      "layers": "formal banquet gown in dark red, elaborate necklace, long gloves, dramatic cape",
+      "layer10": "hostess of dark banquet silhouette with commanding elegance"
+    },
+    "action": {
+      "pose": "seated at head of table with regal posture",
+      "gesture": "gesturing welcome with open hand",
+      "gaze": "inviting guests with warm dangerous look",
+      "expression": "gracious hostess with hidden danger"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-09",
+    "title": "紫霧迷香・神秘寢室",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "chamber filled with purple incense smoke",
+      "props": [
+        "incense burners creating purple haze",
+        "mystical atmosphere",
+        "silk cushions on floor",
+        "purple candles",
+        "gothic decorations visible through mist"
+      ],
+      "timeOfDay": "deep night",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "sheer purple silk foundation",
+      "layers": "flowing translucent purple layers, minimal jewelry, loose hair with accessories",
+      "layer10": "mystical enchantress in purple haze silhouette"
+    },
+    "action": {
+      "pose": "reclining on cushions in relaxed pose",
+      "gesture": "hand playing with incense smoke",
+      "gaze": "dreamy half-closed eyes",
+      "expression": "intoxicated mysterious beauty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-10",
+    "title": "黑紗女神・午夜魅惑",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "dark chamber with black lace everywhere",
+      "props": [
+        "black lace curtains and drapes",
+        "gothic bed with black silk",
+        "silver accessories",
+        "dim candlelight",
+        "black crystals"
+      ],
+      "timeOfDay": "witching hour",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "black satin foundation",
+      "layers": "black lace gown with intricate patterns, silver jewelry, lace veil, dramatic sleeves",
+      "layer10": "black lace goddess silhouette with gothic romance"
+    },
+    "action": {
+      "pose": "standing with lace veil partially covering face",
+      "gesture": "one hand holding veil edge",
+      "gaze": "mysterious eyes visible through lace",
+      "expression": "hidden allure behind veil"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-11",
+    "title": "寶石魅影・紫晶珠寶",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "treasure room filled with jewels and purple gems",
+      "props": [
+        "amethyst crystals display",
+        "jewelry boxes open",
+        "velvet cushions",
+        "golden treasures",
+        "purple gemstones glowing"
+      ],
+      "timeOfDay": "night",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "purple silk with jewel embellishments",
+      "layers": "jewel-encrusted gown, multiple necklaces and bracelets, crown with gems, rings on fingers",
+      "layer10": "treasure queen silhouette covered in precious jewels"
+    },
+    "action": {
+      "pose": "surrounded by treasures in relaxed pose",
+      "gesture": "holding up amethyst to admire",
+      "gaze": "appreciating gem with satisfied look",
+      "expression": "possessive treasure guardian smile"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-12",
+    "title": "深紫迷蹤・神秘面紗",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "shadowy chamber with mysterious ambiance",
+      "props": [
+        "sheer veils hanging",
+        "purple shadows",
+        "gothic mirrors",
+        "mysterious lighting",
+        "silhouettes visible through fabric"
+      ],
+      "timeOfDay": "unknown mysterious time",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "dark purple foundation",
+      "layers": "layered sheer veils, mysterious accessories, face partially veiled, flowing fabrics",
+      "layer10": "mysterious veiled enchantress silhouette"
+    },
+    "action": {
+      "pose": "moving through veils creating dynamic layers",
+      "gesture": "hand pushing veil aside",
+      "gaze": "partially hidden mysterious eyes",
+      "expression": "enigmatic allure"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-13",
+    "title": "玫瑰暗香・黑紅魅姬",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "gothic rose garden at night indoors",
+      "props": [
+        "black and red roses everywhere",
+        "rose petals on floor",
+        "gothic planters",
+        "rose-scented candles",
+        "thorny vines decoration"
+      ],
+      "timeOfDay": "midnight in garden room",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "black-red gradient foundation",
+      "layers": "rose-patterned gown, thorn-like jewelry, rose crown, flowing black cape with red interior",
+      "layer10": "dark rose queen silhouette among gothic flowers"
+    },
+    "action": {
+      "pose": "standing among roses with arms raised",
+      "gesture": "holding black rose delicately",
+      "gaze": "dangerous beauty direct stare",
+      "expression": "beautiful but dangerous like rose with thorns"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-14",
+    "title": "絲絨夜后・暗紫華貴",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "luxurious velvet chamber with royal furnishings",
+      "props": [
+        "velvet everything - walls, furniture, drapes",
+        "golden accents",
+        "crystal decanters",
+        "plush carpet",
+        "ornate decorations"
+      ],
+      "timeOfDay": "late evening",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "rich purple velvet foundation",
+      "layers": "velvet gown with golden embroidery, fur trim, golden crown, luxurious jewelry",
+      "layer10": "wealthy noble enchantress silhouette dripping in luxury"
+    },
+    "action": {
+      "pose": "lounging on velvet sofa with confidence",
+      "gesture": "one arm draped over sofa back",
+      "gaze": "looking down with superior elegance",
+      "expression": "wealthy satisfied smirk"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-15",
+    "title": "水晶魅影・紫色奇境",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "chamber with purple crystal formations",
+      "props": [
+        "large amethyst crystals growing from floor",
+        "crystal reflections everywhere",
+        "purple glow from crystals",
+        "mystical atmosphere",
+        "crystal chandelier"
+      ],
+      "timeOfDay": "timeless crystal realm",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "crystal-embellished purple foundation",
+      "layers": "gown with crystal patterns, crystal jewelry, crown with crystals, reflecting light",
+      "layer10": "crystal sorceress silhouette glowing with purple magic"
+    },
+    "action": {
+      "pose": "standing among crystals with mystical energy",
+      "gesture": "touching crystal with glowing hand",
+      "gaze": "eyes glowing with crystal power",
+      "expression": "supernatural crystal magic wielder"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-16",
+    "title": "暗夜蕾絲・哥德芭蕾",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "gothic ballet practice room",
+      "props": [
+        "ballet barre with gothic design",
+        "mirrors with ornate frames",
+        "purple stage lighting",
+        "velvet floor",
+        "gothic arch windows"
+      ],
+      "timeOfDay": "evening practice",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "black ballet-inspired foundation",
+      "layers": "gothic ballet costume with lace, black tutu with purple, ballet shoes, crown",
+      "layer10": "dark ballet enchantress silhouette combining grace and gothic"
+    },
+    "action": {
+      "pose": "ballet pose on pointe",
+      "gesture": "arms in graceful ballet position",
+      "gaze": "elegant ballet performer look",
+      "expression": "focused artistic beauty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-17",
+    "title": "紫焰魅姬・暗火女王",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "chamber with purple magical flames",
+      "props": [
+        "purple fire burning in gothic braziers",
+        "magical flame effects",
+        "dark stone walls",
+        "flame-lit shadows",
+        "mystical purple glow"
+      ],
+      "timeOfDay": "eternal night",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "flame-resistant dark foundation",
+      "layers": "fire-themed purple gown, flame-pattern embroidery, heat-glow jewelry, flowing cape",
+      "layer10": "fire sorceress silhouette with purple flames dancing around"
+    },
+    "action": {
+      "pose": "commanding flames with outstretched arms",
+      "gesture": "conjuring purple fire in hands",
+      "gaze": "powerful fire magic wielder stare",
+      "expression": "confident dark magic user"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-18",
+    "title": "午夜圖書・神秘學者",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "gothic library with ancient books",
+      "props": [
+        "towering bookshelves",
+        "ancient tomes open",
+        "reading desk with candles",
+        "gothic architecture",
+        "mystical books glowing"
+      ],
+      "timeOfDay": "late night study",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "scholarly purple robe foundation",
+      "layers": "elegant scholar robe, reading glasses, book-keeper accessories, comfortable elegance",
+      "layer10": "intellectual dark scholar silhouette among ancient knowledge"
+    },
+    "action": {
+      "pose": "seated at desk reading ancient book",
+      "gesture": "one hand turning page, other holding glasses",
+      "gaze": "concentrated on mystical text",
+      "expression": "scholarly fascination"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-19",
+    "title": "紫羅蘭夢・花園幽會",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "midnight garden with purple flowers",
+      "props": [
+        "violet flowers blooming at night",
+        "garden bench",
+        "moonlight garden path",
+        "night-blooming flowers",
+        "garden fountain"
+      ],
+      "timeOfDay": "midnight garden walk",
+      "weather": "clear moonlit night"
+    },
+    "costume": {
+      "layer1": "violet silk foundation",
+      "layers": "garden gown in purple florals, flower accessories, flowing outdoor cape, garden party elegance",
+      "layer10": "garden enchantress silhouette among midnight flowers"
+    },
+    "action": {
+      "pose": "walking through garden touching flowers",
+      "gesture": "gently holding violet flowers",
+      "gaze": "admiring night-blooming beauty",
+      "expression": "serene garden goddess"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "succubus-20",
+    "title": "暗夜女神・終極魅惑",
+    "categoryId": "succubus-banquet",
+    "scene": {
+      "location": "grand gothic throne room with all elements combined",
+      "props": [
+        "massive throne",
+        "purple and black décor everywhere",
+        "candles and crystals",
+        "gothic architecture at peak",
+        "all previous elements combined in grandeur"
+      ],
+      "timeOfDay": "peak midnight",
+      "weather": null
+    },
+    "costume": {
+      "layer1": "ultimate luxury purple-black foundation",
+      "layers": "supreme gothic gown combining all best elements, maximum jewelry, grand cape, ultimate crown",
+      "layer10": "supreme dark enchantress silhouette - the ultimate succubus queen"
+    },
+    "action": {
+      "pose": "seated on throne with absolute authority",
+      "gesture": "commanding gesture from throne",
+      "gaze": "supreme powerful goddess stare",
+      "expression": "ultimate dark queen authority and allure"
+    },
+    "style": "photorealistic"
+  }
+]

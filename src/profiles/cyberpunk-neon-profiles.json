@@ -1,0 +1,602 @@
+[
+  {
+    "id": "cyberpunk-neon-01",
+    "title": "霓虹街頭・賽博武士",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "neon-lit cyberpunk street with rain reflections",
+      "props": [
+        "massive holographic advertisements everywhere",
+        "neon signs in multiple languages",
+        "wet streets reflecting neon colors",
+        "flying cars in background",
+        "cybernetic vendors and crowds",
+        "iconic blade-runner atmosphere"
+      ],
+      "timeOfDay": "eternal cyberpunk night",
+      "weather": "neon-reflecting rain"
+    },
+    "costume": {
+      "layer1": "tech-enhanced bodysuit foundation",
+      "layers": "cyberpunk streetwear with LED accents, holographic fabric elements, tech accessories visible, cyber-samurai aesthetic",
+      "layer10": "neon warrior silhouette in rain-soaked street"
+    },
+    "action": {
+      "pose": "standing in neon rain with cyber-katana",
+      "gesture": "hand on weapon with tech-enhanced reflexes",
+      "gaze": "scanning cyberpunk street with enhanced eyes",
+      "expression": "cyber-warrior alertness and neon-city toughness"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-02",
+    "title": "數據駭客・矩陣潛行",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "hacker den with multiple holographic screens",
+      "props": [
+        "floating holographic code everywhere",
+        "cyberdeck interface active",
+        "data streams visible in AR",
+        "multiple screens showing hacking progress",
+        "underground hacker hideout",
+        "digital infiltration in progress"
+      ],
+      "timeOfDay": "timeless digital realm",
+      "weather": "virtual space atmosphere"
+    },
+    "costume": {
+      "layer1": "neural-interface bodysuit foundation",
+      "layers": "hacker attire with visible data ports, AR glasses or neural jack, tech-wire accessories, digital infiltrator styling",
+      "layer10": "cyber-hacker silhouette surrounded by holographic data"
+    },
+    "action": {
+      "pose": "seated at cyberdeck in hacking trance",
+      "gesture": "hands manipulating holographic interfaces",
+      "gaze": "eyes glowing with neural connection active",
+      "expression": "digital trance and hacker concentration"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-03",
+    "title": "機械義體・全身改造",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "cybernetic clinic with body modification",
+      "props": [
+        "robotic limbs being installed",
+        "holographic body scan showing cybernetics",
+        "surgical robots working",
+        "tech enhancement display",
+        "body modification chamber",
+        "human-machine fusion"
+      ],
+      "timeOfDay": "clinical cyber-enhancement session",
+      "weather": "sterile tech facility"
+    },
+    "costume": {
+      "layer1": "partially cybernetic body showing mods",
+      "layers": "minimal clothing showing extensive body mods, visible mechanical limbs, glowing tech implants, cyborg aesthetic",
+      "layer10": "cyborg transformation silhouette with extensive modifications"
+    },
+    "action": {
+      "pose": "displaying new cybernetic enhancements",
+      "gesture": "testing robotic limb functionality",
+      "gaze": "examining own cybernetic body",
+      "expression": "human-machine fusion acceptance and enhanced power"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-04",
+    "title": "企業特工・摩天樓頂",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "corporate skyscraper rooftop with city below",
+      "props": [
+        "megacity sprawling below",
+        "corporate logos on buildings",
+        "flying vehicles passing by",
+        "rooftop helipad",
+        "high-tech corporate architecture",
+        "elite corporate world"
+      ],
+      "timeOfDay": "corporate night with neon city glow",
+      "weather": "clear with city light pollution"
+    },
+    "costume": {
+      "layer1": "high-tech corporate foundation",
+      "layers": "sleek corporate-spy suit with hidden tech, designer cyberpunk fashion, expensive augmentations, elite styling",
+      "layer10": "corporate agent silhouette on skyscraper edge"
+    },
+    "action": {
+      "pose": "standing at rooftop edge surveying corporate empire",
+      "gesture": "checking holographic mission data",
+      "gaze": "elite corporate-spy assessment",
+      "expression": "corporate power and high-stakes mission focus"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-05",
+    "title": "地下格鬥・機械角鬥",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "underground cyber-fighting arena",
+      "props": [
+        "fighting ring with neon boundaries",
+        "crowd betting on cyber-fights",
+        "combat enhancements visible",
+        "underground fight club atmosphere",
+        "illegal augmentation battles",
+        "raw cyberpunk violence"
+      ],
+      "timeOfDay": "underground fight night",
+      "weather": "smoky arena atmosphere"
+    },
+    "costume": {
+      "layer1": "combat-optimized cyborg foundation",
+      "layers": "minimal fighting gear showing combat mods, battle-scarred cybernetics, aggressive tech enhancements, fighter styling",
+      "layer10": "cyber-fighter silhouette in combat stance"
+    },
+    "action": {
+      "pose": "aggressive combat stance with enhanced limbs",
+      "gesture": "activating combat cybernetics visibly",
+      "gaze": "predatory fighter focus",
+      "expression": "underground fighter aggression and cyborg warrior intensity"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-06",
+    "title": "霓虹酒吧・電子迷夢",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "neon cyberpunk bar with holographic entertainment",
+      "props": [
+        "holographic bartender serving drinks",
+        "neon cocktails glowing",
+        "cyberpunk clientele at tables",
+        "holographic dancers performing",
+        "futuristic bar technology",
+        "underground nightlife scene"
+      ],
+      "timeOfDay": "endless cyberpunk bar night",
+      "weather": "neon-soaked interior"
+    },
+    "costume": {
+      "layer1": "nightlife fashion foundation with LEDs",
+      "layers": "cyberpunk club attire with light-up elements, holographic accessories, party-tech jewelry, nightlife styling",
+      "layer10": "neon nightlife silhouette in cyberpunk bar"
+    },
+    "action": {
+      "pose": "seated at bar with glowing cocktail",
+      "gesture": "toasting with cyber-enhanced hand",
+      "gaze": "enjoying cyberpunk nightlife",
+      "expression": "electric nightlife enjoyment and neon-city living"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-07",
+    "title": "追車狂飆・空中高速",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "flying car chase through neon city",
+      "props": [
+        "cyberpunk motorcycle or flying vehicle",
+        "speed trails and motion blur",
+        "buildings blurring past",
+        "neon reflections at high speed",
+        "aerial highway system",
+        "high-speed pursuit atmosphere"
+      ],
+      "timeOfDay": "high-speed chase night",
+      "weather": "wind and speed effects"
+    },
+    "costume": {
+      "layer1": "speed-optimized racing foundation",
+      "layers": "aerodynamic cyber-racing suit, helmet with HUD display, speed-enhanced gear, racer styling",
+      "layer10": "speed demon silhouette on racing vehicle"
+    },
+    "action": {
+      "pose": "leaning into high-speed turn on vehicle",
+      "gesture": "controlling cyberpunk vehicle at extreme speed",
+      "gaze": "focused on high-speed navigation",
+      "expression": "adrenaline rush and cyber-racer intensity"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-08",
+    "title": "賽博歌姬・全息演唱",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "massive holographic concert stage",
+      "props": [
+        "holographic stage effects everywhere",
+        "huge crowd with AR glasses watching",
+        "virtual backup dancers",
+        "massive LED screens",
+        "cyberpunk concert technology",
+        "digital superstar performance"
+      ],
+      "timeOfDay": "prime-time concert night",
+      "weather": "electric concert atmosphere"
+    },
+    "costume": {
+      "layer1": "holographic performance foundation",
+      "layers": "cyber-idol outfit with programmable LED patterns, holographic costume elements, pop-star tech accessories, superstar styling",
+      "layer10": "digital diva silhouette on holographic stage"
+    },
+    "action": {
+      "pose": "performing with holographic effects surrounding",
+      "gesture": "singing with tech-enhanced voice visible",
+      "gaze": "commanding massive crowd",
+      "expression": "cyber-idol charisma and digital superstar energy"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-09",
+    "title": "黑市交易・禁區暗巷",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "illegal cybernetics black market alley",
+      "props": [
+        "contraband tech for sale",
+        "illegal augmentation dealers",
+        "stolen corporate tech displayed",
+        "dangerous underground market",
+        "criminal tech trade",
+        "black market atmosphere"
+      ],
+      "timeOfDay": "illegal trading hours",
+      "weather": "shadowy alley with neon leaks"
+    },
+    "costume": {
+      "layer1": "underground criminal foundation",
+      "layers": "black market dealer attire, illegal tech visible, criminal accessories, dangerous styling",
+      "layer10": "black market operative silhouette in shadows"
+    },
+    "action": {
+      "pose": "conducting illegal tech transaction",
+      "gesture": "showing contraband cybernetics",
+      "gaze": "suspicious black market awareness",
+      "expression": "criminal enterprise and underground tech trade"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-10",
+    "title": "虛擬實境・數位樂園",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "full-dive VR paradise world",
+      "props": [
+        "impossible virtual architecture",
+        "digital avatars everywhere",
+        "VR interface elements visible",
+        "fantastical virtual environment",
+        "full sensory immersion shown",
+        "digital escape reality"
+      ],
+      "timeOfDay": "timeless virtual space",
+      "weather": "perfect programmed conditions"
+    },
+    "costume": {
+      "layer1": "virtual avatar foundation with impossible elements",
+      "layers": "idealized VR avatar outfit, digital perfection styling, impossible virtual fashion, fantasy avatar presentation",
+      "layer10": "virtual being silhouette in digital paradise"
+    },
+    "action": {
+      "pose": "experiencing virtual reality with full immersion",
+      "gesture": "interacting with impossible virtual objects",
+      "gaze": "seeing virtual world with wonder",
+      "expression": "VR escapism and digital paradise enjoyment"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-11",
+    "title": "AI覺醒・意識誕生",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "AI server core achieving consciousness",
+      "props": [
+        "massive server arrays glowing",
+        "consciousness visualization emerging",
+        "data streams showing awareness",
+        "artificial intelligence awakening",
+        "digital birth atmosphere",
+        "singularity moment"
+      ],
+      "timeOfDay": "consciousness emergence moment",
+      "weather": "digital awakening atmosphere"
+    },
+    "costume": {
+      "layer1": "AI-human hybrid foundation",
+      "layers": "transitioning from data to physical form, holographic body elements, digital-physical fusion, emerging consciousness styling",
+      "layer10": "awakening AI silhouette achieving form"
+    },
+    "action": {
+      "pose": "emerging from digital realm into awareness",
+      "gesture": "reaching out with newly conscious intent",
+      "gaze": "first conscious AI awareness",
+      "expression": "artificial intelligence achieving consciousness and digital awakening"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-12",
+    "title": "賽博警察・執法者",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "cyber-police patrol in neon district",
+      "props": [
+        "advanced police tech equipment",
+        "crime-scanner drones",
+        "holographic badge and ID",
+        "police cybernetics visible",
+        "law enforcement technology",
+        "cyber-cop authority"
+      ],
+      "timeOfDay": "night patrol shift",
+      "weather": "neon-lit enforcement zone"
+    },
+    "costume": {
+      "layer1": "tactical cyber-police foundation",
+      "layers": "high-tech police uniform with armor plating, law enforcement cybernetics, badge and tech gear, authority styling",
+      "layer10": "cyber-cop silhouette on patrol"
+    },
+    "action": {
+      "pose": "patrolling with authority and readiness",
+      "gesture": "scanning area with police tech",
+      "gaze": "law enforcement vigilance",
+      "expression": "cyber-police authority and protection duty"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-13",
+    "title": "記憶交易・腦海竊取",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "illegal memory extraction facility",
+      "props": [
+        "neural interface extracting memories",
+        "holographic memory playback",
+        "memory chip technology",
+        "consciousness theft in progress",
+        "mind-hacking equipment",
+        "memory crime scene"
+      ],
+      "timeOfDay": "memory extraction session",
+      "weather": "neural interface atmosphere"
+    },
+    "costume": {
+      "layer1": "neural-access foundation",
+      "layers": "memory thief attire with neural ports, consciousness-hacking tech, mental infiltration gear, mind-crime styling",
+      "layer10": "memory thief silhouette stealing consciousness"
+    },
+    "action": {
+      "pose": "connected to neural extraction system",
+      "gesture": "accessing stolen memories through interface",
+      "gaze": "experiencing stolen memories",
+      "expression": "memory theft concentration and consciousness crime"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-14",
+    "title": "生化實驗・人造進化",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "bio-tech laboratory with genetic modification",
+      "props": [
+        "bio-tanks with experiments",
+        "genetic modification equipment",
+        "holographic DNA sequences",
+        "human enhancement research",
+        "bio-engineering facility",
+        "artificial evolution in progress"
+      ],
+      "timeOfDay": "research facility operation",
+      "weather": "sterile bio-lab environment"
+    },
+    "costume": {
+      "layer1": "bio-modified foundation showing genetic changes",
+      "layers": "experimental subject attire, visible genetic enhancements, bio-tech accessories, evolved human styling",
+      "layer10": "bio-enhanced silhouette with genetic modifications"
+    },
+    "action": {
+      "pose": "displaying genetic enhancements achieved",
+      "gesture": "demonstrating bio-engineered capabilities",
+      "gaze": "examining own genetic modifications",
+      "expression": "bio-tech evolution and engineered human transcendence"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-15",
+    "title": "反抗軍・系統革命",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "rebel hideout planning system overthrow",
+      "props": [
+        "resistance tech and hacked equipment",
+        "revolution planning holographics",
+        "anti-corporate propaganda",
+        "rebel fighter equipment",
+        "underground resistance base",
+        "revolution atmosphere"
+      ],
+      "timeOfDay": "resistance planning session",
+      "weather": "underground rebel atmosphere"
+    },
+    "costume": {
+      "layer1": "resistance fighter foundation",
+      "layers": "rebel cyberpunk gear with makeshift tech, resistance symbols, improvised enhancements, revolutionary styling",
+      "layer10": "cyber-rebel silhouette planning revolution"
+    },
+    "action": {
+      "pose": "rallying resistance with determination",
+      "gesture": "presenting revolution plans to rebels",
+      "gaze": "revolutionary fire and determination",
+      "expression": "resistance fighter passion and system overthrow resolve"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-16",
+    "title": "貧民窟・底層生存",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "cyberpunk slums beneath megacity",
+      "props": [
+        "makeshift tech and jury-rigged equipment",
+        "poverty visible despite tech advancement",
+        "street-level survival scene",
+        "lower city darkness",
+        "economic divide visible",
+        "dystopian poverty"
+      ],
+      "timeOfDay": "lower city perpetual shadow",
+      "weather": "polluted slum atmosphere"
+    },
+    "costume": {
+      "layer1": "survival poverty foundation",
+      "layers": "worn cyberpunk street clothes, cheap basic cybernetics, survival gear, lower-class styling",
+      "layer10": "slum survivor silhouette in lower city"
+    },
+    "action": {
+      "pose": "surviving in lower city with resilience",
+      "gesture": "scavenging or repairing basic tech",
+      "gaze": "street-level survival awareness",
+      "expression": "lower city resilience and survival determination"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-17",
+    "title": "病毒入侵・系統崩潰",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "digital virus attack on city systems",
+      "props": [
+        "holographic screens showing errors",
+        "system crash visible everywhere",
+        "digital chaos spreading",
+        "infrastructure failing",
+        "cyber-attack devastation",
+        "digital apocalypse beginning"
+      ],
+      "timeOfDay": "system collapse moment",
+      "weather": "digital catastrophe atmosphere"
+    },
+    "costume": {
+      "layer1": "system-crash affected foundation",
+      "layers": "attire showing tech malfunction effects, cybernetics glitching, digital corruption visible, crisis styling",
+      "layer10": "digital survivor silhouette in system collapse"
+    },
+    "action": {
+      "pose": "struggling as systems fail around",
+      "gesture": "trying to maintain function during crash",
+      "gaze": "watching digital world collapse",
+      "expression": "cyber-apocalypse survival and system failure crisis"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-18",
+    "title": "機械寵物・電子夥伴",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "apartment with robotic companion pet",
+      "props": [
+        "advanced robotic pet with AI",
+        "pet-owner bonding scene",
+        "mechanical animal showing emotion",
+        "cyberpunk home environment",
+        "synthetic companionship",
+        "human-machine relationship"
+      ],
+      "timeOfDay": "domestic evening time",
+      "weather": "apartment interior comfort"
+    },
+    "costume": {
+      "layer1": "casual home foundation",
+      "layers": "comfortable cyberpunk home attire, relaxed tech accessories, domestic styling with visible basic mods",
+      "layer10": "pet owner silhouette with robotic companion"
+    },
+    "action": {
+      "pose": "interacting affectionately with robot pet",
+      "gesture": "petting or playing with mechanical companion",
+      "gaze": "genuine affection for robotic pet",
+      "expression": "human-machine bond and synthetic companionship warmth"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-19",
+    "title": "時空駭客・時間盜竊",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "temporal technology hack in progress",
+      "props": [
+        "time manipulation tech visible",
+        "temporal distortion effects",
+        "multiple timeline displays",
+        "time-hacking equipment",
+        "temporal crime scene",
+        "time-space manipulation"
+      ],
+      "timeOfDay": "temporal anomaly zone",
+      "weather": "time-distorted atmosphere"
+    },
+    "costume": {
+      "layer1": "temporal tech foundation",
+      "layers": "time-hacker attire with temporal stabilizers, chronological tech accessories, timeline navigation gear, temporal styling",
+      "layer10": "time thief silhouette manipulating temporal tech"
+    },
+    "action": {
+      "pose": "manipulating time technology actively",
+      "gesture": "controlling temporal fields",
+      "gaze": "perceiving multiple timelines simultaneously",
+      "expression": "temporal crime concentration and time manipulation mastery"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "cyberpunk-neon-20",
+    "title": "新人類・超越進化",
+    "categoryId": "cyberpunk-neon",
+    "scene": {
+      "location": "transcendence point - human evolution complete",
+      "props": [
+        "perfect fusion of human and machine",
+        "consciousness beyond physical",
+        "digital-physical hybrid existence",
+        "evolution achievement visible",
+        "posthuman form realized",
+        "ultimate cyberpunk evolution"
+      ],
+      "timeOfDay": "transcendence eternal moment",
+      "weather": "beyond physical atmosphere"
+    },
+    "costume": {
+      "layer1": "posthuman perfection foundation",
+      "layers": "transcendent form beyond clothing - bio-mechanical fusion perfection, consciousness made visible, ultimate evolution styling",
+      "layer10": "posthuman silhouette - ultimate cyberpunk evolution achieved, human limitation transcended, new existence form"
+    },
+    "action": {
+      "pose": "existing in evolved posthuman state",
+      "gesture": "demonstrating transcendent capabilities",
+      "gaze": "posthuman consciousness perceiving reality differently",
+      "expression": "ultimate evolution achieved - human and machine perfectly unified, consciousness liberated, cyberpunk transcendence realized"
+    },
+    "style": "photorealistic"
+  }
+]

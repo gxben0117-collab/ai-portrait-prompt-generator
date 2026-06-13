@@ -1,0 +1,33 @@
+{
+  "name": "ai-portrait-prompt-generator",
+  "version": "2.0.0",
+  "description": "AI 人像提示詞生成器 v2.0 - 五層模組化引擎 + 540 張角色卡",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test src/**/*.test.js",
+    "lint": "eslint src --ext .js,.jsx",
+    "test-engine": "node test-prompt-engine.js"
+  },
+  "keywords": [
+    "ai",
+    "prompt",
+    "generator",
+    "portrait",
+    "stable-diffusion"
+  ],
+  "author": "gxben0117",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.0",
+    "eslint": "^8.56.0"
+  }
+}

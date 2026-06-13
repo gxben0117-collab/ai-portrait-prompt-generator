@@ -1,0 +1,602 @@
+[
+  {
+    "id": "space-scifi-01",
+    "title": "星際艦橋・指揮官",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "advanced spaceship bridge with holographic displays",
+      "props": [
+        "futuristic command chair",
+        "holographic star maps and navigation",
+        "crew stations with advanced interfaces",
+        "viewport showing space and stars",
+        "spaceship control systems",
+        "bridge command atmosphere"
+      ],
+      "timeOfDay": "eternal space travel",
+      "weather": "controlled ship environment"
+    },
+    "costume": {
+      "layer1": "sleek space uniform foundation",
+      "layers": "advanced captain uniform with rank insignia, tech-integrated fabric, command accessories, space officer styling",
+      "layer10": "starship captain silhouette commanding bridge"
+    },
+    "action": {
+      "pose": "sitting in command chair with authority",
+      "gesture": "issuing orders to bridge crew",
+      "gaze": "surveying tactical holographic displays",
+      "expression": "space captain confidence and command presence"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-02",
+    "title": "星雲探索・彩色宇宙",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "colorful nebula region with cosmic beauty",
+      "props": [
+        "vibrant nebula clouds in multiple colors",
+        "stars being born in nebula",
+        "cosmic dust and gas",
+        "spectacular space phenomena",
+        "scientific observation equipment",
+        "astronomical wonder"
+      ],
+      "timeOfDay": "cosmic eternal moment",
+      "weather": "nebula environment"
+    },
+    "costume": {
+      "layer1": "astronaut foundation with advanced materials",
+      "layers": "space exploration suit with clear helmet showing face, nebula-colored accents on suit, scientific instruments, explorer styling",
+      "layer10": "space explorer silhouette in nebula colors"
+    },
+    "action": {
+      "pose": "floating in zero-gravity observing nebula",
+      "gesture": "reaching toward cosmic beauty",
+      "gaze": "awed by nebula magnificence",
+      "expression": "cosmic wonder and space exploration passion"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-03",
+    "title": "太空站生活・軌道之家",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "rotating space station with Earth visible outside",
+      "props": [
+        "Earth through station windows",
+        "zero-gravity living quarters",
+        "advanced life support systems",
+        "personal space in station",
+        "orbital home environment",
+        "space station interior"
+      ],
+      "timeOfDay": "orbital day cycle",
+      "weather": "controlled station atmosphere"
+    },
+    "costume": {
+      "layer1": "comfortable station jumpsuit foundation",
+      "layers": "practical station living attire, velcro shoes for zero-g, personal accessories, astronaut casual styling",
+      "layer10": "station resident silhouette in orbital home"
+    },
+    "action": {
+      "pose": "floating in living quarters reading or relaxing",
+      "gesture": "adapting naturally to zero gravity",
+      "gaze": "looking at Earth through window",
+      "expression": "orbital living comfort and space home peace"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-04",
+    "title": "外星接觸・第一次會面",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "first contact scenario with alien civilization",
+      "props": [
+        "alien beings present peacefully",
+        "universal translator device",
+        "diplomatic meeting setup",
+        "two civilizations meeting",
+        "historic moment atmosphere",
+        "peaceful contact scene"
+      ],
+      "timeOfDay": "historic contact moment",
+      "weather": "diplomatic environment"
+    },
+    "costume": {
+      "layer1": "formal diplomatic foundation",
+      "layers": "space diplomat uniform representing humanity, cultural ambassador accessories, peace mission styling, historic moment dress",
+      "layer10": "human diplomat silhouette meeting aliens"
+    },
+    "action": {
+      "pose": "offering peaceful gesture to aliens",
+      "gesture": "universal peace greeting extended",
+      "gaze": "respectful alien civilization observation",
+      "expression": "diplomatic hope and first contact wonder"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-05",
+    "title": "月球基地・建設前線",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "lunar surface with moon base construction",
+      "props": [
+        "moon base structures being built",
+        "construction equipment on lunar surface",
+        "Earth visible in sky",
+        "lunar dust and terrain",
+        "colonization in progress",
+        "moon development scene"
+      ],
+      "timeOfDay": "lunar work shift",
+      "weather": "vacuum with Earth-lit sky"
+    },
+    "costume": {
+      "layer1": "heavy-duty spacesuit foundation",
+      "layers": "reinforced lunar work suit, construction tools attached, builder accessories, colonist worker styling",
+      "layer10": "lunar worker silhouette building base"
+    },
+    "action": {
+      "pose": "operating construction equipment on moon",
+      "gesture": "building humanity's lunar future",
+      "gaze": "focused on construction work",
+      "expression": "pioneer determination and colonist pride"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-06",
+    "title": "黑洞邊緣・時空扭曲",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "near black hole event horizon with distortion",
+      "props": [
+        "black hole with accretion disk glowing",
+        "gravitational lensing visible",
+        "time dilation effects shown",
+        "space-time warping",
+        "extreme gravity environment",
+        "cosmic phenomenon"
+      ],
+      "timeOfDay": "relativistic time zone",
+      "weather": "extreme gravitational environment"
+    },
+    "costume": {
+      "layer1": "extreme environment suit foundation",
+      "layers": "reinforced physics-resistant suit, time dilation monitoring equipment, survival gear, extreme explorer styling",
+      "layer10": "gravity explorer silhouette near black hole"
+    },
+    "action": {
+      "pose": "stabilizing near event horizon carefully",
+      "gesture": "monitoring time dilation readings",
+      "gaze": "observing black hole up close",
+      "expression": "extreme physics wonder and relativistic awe"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-07",
+    "title": "火星殖民地・紅色家園",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "established Mars colony with domed cities",
+      "props": [
+        "biodomes with Earth plants growing",
+        "Martian landscape outside",
+        "terraforming equipment visible",
+        "colonist infrastructure",
+        "red planet settlement",
+        "Mars civilization"
+      ],
+      "timeOfDay": "Martian afternoon light",
+      "weather": "biodome controlled with Mars visible"
+    },
+    "costume": {
+      "layer1": "Mars colonist foundation",
+      "layers": "casual Martian civilian attire, light pressure suit for emergencies, colonist accessories, Mars resident styling",
+      "layer10": "Martian colonist silhouette in biodome"
+    },
+    "action": {
+      "pose": "tending Earth plants in Mars biodome",
+      "gesture": "caring for terraforming garden",
+      "gaze": "nurturing life on Mars",
+      "expression": "Mars colonist hope and planetary gardening dedication"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-08",
+    "title": "彗星追獵・冰晶採集",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "on surface of comet with tail visible",
+      "props": [
+        "comet nucleus landscape",
+        "comet tail streaming behind",
+        "ice mining equipment",
+        "volatile harvesting operation",
+        "low gravity environment",
+        "comet resource extraction"
+      ],
+      "timeOfDay": "comet perihelion approach",
+      "weather": "outgassing volatile environment"
+    },
+    "costume": {
+      "layer1": "mining spacesuit foundation",
+      "layers": "heavy-duty comet miner suit, ice drilling equipment, volatile collection gear, space miner styling",
+      "layer10": "comet miner silhouette on nucleus"
+    },
+    "action": {
+      "pose": "anchored to comet surface mining ice",
+      "gesture": "extracting valuable comet resources",
+      "gaze": "focused on dangerous mining work",
+      "expression": "space miner toughness and comet harvest determination"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-09",
+    "title": "銀河議會・星際政治",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "galactic council chamber with multiple species",
+      "props": [
+        "circular council chamber design",
+        "representatives from many worlds",
+        "holographic voting systems",
+        "diplomatic translation tech",
+        "interstellar governance",
+        "galactic politics scene"
+      ],
+      "timeOfDay": "council session time",
+      "weather": "diplomatic chamber atmosphere"
+    },
+    "costume": {
+      "layer1": "galactic diplomat foundation",
+      "layers": "formal Earth representative attire with cultural elements, ambassador accessories, interstellar diplomat styling",
+      "layer10": "galactic ambassador silhouette in council"
+    },
+    "action": {
+      "pose": "standing to address galactic council",
+      "gesture": "presenting Earth's position diplomatically",
+      "gaze": "addressing diverse alien delegates",
+      "expression": "interstellar diplomat gravitas and political skill"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-10",
+    "title": "小行星帶・礦工冒險",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "asteroid belt with mining ship navigating",
+      "props": [
+        "countless asteroids floating",
+        "mining spacecraft maneuvering",
+        "valuable ore asteroids identified",
+        "navigation hazards everywhere",
+        "space mining frontier",
+        "asteroid field navigation"
+      ],
+      "timeOfDay": "belt mining operation",
+      "weather": "vacuum with debris hazards"
+    },
+    "costume": {
+      "layer1": "asteroid miner foundation",
+      "layers": "practical mining ship pilot suit, ore scanner equipment, prospector accessories, frontier miner styling",
+      "layer10": "asteroid prospector silhouette piloting"
+    },
+    "action": {
+      "pose": "piloting ship through asteroid field",
+      "gesture": "navigating dense asteroid hazards",
+      "gaze": "scanning for valuable asteroids",
+      "expression": "space miner focus and frontier prospecting thrill"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-11",
+    "title": "超光速引擎・曲速航行",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "engineering bay with warp drive active",
+      "props": [
+        "massive warp engine glowing",
+        "space-time distortion visible",
+        "exotic matter containment",
+        "faster-than-light tech",
+        "engineering marvel",
+        "warp speed activation"
+      ],
+      "timeOfDay": "warp jump preparation",
+      "weather": "engine room high energy"
+    },
+    "costume": {
+      "layer1": "chief engineer foundation",
+      "layers": "engineering officer uniform, protective gear for engine room, technical accessories, warp engineer styling",
+      "layer10": "warp engineer silhouette monitoring drive"
+    },
+    "action": {
+      "pose": "monitoring warp drive systems intently",
+      "gesture": "adjusting exotic matter flow",
+      "gaze": "ensuring safe warp activation",
+      "expression": "engineer concentration and FTL technology mastery"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-12",
+    "title": "太空漫步・真空之舞",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "EVA spacewalk outside station with Earth below",
+      "props": [
+        "Earth massive and beautiful below",
+        "spacewalk tether attached",
+        "space station nearby",
+        "stars all around",
+        "zero gravity freedom",
+        "orbital EVA scene"
+      ],
+      "timeOfDay": "orbital sunrise approaching",
+      "weather": "vacuum with Earth glow"
+    },
+    "costume": {
+      "layer1": "EVA spacesuit foundation",
+      "layers": "full spacewalk suit with life support, helmet showing face, tether and tools, spacewalker styling",
+      "layer10": "spacewalker silhouette floating free"
+    },
+    "action": {
+      "pose": "floating freely in spacewalk with Earth behind",
+      "gesture": "spreading arms in zero-g freedom",
+      "gaze": "amazed at Earth from space",
+      "expression": "spacewalk euphoria and orbital freedom"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-13",
+    "title": "土星觀測・環帶奇觀",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "orbiting Saturn with rings prominent",
+      "props": [
+        "Saturn's magnificent rings close-up",
+        "ring particles visible",
+        "moons in background",
+        "gas giant majesty",
+        "planetary observation station",
+        "ringed planet wonder"
+      ],
+      "timeOfDay": "Saturn orbit observation",
+      "weather": "ring plane environment"
+    },
+    "costume": {
+      "layer1": "planetary scientist foundation",
+      "layers": "research vessel uniform, scientific instruments, observation equipment, planetary researcher styling",
+      "layer10": "Saturn observer silhouette with rings visible"
+    },
+    "action": {
+      "pose": "observing Saturn rings with scientific fascination",
+      "gesture": "recording ring data and observations",
+      "gaze": "studying ring structure intently",
+      "expression": "planetary science wonder and Saturn awe"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-14",
+    "title": "太空農場・軌道糧食",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "orbital agricultural station growing food",
+      "props": [
+        "hydroponic farms in zero-g",
+        "LED grow lights everywhere",
+        "plants growing in rotation",
+        "food production in space",
+        "agricultural technology",
+        "space farming operation"
+      ],
+      "timeOfDay": "grow cycle monitoring",
+      "weather": "controlled agricultural environment"
+    },
+    "costume": {
+      "layer1": "space farmer foundation",
+      "layers": "practical agricultural jumpsuit, gardening tools adapted for space, farmer accessories, orbital agriculturist styling",
+      "layer10": "space farmer silhouette tending crops"
+    },
+    "action": {
+      "pose": "tending zero-gravity hydroponic plants",
+      "gesture": "harvesting space-grown vegetables",
+      "gaze": "caring for orbital crops",
+      "expression": "space farmer satisfaction and agricultural dedication"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-15",
+    "title": "超新星殘骸・恆星之死",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "spectacular supernova remnant nebula",
+      "props": [
+        "expanding supernova shell",
+        "colorful stellar debris",
+        "neutron star or pulsar center",
+        "stellar death beauty",
+        "extreme energy environment",
+        "stellar catastrophe remains"
+      ],
+      "timeOfDay": "stellar remnant observation",
+      "weather": "high-energy radiation environment"
+    },
+    "costume": {
+      "layer1": "radiation-shielded suit foundation",
+      "layers": "heavy radiation protection suit, stellar observer gear, safety equipment, stellar researcher styling",
+      "layer10": "stellar observer silhouette in supernova glow"
+    },
+    "action": {
+      "pose": "observing supernova remnant safely",
+      "gesture": "scanning stellar debris scientifically",
+      "gaze": "awed by stellar death beauty",
+      "expression": "stellar science fascination and cosmic scale humility"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-16",
+    "title": "木星大紅斑・風暴之眼",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "flying probe through Jupiter's Great Red Spot",
+      "props": [
+        "massive storm vortex surrounding",
+        "Jupiter's colorful atmosphere",
+        "extreme weather conditions",
+        "atmospheric probe descent",
+        "gas giant storm interior",
+        "planetary meteorology"
+      ],
+      "timeOfDay": "storm penetration mission",
+      "weather": "extreme Jovian storm"
+    },
+    "costume": {
+      "layer1": "extreme pressure suit foundation",
+      "layers": "reinforced atmospheric probe pilot suit, storm survival gear, planetary atmospheric researcher styling",
+      "layer10": "storm researcher silhouette in Jupiter vortex"
+    },
+    "action": {
+      "pose": "piloting through massive storm safely",
+      "gesture": "controlling probe in extreme winds",
+      "gaze": "navigating Great Red Spot interior",
+      "expression": "atmospheric researcher courage and storm exploration thrill"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-17",
+    "title": "休眠艙甦醒・長途航行",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "cryo-sleep chamber with awakening sequence",
+      "props": [
+        "cryogenic hibernation pod opening",
+        "frost melting from body",
+        "decades-long journey complete",
+        "ship arrival at destination",
+        "suspended animation tech",
+        "interstellar voyage end"
+      ],
+      "timeOfDay": "awakening moment after decades",
+      "weather": "chamber warming atmosphere"
+    },
+    "costume": {
+      "layer1": "cryo-sleep garment foundation",
+      "layers": "minimal hibernation suit, frost crystals melting away, awakening styling, long-journey survivor appearance",
+      "layer10": "awakening traveler silhouette in cryo-pod"
+    },
+    "action": {
+      "pose": "slowly awakening from decades of sleep",
+      "gesture": "first movements after hibernation",
+      "gaze": "disoriented awakening after journey",
+      "expression": "cryo-sleep emergence and interstellar arrival realization"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-18",
+    "title": "星際戰鬥・太空決戰",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "space fighter cockpit during battle",
+      "props": [
+        "fighter cockpit with combat displays",
+        "enemy ships in targeting systems",
+        "laser fire and explosions",
+        "space combat maneuvers",
+        "dogfight in space",
+        "military space action"
+      ],
+      "timeOfDay": "combat engagement",
+      "weather": "zero-g combat environment"
+    },
+    "costume": {
+      "layer1": "fighter pilot foundation",
+      "layers": "space fighter pilot suit with g-force protection, helmet with HUD, military insignia, combat pilot styling",
+      "layer10": "space pilot silhouette in cockpit combat"
+    },
+    "action": {
+      "pose": "intense piloting during space combat",
+      "gesture": "executing combat maneuvers expertly",
+      "gaze": "tracking enemies in targeting system",
+      "expression": "combat pilot intensity and space warfare focus"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-19",
+    "title": "外星生物學家・新物種",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "alien planet surface studying indigenous life",
+      "props": [
+        "alien landscape with exotic flora",
+        "unknown alien creatures nearby",
+        "scientific scanning equipment",
+        "xenobiology research in field",
+        "first life discovery",
+        "alien ecosystem study"
+      ],
+      "timeOfDay": "alien planet daylight",
+      "weather": "breathable alien atmosphere"
+    },
+    "costume": {
+      "layer1": "xenobiologist foundation",
+      "layers": "environmental suit adapted for alien biosphere, scientific instruments, specimen collection gear, alien life researcher styling",
+      "layer10": "xenobiologist silhouette studying alien life"
+    },
+    "action": {
+      "pose": "carefully observing alien creature",
+      "gesture": "scanning unknown lifeform scientifically",
+      "gaze": "fascinated by alien biology",
+      "expression": "xenobiology wonder and new life discovery excitement"
+    },
+    "style": "photorealistic"
+  },
+  {
+    "id": "space-scifi-20",
+    "title": "星海彼端・終極邊疆",
+    "categoryId": "space-scifi",
+    "scene": {
+      "location": "edge of explored space with unknown beyond",
+      "props": [
+        "uncharted space stretching endlessly",
+        "frontier boundary markers",
+        "first glimpse of unexplored galaxy regions",
+        "ultimate exploration frontier",
+        "beyond known universe",
+        "infinite cosmic frontier"
+      ],
+      "timeOfDay": "frontier crossing moment",
+      "weather": "edge of the unknown"
+    },
+    "costume": {
+      "layer1": "ultimate explorer foundation",
+      "layers": "advanced explorer suit representing all space achievements, pioneer insignia, ultimate frontier styling",
+      "layer10": "ultimate space pioneer silhouette at cosmic frontier"
+    },
+    "action": {
+      "pose": "standing at edge of known space gazing beyond",
+      "gesture": "reaching toward unexplored infinity",
+      "gaze": "looking at unlimited cosmic frontier ahead",
+      "expression": "ultimate space exploration spirit - all known space behind, infinite unknown ahead, eternal frontier calling, cosmic pioneer destiny"
+    },
+    "style": "photorealistic"
+  }
+]

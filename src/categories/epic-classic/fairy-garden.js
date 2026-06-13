@@ -1,0 +1,99 @@
+/**
+ * 花園精靈｜森林仙子｜奇幻自然
+ * Garden Fairy - Forest Sprite - Fantasy Nature
+ */
+
+export const FAIRY_GARDEN_CATEGORY = {
+  id: 'fairy-garden',
+  name: '花園精靈｜森林仙子｜奇幻自然',
+  themeGroup: 'epic-classic',
+
+  visualDNA: {
+    atmosphere: [
+      'enchanted garden fantasy',
+      'forest fairy magical atmosphere',
+      'nature spirit elegance',
+      'mystical woodland realm',
+    ],
+
+    colors: {
+      primary: ['leaf green', 'flower petal pastels', 'earth brown'],
+      secondary: ['fairy dust gold', 'moonlight silver', 'dewdrop crystal'],
+      accent: ['magical sparkle', 'bioluminescent glow'],
+    },
+
+    iconicProps: [
+      'enchanted forest backdrop',
+      'magical flowers and plants',
+      'fairy wings (translucent)',
+      'glowing mushrooms',
+      'ancient trees',
+      'magical particles',
+      'natural throne or perch',
+    ],
+
+    costumeStyle: {
+      layer1: 'nature-inspired foundation',
+      concept: 'fairy fantasy natural costume',
+      keywords: [
+        'flowing nature-inspired dress',
+        'translucent fairy wings',
+        'flower and leaf accessories',
+        'vine and twig ornaments',
+        'bare feet or natural footwear',
+        'flower crown',
+      ],
+      fabric: [
+        'translucent gauze and organza',
+        'nature-toned flowing fabrics',
+        'petal-like layered materials',
+      ],
+    },
+
+    bodyRequirements: {
+      bodyType: 'ethereal fairy elegance',
+      emphasis: 'magical nature spirit presence',
+    },
+
+    sceneTypes: [
+      'enchanted forest clearing',
+      'magical garden with glowing elements',
+      'ancient tree dwelling',
+      'mystical waterfall grotto',
+    ],
+
+    lighting: {
+      keyLight: 'magical forest dappled light',
+      fillLight: 'bioluminescent glow',
+      rimLight: 'fairy dust sparkle edge light',
+      ambience: 'enchanted forest mystical atmosphere',
+      specialEffect: 'magical particles and sparkles',
+    },
+
+    photography: {
+      framing: 'fantasy portrait in nature',
+      focus: 'magical atmosphere with bokeh',
+      mood: 'fantasy fairy tale cinema quality',
+    },
+
+    prohibitions: [
+      'no anime magical girl',
+      'must maintain nature-based fairy aesthetic',
+    ],
+
+    textureRequirements: [
+      'translucent wing realistic texture',
+      'natural forest environment detail',
+      'magical glow effects',
+      'organic natural elements',
+    ],
+  },
+
+  promptWeights: {
+    faceLock: 1.5,
+    scene: 1.3,
+    costume: 1.2,
+    lighting: 1.3,
+    style: 1.0,
+  },
+};
