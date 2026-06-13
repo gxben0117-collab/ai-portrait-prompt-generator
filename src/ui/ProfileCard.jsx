@@ -153,75 +153,39 @@ function ProfileCard({ profiles, category }) {
               </div>
             </div>
 
+            <button
+              onClick={() => {
+                const fullPrompt = `Positive Prompt:\n${generatedPrompt.prompt?.positive || ''}\n\nNegative Prompt:\n${generatedPrompt.prompt?.negative || ''}`;
+                copyToClipboard(fullPrompt, 'both');
+              }}
+              style={{
+                background: copySuccess === 'both' ? '#28a745' : 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+                color: 'white',
+                border: 'none',
+                padding: '16px 32px',
+                borderRadius: '10px',
+                cursor: 'pointer',
+                fontSize: '1.1rem',
+                fontWeight: '600',
+                width: '100%',
+                transition: 'all 0.3s',
+                boxShadow: '0 4px 15px rgba(102, 126, 234, 0.4)',
+                marginBottom: '20px'
+              }}
+            >
+              {copySuccess === 'both' ? '✓ 已複製完整咒語' : '📋 複製完整咒語 (正面 + 負面)'}
+            </button>
+
             <div className="prompt-display">
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px' }}>
-                <h5>✅ 正面提示詞 (Positive Prompt)</h5>
-                <button
-                  onClick={() => copyToClipboard(generatedPrompt.prompt?.positive || '', 'positive')}
-                  style={{
-                    background: copySuccess === 'positive' ? '#28a745' : '#667eea',
-                    color: 'white',
-                    border: 'none',
-                    padding: '8px 16px',
-                    borderRadius: '6px',
-                    cursor: 'pointer',
-                    fontSize: '0.9rem',
-                    fontWeight: '500',
-                    transition: 'all 0.3s'
-                  }}
-                >
-                  {copySuccess === 'positive' ? '✓ 已複製' : '📋 複製'}
-                </button>
-              </div>
+              <h5 style={{ marginBottom: '10px' }}>✅ 正面提示詞 (Positive Prompt)</h5>
               <div className="prompt-positive">
                 {generatedPrompt.prompt?.positive || 'N/A'}
               </div>
 
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px', marginTop: '20px' }}>
-                <h5>❌ 負面提示詞 (Negative Prompt)</h5>
-                <button
-                  onClick={() => copyToClipboard(generatedPrompt.prompt?.negative || '', 'negative')}
-                  style={{
-                    background: copySuccess === 'negative' ? '#28a745' : '#667eea',
-                    color: 'white',
-                    border: 'none',
-                    padding: '8px 16px',
-                    borderRadius: '6px',
-                    cursor: 'pointer',
-                    fontSize: '0.9rem',
-                    fontWeight: '500',
-                    transition: 'all 0.3s'
-                  }}
-                >
-                  {copySuccess === 'negative' ? '✓ 已複製' : '📋 複製'}
-                </button>
-              </div>
+              <h5 style={{ marginBottom: '10px', marginTop: '20px' }}>❌ 負面提示詞 (Negative Prompt)</h5>
               <div className="prompt-negative">
                 {generatedPrompt.prompt?.negative || 'N/A'}
               </div>
-
-              <button
-                onClick={() => {
-                  const fullPrompt = `Positive Prompt:\n${generatedPrompt.prompt?.positive || ''}\n\nNegative Prompt:\n${generatedPrompt.prompt?.negative || ''}`;
-                  copyToClipboard(fullPrompt, 'both');
-                }}
-                style={{
-                  background: copySuccess === 'both' ? '#28a745' : 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-                  color: 'white',
-                  border: 'none',
-                  padding: '12px 24px',
-                  borderRadius: '8px',
-                  cursor: 'pointer',
-                  fontSize: '1rem',
-                  fontWeight: '600',
-                  marginTop: '20px',
-                  width: '100%',
-                  transition: 'all 0.3s',
-                  boxShadow: '0 4px 6px rgba(0,0,0,0.1)'
-                }}
-              >
-                {copySuccess === 'both' ? '✓ 已複製完整咒語' : '📋 複製完整咒語 (正面 + 負面)'}
-              </button>
             </div>
 
             {generatedPrompt.warnings && generatedPrompt.warnings.length > 0 && (

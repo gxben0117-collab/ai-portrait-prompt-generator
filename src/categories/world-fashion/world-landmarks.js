@@ -77,7 +77,6 @@ export const WORLD_LANDMARKS_CATEGORY = {
 
     prohibitions: [
       'no tourist snapshot quality',
-      'must have fashion editorial standard',
     ],
 
     textureRequirements: [

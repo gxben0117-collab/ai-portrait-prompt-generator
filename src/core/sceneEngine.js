@@ -13,8 +13,8 @@ export function generateScenePrompt(categoryVisualDNA, roleSceneData) {
   const { sceneTypes, iconicProps, atmosphere, lighting } = categoryVisualDNA;
   const { location, props, timeOfDay, weather } = roleSceneData;
 
-  // 構建場景主體描述
-  const sceneBase = `${location}, ${sceneTypes[0]} setting`;
+  // 構建場景主體描述（只用角色卡的 location，不加分類的 sceneTypes 避免污染）
+  const sceneBase = location;
 
   // 選擇關鍵道具 (最多 5 個以避免 token 浪費)
   const selectedProps = props || iconicProps.slice(0, 5);

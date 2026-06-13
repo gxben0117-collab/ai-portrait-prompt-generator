@@ -30,6 +30,7 @@ export function generateCostumePrompt(categoryVisualDNA, roleCostumeData) {
 
   // 組合完整服裝描述
   const positivePrompt = [
+    'costume design in 6-layer structure from foundation to outer silhouette, allow creative interpretation including garments, fabrics, embroidery, jewelry, accessories, hair ornaments, belts, ribbons, and thematic decorative elements appropriate to character and cultural setting, Layer7: character-appropriate makeup and beauty styling matching theme, era, costume palette, and atmosphere while preserving original facial identity',
     `costumeLayer1: ${foundationLayer}`,
     `costume middle layers: ${middleLayers}`,
     `costumeLayer10: ${silhouetteLayer}`,

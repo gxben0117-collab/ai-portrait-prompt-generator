@@ -76,7 +76,6 @@ export const PAN_TANG_DRAMA_CATEGORY = {
     prohibitions: [
       'no anime costume',
       'no low-budget cosplay quality',
-      'must maintain TV drama production standard',
     ],
 
     textureRequirements: [
