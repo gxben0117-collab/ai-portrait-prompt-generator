@@ -29,8 +29,6 @@ export const FACE_LOCK_ENGINE = {
     'correct ribcage volume',
     'natural waist and hip proportions',
     'realistic limb length',
-    'human skeletal accuracy',
-    'photographic body proportions',
   ],
 
   // 視角鎖定 (避免變形，但不包含鏡頭和構圖，由 UI 控制)

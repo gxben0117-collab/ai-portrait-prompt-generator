@@ -65,11 +65,11 @@ export function generatePhotographyPrompt(categoryVisualDNA, presetType = 'portr
     photography.bodyScale,
   ].filter(Boolean).join(', ');
 
-  // 攝影情緒/風格
-  const moodDescription = photography.mood || 'professional photography quality';
+  // 攝影情緒/風格（移除重複的 quality）
+  const moodDescription = photography.mood || '';
 
   return {
-    positive: `${photographyDescription}, ${moodDescription}`,
+    positive: moodDescription ? `${photographyDescription}, ${moodDescription}` : photographyDescription,
     weight: 1.1,
     layer: 'photography',
   };
@@ -79,17 +79,16 @@ export function generatePhotographyPrompt(categoryVisualDNA, presetType = 'portr
  * 通用技術品質參數 (精簡版，避免重複)
  */
 export const TECHNICAL_QUALITY = {
-  resolution: 'professional high resolution',
-  detail: 'sharp focus with natural detail',
-  clarity: 'clean image quality',
+  resolution: 'high resolution',
+  detail: 'sharp focus',
 };
 
 /**
  * 生成技術品質 Prompt (精簡，避免 token 浪費)
  */
 export function generateTechnicalQuality() {
-  const { resolution, detail, clarity } = TECHNICAL_QUALITY;
-  return `${resolution}, ${detail}, ${clarity}`;
+  const { resolution, detail } = TECHNICAL_QUALITY;
+  return `${resolution}, ${detail}`;
 }
 
 /**

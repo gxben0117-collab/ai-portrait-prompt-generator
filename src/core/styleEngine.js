@@ -12,11 +12,9 @@ export const VISUAL_STYLES = {
     name: 'Photorealistic Cinema',
     description: 'Ultra-realistic photographic quality with natural lighting and texture',
     keywords: [
-      'photorealistic cinema quality',
+      'photorealistic',
       'natural skin texture',
       'realistic fabric physics',
-      'authentic environmental lighting',
-      'professional photography aesthetic',
     ],
     negativeKeywords: [
       '3D rendering',
@@ -35,11 +33,9 @@ export const VISUAL_STYLES = {
     name: 'Korean Webtoon CG',
     description: 'Semi-realistic Korean webtoon illustration style with soft rendering',
     keywords: [
-      'Korean webtoon illustration style',
-      'semi-realistic character rendering',
-      'soft digital painting aesthetic',
-      'webtoon color grading',
-      'manhwa art style quality',
+      'Korean webtoon illustration',
+      'semi-realistic rendering',
+      'soft digital painting',
     ],
     negativeKeywords: [
       'anime chibi',
@@ -56,11 +52,9 @@ export const VISUAL_STYLES = {
     name: 'Chinese CG Cinema',
     description: 'High-end Chinese fantasy cinema CG with epic atmosphere',
     keywords: [
-      'Chinese fantasy cinema CG quality',
+      'Chinese fantasy cinema CG',
       'epic martial arts film aesthetic',
-      'high-budget wuxia film rendering',
-      'theatrical release quality',
-      'Asian cinema production value',
+      'theatrical quality',
     ],
     negativeKeywords: [
       'low-budget game CG',
