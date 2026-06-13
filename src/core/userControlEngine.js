@@ -27,27 +27,27 @@ export const ASPECT_RATIOS = {
 export const SHOT_COMPOSITIONS = {
   fullBody: {
     name: '全身',
-    framing: 'full body shot, head to toe visible, complete figure in frame',
+    framing: 'full body portrait, head to toe visible, complete figure in frame, full shoulder width visible, subject occupies 30-40% of frame',
     description: '完整人物從頭到腳',
   },
   halfBody: {
     name: '半身',
-    framing: 'half body shot, waist up visible, upper body portrait',
+    framing: 'three-quarter body portrait, upper thighs visible, full shoulder width visible, complete torso visible, subject occupies 35-45% of frame',
     description: '腰部以上',
   },
   kneeUp: {
     name: '膝蓋以上',
-    framing: 'three-quarter body shot, knee level up visible',
+    framing: 'three-quarter body shot, knees visible, full shoulder width visible, complete torso visible, subject occupies 35-45% of frame',
     description: '膝蓋到頭部',
   },
   chestUp: {
     name: '胸部以上',
-    framing: 'medium close-up, chest up visible, portrait framing',
+    framing: 'medium close-up portrait, chest up visible, full shoulder width visible, complete upper torso visible, subject occupies 40-50% of frame',
     description: '胸部到頭部',
   },
   distant: {
     name: '遠景',
-    framing: 'distant shot, full figure in environmental context, establishing shot',
+    framing: 'distant portrait, full figure in environmental context, establishing shot, subject occupies 25-35% of frame',
     description: '人物與環境全景',
   },
 };

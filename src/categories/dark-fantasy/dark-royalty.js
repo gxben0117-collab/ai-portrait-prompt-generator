@@ -14,6 +14,11 @@ export const DARK_ROYALTY_CATEGORY = {
       'vampire aristocracy elegance',
       'midnight palace grandeur',
       'immortal noble presence',
+      'ancient vampire dynasty',
+      'bloodline royalty',
+      'centuries-old sovereign',
+      'eternal night empire',
+      'immortal aristocracy',
     ],
 
     colors: {
@@ -80,6 +85,10 @@ export const DARK_ROYALTY_CATEGORY = {
       'no anime vampire costume',
       'no horror monster appearance',
       'must maintain aristocratic elegance',
+      'no cheap fantasy costume',
+      'no low-budget cosplay',
+      'no plastic armor',
+      'no theme-park costume',
     ],
 
     textureRequirements: [
