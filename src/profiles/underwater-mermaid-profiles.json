@@ -18,7 +18,7 @@
     },
     "costume": {
       "layer1": "iridescent scales foundation in ocean colors",
-      "layers": "mermaid tail with shimmering scales, seashell bikini top adorned with pearls, coral crown, pearl jewelry, underwater royalty styling",
+      "layers": "mermaid tail with shimmering scales, seashell bikini top adorned with pearls, coral crown, pearl jewelry",
       "layer10": "mermaid queen silhouette on coral throne"
     },
     "action": {
@@ -78,7 +78,7 @@
     },
     "costume": {
       "layer1": "adventurous scales foundation",
-      "layers": "practical explorer mermaid tail, simple accessories, treasure pouch, adventurer styling with found jewels",
+      "layers": "practical explorer mermaid tail, simple accessories, treasure pouch with found jewels",
       "layer10": "treasure hunter mermaid silhouette exploring wreck"
     },
     "action": {
@@ -108,7 +108,7 @@
     },
     "costume": {
       "layer1": "moonlight-silver scales foundation",
-      "layers": "elegant mermaid tail catching moonlight, shell accessories with silver sheen, wet hair clinging beautifully, romantic styling",
+      "layers": "elegant mermaid tail catching moonlight, shell accessories with silver sheen, wet hair clinging beautifully",
       "layer10": "emerging mermaid silhouette in moonlight"
     },
     "action": {
@@ -138,7 +138,7 @@
     },
     "costume": {
       "layer1": "forest-green scales foundation",
-      "layers": "camouflaged mermaid tail in kelp colors, seaweed accessories, natural forest styling, kelp-dweller adaptation",
+      "layers": "camouflaged mermaid tail in kelp colors, seaweed accessories, kelp-dweller adaptation",
       "layer10": "forest mermaid silhouette among kelp"
     },
     "action": {
@@ -168,7 +168,7 @@
     },
     "costume": {
       "layer1": "practical work scales foundation",
-      "layers": "working mermaid tail, simple shell top, collection pouches for pearls, pearl diver styling",
+      "layers": "working mermaid tail, simple shell top, collection pouches for pearls",
       "layer10": "pearl harvester mermaid silhouette working"
     },
     "action": {
@@ -198,7 +198,7 @@
     },
     "costume": {
       "layer1": "bioluminescent scales foundation glowing",
-      "layers": "deep sea mermaid tail with glowing patterns, phosphorescent accessories, glowing hair tips, bioluminescent styling",
+      "layers": "deep sea mermaid tail with glowing patterns, phosphorescent accessories, glowing hair tips",
       "layer10": "glowing mermaid silhouette in deep darkness"
     },
     "action": {
@@ -228,7 +228,7 @@
     },
     "costume": {
       "layer1": "wisdom-aged scales foundation",
-      "layers": "mature mermaid tail showing experience, traditional shell accessories, turtle-companion styling, guardian appearance",
+      "layers": "mature mermaid tail showing experience, traditional shell accessories, turtle-companion styling",
       "layer10": "guardian mermaid silhouette with ancient turtle"
     },
     "action": {
@@ -258,7 +258,7 @@
     },
     "costume": {
       "layer1": "heat-resistant dark scales foundation",
-      "layers": "volcanic region mermaid tail with darker colors, mineral-encrusted accessories, extreme environment adaptation styling",
+      "layers": "volcanic region mermaid tail with darker colors, mineral-encrusted accessories",
       "layer10": "volcanic mermaid silhouette near vents"
     },
     "action": {
@@ -288,7 +288,7 @@
     },
     "costume": {
       "layer1": "performer scales foundation in vibrant colors",
-      "layers": "concert mermaid tail with decorative fins, performance accessories, musical styling, siren appearance",
+      "layers": "concert mermaid tail with decorative fins, performance accessories",
       "layer10": "singing mermaid silhouette with sound waves visible"
     },
     "action": {
@@ -318,7 +318,7 @@
     },
     "costume": {
       "layer1": "ice-white with blue scales foundation",
-      "layers": "Arctic mermaid tail with white-blue coloring, ice crystal accessories, cold-adapted styling, polar beauty",
+      "layers": "Arctic mermaid tail with white-blue coloring, ice crystal accessories, cold-adapted styling",
       "layer10": "ice mermaid silhouette in Arctic waters"
     },
     "action": {
@@ -348,7 +348,7 @@
     },
     "costume": {
       "layer1": "warrior scales foundation",
-      "layers": "armored mermaid tail for combat, seahorse rider gear, warrior accessories, cavalry styling",
+      "layers": "armored mermaid tail for combat, seahorse rider gear, warrior accessories",
       "layer10": "mounted mermaid silhouette on seahorse"
     },
     "action": {
@@ -378,7 +378,7 @@
     },
     "costume": {
       "layer1": "earth-toned scales foundation",
-      "layers": "working mermaid tail, gardening accessories adapted for underwater, conservationist styling, eco-guardian appearance",
+      "layers": "working mermaid tail, gardening accessories adapted for underwater, eco-guardian appearance",
       "layer10": "gardener mermaid silhouette tending coral"
     },
     "action": {
@@ -408,7 +408,7 @@
     },
     "costume": {
       "layer1": "fearless scales foundation",
-      "layers": "brave mermaid tail, minimal accessories for swimming freedom, warrior confidence styling, shark-sister appearance",
+      "layers": "brave mermaid tail, minimal accessories for swimming freedom, shark-sister appearance",
       "layer10": "fearless mermaid silhouette among sharks"
     },
     "action": {
@@ -438,7 +438,7 @@
     },
     "costume": {
       "layer1": "power-glowing scales foundation",
-      "layers": "magical mermaid tail with glowing patterns, water-bending accessories, sorceress styling, elemental power appearance",
+      "layers": "magical mermaid tail with glowing patterns, water-bending accessories",
       "layer10": "water mage mermaid silhouette controlling whirlpool"
     },
     "action": {
@@ -468,7 +468,7 @@
     },
     "costume": {
       "layer1": "toxic-bright scales foundation",
-      "layers": "poison-immune mermaid tail with warning colors, anemone-style accessories, dangerous beauty styling, venom-adapted appearance",
+      "layers": "poison-immune mermaid tail with warning colors, anemone-style accessories, venom-adapted appearance",
       "layer10": "toxic mermaid silhouette in anemone garden"
     },
     "action": {
@@ -498,7 +498,7 @@
     },
     "costume": {
       "layer1": "ancient-styled scales foundation",
-      "layers": "archaeologist mermaid tail, Atlantean artifacts as accessories, historian styling, ancient civilization connection",
+      "layers": "archaeologist mermaid tail, Atlantean artifacts as accessories, ancient civilization connection",
       "layer10": "scholar mermaid silhouette in ancient ruins"
     },
     "action": {
@@ -528,7 +528,7 @@
     },
     "costume": {
       "layer1": "storm-grey scales foundation",
-      "layers": "storm-adapted mermaid tail, protective styling, tempest survivor appearance, battle-tested look",
+      "layers": "storm-adapted mermaid tail, battle-tested look",
       "layer10": "storm mermaid silhouette in turbulent water"
     },
     "action": {
@@ -558,7 +558,7 @@
     },
     "costume": {
       "layer1": "maternal warm scales foundation",
-      "layers": "comfortable mother mermaid tail, practical family accessories, nurturing styling, protective parent appearance",
+      "layers": "comfortable mother mermaid tail, practical family accessories",
       "layer10": "mother mermaid silhouette with young"
     },
     "action": {
@@ -588,7 +588,7 @@
     },
     "costume": {
       "layer1": "transforming scales-to-skin foundation",
-      "layers": "tail becoming legs or legs becoming tail - transformation visible, magical styling, between-worlds appearance",
+      "layers": "tail becoming legs or legs becoming tail - transformation visible, between-worlds appearance",
       "layer10": "transforming mermaid silhouette at world boundary"
     },
     "action": {

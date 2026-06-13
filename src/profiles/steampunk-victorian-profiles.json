@@ -18,7 +18,7 @@
     },
     "costume": {
       "layer1": "Victorian corset foundation with brass accents",
-      "layers": "inventor attire with protective goggles, leather apron over Victorian dress, mechanical accessories, gear jewelry, engineer styling",
+      "layers": "inventor attire with protective goggles, leather apron over Victorian dress, mechanical accessories, gear jewelry",
       "layer10": "steampunk inventor silhouette surrounded by machinery"
     },
     "action": {
@@ -48,7 +48,7 @@
     },
     "costume": {
       "layer1": "Victorian captain foundation with aviation adaptation",
-      "layers": "airship captain uniform with brass buttons, leather flight jacket, aviation goggles, captain accessories, sky explorer styling",
+      "layers": "airship captain uniform with brass buttons, leather flight jacket, aviation goggles, captain accessories",
       "layer10": "airship captain silhouette commanding vessel"
     },
     "action": {
@@ -78,7 +78,7 @@
     },
     "costume": {
       "layer1": "Victorian timekeeper foundation",
-      "layers": "clock tower keeper attire, practical Victorian dress with gear motifs, pocket watches as accessories, timekeeper styling",
+      "layers": "clock tower keeper attire, practical Victorian dress with gear motifs, pocket watches as accessories",
       "layer10": "timekeeper silhouette among giant clock gears"
     },
     "action": {
@@ -108,7 +108,7 @@
     },
     "costume": {
       "layer1": "armored bodysuit foundation",
-      "layers": "steampunk power armor with Victorian design, brass-plated protection, steam-powered strength enhancement, knight styling",
+      "layers": "steampunk power armor with Victorian design, brass-plated protection, steam-powered strength enhancement",
       "layer10": "steam knight silhouette in powered armor"
     },
     "action": {
@@ -138,7 +138,7 @@
     },
     "costume": {
       "layer1": "Victorian ball gown foundation with mechanical elements",
-      "layers": "elaborate steampunk ball gown with gear decorations, clockwork jewelry, brass accessories, aristocratic styling",
+      "layers": "elaborate steampunk ball gown with gear decorations, clockwork jewelry, brass accessories",
       "layer10": "steampunk ball dancer silhouette with mechanical elegance"
     },
     "action": {
@@ -168,7 +168,7 @@
     },
     "costume": {
       "layer1": "underground explorer foundation",
-      "layers": "practical Victorian exploration attire, protective gear with brass elements, spelunking accessories, adventurer styling",
+      "layers": "practical Victorian exploration attire, protective gear with brass elements, spelunking accessories",
       "layer10": "underground explorer silhouette with drilling machine"
     },
     "action": {
@@ -198,7 +198,7 @@
     },
     "costume": {
       "layer1": "Victorian librarian foundation",
-      "layers": "proper Victorian librarian attire with mechanical accessories, reading glasses, clockwork jewelry, scholarly styling",
+      "layers": "proper Victorian librarian attire with mechanical accessories, reading glasses, clockwork jewelry",
       "layer10": "steampunk librarian silhouette among mechanical shelves"
     },
     "action": {
@@ -228,7 +228,7 @@
     },
     "costume": {
       "layer1": "Victorian travel foundation",
-      "layers": "elegant Victorian travel attire, practical but fashionable, brass travel accessories, journey styling",
+      "layers": "elegant Victorian travel attire, practical but fashionable, brass travel accessories",
       "layer10": "train traveler silhouette in luxury car"
     },
     "action": {
@@ -258,7 +258,7 @@
     },
     "costume": {
       "layer1": "practical Victorian garden foundation",
-      "layers": "Victorian gardening attire with mechanical enhancements, work gloves with brass details, botanical accessories, gardener styling",
+      "layers": "Victorian gardening attire with mechanical enhancements, work gloves with brass details, botanical accessories",
       "layer10": "mechanical gardener silhouette in steampunk greenhouse"
     },
     "action": {
@@ -288,7 +288,7 @@
     },
     "costume": {
       "layer1": "Victorian detective foundation",
-      "layers": "proper detective attire with mechanical accessories, magnifying devices, investigator tools, mystery solver styling",
+      "layers": "proper detective attire with mechanical accessories, magnifying devices, investigator tools",
       "layer10": "steampunk detective silhouette examining evidence"
     },
     "action": {
@@ -318,7 +318,7 @@
     },
     "costume": {
       "layer1": "Victorian astronomer foundation",
-      "layers": "practical Victorian astronomer attire, protective wear for night observation, brass accessories, scholarly styling",
+      "layers": "practical Victorian astronomer attire, protective wear for night observation, brass accessories",
       "layer10": "steampunk astronomer silhouette with telescope"
     },
     "action": {
@@ -348,7 +348,7 @@
     },
     "costume": {
       "layer1": "circus performer foundation with mechanical elements",
-      "layers": "steampunk circus costume with gear decorations, performer makeup with brass accents, acrobat styling",
+      "layers": "steampunk circus costume with gear decorations, performer makeup with brass accents",
       "layer10": "mechanical circus performer silhouette in action"
     },
     "action": {
@@ -378,7 +378,7 @@
     },
     "costume": {
       "layer1": "Victorian medical foundation",
-      "layers": "proper Victorian doctor attire with mechanical enhancements, medical accessories, brass medical tools, physician styling",
+      "layers": "proper Victorian doctor attire with mechanical enhancements, medical accessories, brass medical tools",
       "layer10": "steampunk doctor silhouette in laboratory"
     },
     "action": {
@@ -408,7 +408,7 @@
     },
     "costume": {
       "layer1": "Victorian shopkeeper foundation",
-      "layers": "proper Victorian shop attire with mechanical accessories, pet-themed jewelry, merchant styling",
+      "layers": "proper Victorian shop attire with mechanical accessories, pet-themed jewelry",
       "layer10": "pet shop proprietor silhouette with mechanical animals"
     },
     "action": {
@@ -438,7 +438,7 @@
     },
     "costume": {
       "layer1": "submarine crew foundation",
-      "layers": "practical Victorian underwater expedition attire, pressure suit elements, brass diving accessories, explorer styling",
+      "layers": "practical Victorian underwater expedition attire, pressure suit elements, brass diving accessories",
       "layer10": "submarine explorer silhouette in brass vessel"
     },
     "action": {
@@ -468,7 +468,7 @@
     },
     "costume": {
       "layer1": "Victorian photographer foundation",
-      "layers": "proper Victorian photographer attire with protective elements, mechanical accessories, artist styling",
+      "layers": "proper Victorian photographer attire with protective elements, mechanical accessories",
       "layer10": "steampunk photographer silhouette with brass camera"
     },
     "action": {
@@ -498,7 +498,7 @@
     },
     "costume": {
       "layer1": "Victorian musician foundation",
-      "layers": "elegant Victorian concert attire with mechanical enhancements, conductor accessories, musician styling",
+      "layers": "elegant Victorian concert attire with mechanical enhancements, conductor accessories",
       "layer10": "steampunk conductor silhouette with mechanical orchestra"
     },
     "action": {
@@ -528,7 +528,7 @@
     },
     "costume": {
       "layer1": "Victorian tea party foundation",
-      "layers": "elegant Victorian tea party attire with mechanical accessories, proper tea jewelry, aristocratic styling",
+      "layers": "elegant Victorian tea party attire with mechanical accessories, proper tea jewelry",
       "layer10": "Victorian lady silhouette at mechanical tea service"
     },
     "action": {
@@ -558,7 +558,7 @@
     },
     "costume": {
       "layer1": "Victorian time traveler foundation",
-      "layers": "practical Victorian adventurer attire with temporal protection, chronometer accessories, time explorer styling",
+      "layers": "practical Victorian adventurer attire with temporal protection, chronometer accessories",
       "layer10": "time traveler silhouette in temporal distortion"
     },
     "action": {
@@ -588,7 +588,7 @@
     },
     "costume": {
       "layer1": "Victorian citizen foundation representing all classes",
-      "layers": "amalgamation of all Victorian steampunk elements - aristocratic elegance with inventor practicality, ultimate steampunk styling",
+      "layers": "amalgamation of all Victorian steampunk elements - aristocratic elegance with inventor practicality",
       "layer10": "steampunk civilization ambassador silhouette overlooking mechanical metropolis"
     },
     "action": {

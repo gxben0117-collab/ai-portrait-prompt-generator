@@ -48,7 +48,7 @@
     },
     "costume": {
       "layer1": "hunting black with rose-red foundation",
-      "layers": "practical gothic hunting attire, black leather corset, flowing cape, rose accessories, hunting vampire styling",
+      "layers": "practical gothic hunting attire, black leather corset, flowing cape, rose accessories",
       "layer10": "vampire hunter silhouette among roses"
     },
     "action": {
@@ -108,7 +108,7 @@
     },
     "costume": {
       "layer1": "burial white with blood stains foundation",
-      "layers": "gothic burial gown in antique white with blood-red accents, ancient vampire jewelry, eternal rest styling",
+      "layers": "gothic burial gown in antique white with blood-red accents, ancient vampire jewelry",
       "layer10": "resting vampire silhouette in gothic coffin"
     },
     "action": {
@@ -168,7 +168,7 @@
     },
     "costume": {
       "layer1": "urgent night-black foundation",
-      "layers": "practical vampire travel attire, dramatic cape billowing, urgent movement styling, protective accessories",
+      "layers": "practical vampire travel attire, dramatic cape billowing, protective accessories",
       "layer10": "tower phantom silhouette racing dawn"
     },
     "action": {
@@ -198,7 +198,7 @@
     },
     "costume": {
       "layer1": "ceremonial blood-red foundation",
-      "layers": "vampire priest robes in corrupted religious style, ritual jewelry, ceremonial vampire styling",
+      "layers": "vampire priest robes in corrupted religious style, ritual jewelry",
       "layer10": "vampire ritualist silhouette conducting dark ceremony"
     },
     "action": {
@@ -258,7 +258,7 @@
     },
     "costume": {
       "layer1": "vanity preparation foundation in elegant colors",
-      "layers": "partially dressed gothic attire, jewelry selection in progress, vampire beauty ritual styling",
+      "layers": "partially dressed gothic attire, jewelry selection in progress",
       "layer10": "vampire at mirror silhouette with missing reflection"
     },
     "action": {
@@ -288,7 +288,7 @@
     },
     "costume": {
       "layer1": "defensive black with pain indicators",
-      "layers": "vampire combat attire showing distress from holy symbol, defensive posture styling, weakness visible",
+      "layers": "vampire combat attire showing distress from holy symbol, weakness visible",
       "layer10": "recoiling vampire silhouette from holy power"
     },
     "action": {
@@ -318,7 +318,7 @@
     },
     "costume": {
       "layer1": "transformation white-to-red foundation",
-      "layers": "attire transitioning from mortal to vampire, blood stains appearing, immortal change styling",
+      "layers": "attire transitioning from mortal to vampire, blood stains appearing",
       "layer10": "vampire transformation silhouette in dark rebirth"
     },
     "action": {
@@ -348,7 +348,7 @@
     },
     "costume": {
       "layer1": "family formal foundation coordinated",
-      "layers": "aristocratic vampire family attire matching lineage, coordinated gothic styling, dynasty jewelry",
+      "layers": "aristocratic vampire family attire matching lineage, dynasty jewelry",
       "layer10": "vampire dynasty silhouette with generations"
     },
     "action": {
@@ -378,7 +378,7 @@
     },
     "costume": {
       "layer1": "combat-ready vampire foundation",
-      "layers": "battle vampire attire with supernatural power visible, combat cape, defensive accessories, warrior styling",
+      "layers": "battle vampire attire with supernatural power visible, combat cape, defensive accessories",
       "layer10": "vampire warrior silhouette in hunter confrontation"
     },
     "action": {
@@ -408,7 +408,7 @@
     },
     "costume": {
       "layer1": "ballet foundation in blood-red tulle",
-      "layers": "gothic ballet costume with vampire elements, black-red tutu, fangs visible during performance, ballet vampire styling",
+      "layers": "gothic ballet costume with vampire elements, black-red tutu, fangs visible during performance",
       "layer10": "vampire ballerina silhouette mid-performance"
     },
     "action": {
@@ -438,7 +438,7 @@
     },
     "costume": {
       "layer1": "burning vampire foundation showing damage",
-      "layers": "vampire attire catching fire from sunlight, smoke effects, destruction visible, doom styling",
+      "layers": "vampire attire catching fire from sunlight, smoke effects, destruction visible",
       "layer10": "burning vampire silhouette in sunrise doom"
     },
     "action": {
@@ -468,7 +468,7 @@
     },
     "costume": {
       "layer1": "sorrow foundation in dark mourning colors",
-      "layers": "vampire mourning attire, grief styling, blood tear stains visible, emotional vampire presentation",
+      "layers": "vampire mourning attire, blood tear stains visible, emotional vampire presentation",
       "layer10": "weeping vampire silhouette with blood tears"
     },
     "action": {
@@ -528,7 +528,7 @@
     },
     "costume": {
       "layer1": "final rest foundation in pure white",
-      "layers": "vampire in death peace attire, curse breaking visible, eternal rest styling, peaceful dissolution",
+      "layers": "vampire in death peace attire, curse breaking visible, peaceful dissolution",
       "layer10": "dying vampire silhouette achieving true death"
     },
     "action": {
@@ -558,7 +558,7 @@
     },
     "costume": {
       "layer1": "vampire royalty foundation in supreme luxury",
-      "layers": "vampire queen regalia with crown, ultimate gothic royal attire, blood ruby jewelry, sovereign styling",
+      "layers": "vampire queen regalia with crown, ultimate gothic royal attire, blood ruby jewelry",
       "layer10": "vampire monarch silhouette with absolute power"
     },
     "action": {

@@ -48,7 +48,7 @@
     },
     "costume": {
       "layer1": "mural-inspired foundation with heavenly colors",
-      "layers": "Dunhuang flying apsara costume with flowing silk ribbons, gold and turquoise decorations, celestial jewelry, divine dancer styling",
+      "layers": "Dunhuang flying apsara costume with flowing silk ribbons, gold and turquoise decorations, celestial jewelry",
       "layer10": "flying apsara silhouette matching ancient mural aesthetic"
     },
     "action": {
@@ -78,7 +78,7 @@
     },
     "costume": {
       "layer1": "rich silk merchant foundation",
-      "layers": "luxurious Silk Road hanfu showcasing finest silk products, jewelry from various cultures, merchant prosperity styling",
+      "layers": "luxurious Silk Road hanfu showcasing finest silk products, jewelry from various cultures",
       "layer10": "successful merchant silhouette in thriving market"
     },
     "action": {
@@ -138,7 +138,7 @@
     },
     "costume": {
       "layer1": "border region mixed-culture foundation",
-      "layers": "Western Region influenced hanfu with Central Asian elements, mixed cultural jewelry, frontier styling",
+      "layers": "Western Region influenced hanfu with Central Asian elements, mixed cultural jewelry",
       "layer10": "border crossing silhouette with cultural fusion"
     },
     "action": {
@@ -168,7 +168,7 @@
     },
     "costume": {
       "layer1": "storm-resistant desert foundation",
-      "layers": "practical desert survival hanfu with sand protection, wrapped silk scarves, secured accessories, survival styling",
+      "layers": "practical desert survival hanfu with sand protection, wrapped silk scarves, secured accessories",
       "layer10": "sandstorm warrior silhouette with determination"
     },
     "action": {
@@ -198,7 +198,7 @@
     },
     "costume": {
       "layer1": "travel-worn but quality foundation",
-      "layers": "journey hanfu showing travel but maintaining dignity, comfortable rest styling, travel accessories",
+      "layers": "journey hanfu showing travel but maintaining dignity, travel accessories",
       "layer10": "weary traveler silhouette with earned rest"
     },
     "action": {
@@ -258,7 +258,7 @@
     },
     "costume": {
       "layer1": "performance-ready colorful foundation",
-      "layers": "Western Region dance costume with silk and bells, vibrant colors, performance jewelry, dancer styling",
+      "layers": "Western Region dance costume with silk and bells, vibrant colors, performance jewelry",
       "layer10": "campfire dancer silhouette with celebration energy"
     },
     "action": {
@@ -288,7 +288,7 @@
     },
     "costume": {
       "layer1": "autumn gold with desert foundation",
-      "layers": "autumn travel hanfu in golden colors matching poplars, warm accessories, natural beauty styling",
+      "layers": "autumn travel hanfu in golden colors matching poplars, warm accessories",
       "layer10": "golden forest silhouette with autumn harmony"
     },
     "action": {
@@ -318,7 +318,7 @@
     },
     "costume": {
       "layer1": "warrior-practical desert foundation",
-      "layers": "martial hanfu adapted for desert combat, protective leather elements, weapon accessories, warrior styling",
+      "layers": "martial hanfu adapted for desert combat, protective leather elements, weapon accessories",
       "layer10": "desert warrior silhouette with martial capability"
     },
     "action": {
@@ -348,7 +348,7 @@
     },
     "costume": {
       "layer1": "harvest festival foundation in grape colors",
-      "layers": "Turpan regional hanfu with grape motifs, harvest celebration styling, wine-red accents, festive jewelry",
+      "layers": "Turpan regional hanfu with grape motifs, wine-red accents, festive jewelry",
       "layer10": "harvest celebration silhouette with abundance"
     },
     "action": {
@@ -378,7 +378,7 @@
     },
     "costume": {
       "layer1": "cultural guardian foundation with scholarly elements",
-      "layers": "scholar-guardian hanfu showing cultural dedication, Buddhist-inspired accessories, preservation styling",
+      "layers": "scholar-guardian hanfu showing cultural dedication, Buddhist-inspired accessories",
       "layer10": "cultural guardian silhouette with sacred mission"
     },
     "action": {
@@ -438,7 +438,7 @@
     },
     "costume": {
       "layer1": "cosmopolitan luxury foundation",
-      "layers": "Tang dynasty international trade hanfu with foreign influences, mixed cultural jewelry, prosperity styling",
+      "layers": "Tang dynasty international trade hanfu with foreign influences, mixed cultural jewelry",
       "layer10": "trade empire silhouette with cultural fusion"
     },
     "action": {
@@ -468,7 +468,7 @@
     },
     "costume": {
       "layer1": "extreme survival foundation",
-      "layers": "maximum protection hanfu for harsh Gobi, full coverage for extreme heat, survival gear, endurance styling",
+      "layers": "maximum protection hanfu for harsh Gobi, full coverage for extreme heat, survival gear",
       "layer10": "extreme survivor silhouette with ultimate determination"
     },
     "action": {
@@ -498,7 +498,7 @@
     },
     "costume": {
       "layer1": "jade white-green foundation",
-      "layers": "Hotan jade merchant hanfu adorned with jade jewelry, precious stone styling, treasure merchant elegance",
+      "layers": "Hotan jade merchant hanfu adorned with jade jewelry, treasure merchant elegance",
       "layer10": "jade treasure silhouette with precious stone emphasis"
     },
     "action": {
@@ -528,7 +528,7 @@
     },
     "costume": {
       "layer1": "night travel foundation with starlight shimmer",
-      "layers": "night journey hanfu in dark colors with silver accents, star-inspired jewelry, cosmic styling",
+      "layers": "night journey hanfu in dark colors with silver accents, star-inspired jewelry",
       "layer10": "starlit traveler silhouette under Milky Way"
     },
     "action": {
@@ -558,7 +558,7 @@
     },
     "costume": {
       "layer1": "spice-color foundation with rich tones",
-      "layers": "spice trader hanfu in warm aromatic colors, exotic jewelry, sensory styling with fabric suggesting spices",
+      "layers": "spice trader hanfu in warm aromatic colors, exotic jewelry with fabric suggesting spices",
       "layer10": "spice merchant silhouette with aromatic prosperity"
     },
     "action": {
@@ -588,7 +588,7 @@
     },
     "costume": {
       "layer1": "ultimate cultural fusion foundation",
-      "layers": "supreme Silk Road hanfu combining Eastern and Western elements, jewelry from entire route, legendary completion styling",
+      "layers": "supreme Silk Road hanfu combining Eastern and Western elements, jewelry from entire route",
       "layer10": "ultimate Silk Road legend silhouette - journey complete, cultures connected, history made"
     },
     "action": {

@@ -18,7 +18,7 @@
     },
     "costume": {
       "layer1": "luxurious silk foundation in jewel tones",
-      "layers": "elaborate performer hanfu with flowing sleeves, intricate embroidery and jewelry, makeup and hair perfection, top courtesan styling",
+      "layers": "elaborate performer hanfu with flowing sleeves, intricate embroidery and jewelry, makeup and hair perfection",
       "layer10": "star performer silhouette on elegant stage"
     },
     "action": {
@@ -48,7 +48,7 @@
     },
     "costume": {
       "layer1": "musician foundation allowing movement",
-      "layers": "performer hanfu enabling pipa playing, elegant but practical, musical accessories, virtuoso styling",
+      "layers": "performer hanfu enabling pipa playing, elegant but practical, musical accessories",
       "layer10": "master musician silhouette with pipa"
     },
     "action": {
@@ -78,7 +78,7 @@
     },
     "costume": {
       "layer1": "rainbow silk foundation layers",
-      "layers": "legendary nishang yuyi dance costume with flowing rainbow silks, feather decorations, celestial dancer styling",
+      "layers": "legendary nishang yuyi dance costume with flowing rainbow silks, feather decorations",
       "layer10": "celestial dancer silhouette in rainbow silk"
     },
     "action": {
@@ -108,7 +108,7 @@
     },
     "costume": {
       "layer1": "scholarly elegant foundation",
-      "layers": "refined intellectual hanfu, literary accessories, poet-performer styling, cultivated appearance",
+      "layers": "refined intellectual hanfu, literary accessories, poet-performer styling",
       "layer10": "literary entertainer silhouette in salon"
     },
     "action": {
@@ -168,7 +168,7 @@
     },
     "costume": {
       "layer1": "Western Region influenced foundation",
-      "layers": "Hu spinning dance costume with Central Asian elements, exotic jewelry and scarves, Silk Road dancer styling",
+      "layers": "Hu spinning dance costume with Central Asian elements, exotic jewelry and scarves",
       "layer10": "exotic dancer silhouette spinning"
     },
     "action": {
@@ -198,7 +198,7 @@
     },
     "costume": {
       "layer1": "promising newcomer foundation",
-      "layers": "debut performance hanfu showing potential, fresh styling, rookie performer appearance, youthful elegance",
+      "layers": "debut performance hanfu showing potential, youthful elegance",
       "layer10": "debut performer silhouette nervously graceful"
     },
     "action": {
@@ -228,7 +228,7 @@
     },
     "costume": {
       "layer1": "party entertainer foundation",
-      "layers": "social hanfu for banquet entertainment, accessible styling, party hostess appearance, engaging presentation",
+      "layers": "social hanfu for banquet entertainment, engaging presentation",
       "layer10": "banquet entertainer silhouette hosting games"
     },
     "action": {
@@ -288,7 +288,7 @@
     },
     "costume": {
       "layer1": "moonlight romantic foundation",
-      "layers": "elegant night performance hanfu, moonlight-enhancing colors, intimate styling, exclusive performer appearance",
+      "layers": "elegant night performance hanfu, moonlight-enhancing colors",
       "layer10": "moonlit singer silhouette on terrace"
     },
     "action": {
@@ -318,7 +318,7 @@
     },
     "costume": {
       "layer1": "winter performance foundation",
-      "layers": "elegant winter hanfu with fur trim, flute player styling, musical virtuoso appearance, winter elegance",
+      "layers": "elegant winter hanfu with fur trim, winter elegance",
       "layer10": "flute master silhouette with winter plum"
     },
     "action": {
@@ -348,7 +348,7 @@
     },
     "costume": {
       "layer1": "instructional elegance foundation",
-      "layers": "practical teaching hanfu showing makeup expertise, own makeup perfection, teacher styling, beauty master appearance",
+      "layers": "practical teaching hanfu showing makeup expertise, own makeup perfection",
       "layer10": "makeup master silhouette teaching"
     },
     "action": {
@@ -378,7 +378,7 @@
     },
     "costume": {
       "layer1": "refined ceremony foundation",
-      "layers": "ceremonial hanfu for tea and incense, cultivated styling, lifestyle artist appearance, refined elegance",
+      "layers": "ceremonial hanfu for tea and incense, refined elegance",
       "layer10": "ceremony master silhouette with tea and incense"
     },
     "action": {
@@ -408,7 +408,7 @@
     },
     "costume": {
       "layer1": "festival celebration foundation",
-      "layers": "festive performance hanfu in celebration colors, holiday styling, festival performer appearance, celebratory elegance",
+      "layers": "festive performance hanfu in celebration colors, celebratory elegance",
       "layer10": "festival performer silhouette in celebration"
     },
     "action": {
@@ -438,7 +438,7 @@
     },
     "costume": {
       "layer1": "competitive performance foundation",
-      "layers": "showcase hanfu highlighting individual style, competitive styling, standout appearance, rivalry elegance",
+      "layers": "showcase hanfu highlighting individual style, rivalry elegance",
       "layer10": "competing performer silhouette showcasing"
     },
     "action": {
@@ -468,7 +468,7 @@
     },
     "costume": {
       "layer1": "elite entertainment foundation",
-      "layers": "luxurious private performance hanfu, exclusive styling, high-end entertainer appearance, elite elegance",
+      "layers": "luxurious private performance hanfu, high-end entertainer appearance, elite elegance",
       "layer10": "elite entertainer silhouette at private banquet"
     },
     "action": {
@@ -498,7 +498,7 @@
     },
     "costume": {
       "layer1": "melancholic performance foundation",
-      "layers": "emotional performer hanfu, somber but elegant styling, nostalgic appearance, emotional artist presentation",
+      "layers": "emotional performer hanfu, emotional artist presentation",
       "layer10": "melancholic musician silhouette with huqin"
     },
     "action": {
@@ -528,7 +528,7 @@
     },
     "costume": {
       "layer1": "farewell performance foundation",
-      "layers": "final performance hanfu combining career highlights, mature elegant styling, retirement grace appearance, legendary status presentation",
+      "layers": "final performance hanfu combining career highlights, legendary status presentation",
       "layer10": "retiring legend silhouette in final bow"
     },
     "action": {
@@ -558,7 +558,7 @@
     },
     "costume": {
       "layer1": "master teacher foundation",
-      "layers": "teaching hanfu showing experience, mentor styling, legacy holder appearance, master elegance",
+      "layers": "teaching hanfu showing experience, master elegance",
       "layer10": "master teacher silhouette instructing successor"
     },
     "action": {
@@ -588,7 +588,7 @@
     },
     "costume": {
       "layer1": "legendary master foundation",
-      "layers": "ultimate recognition hanfu representing entire career, legendary styling, master of masters appearance, timeless elegance embodiment",
+      "layers": "ultimate recognition hanfu representing entire career, timeless elegance embodiment",
       "layer10": "legendary master silhouette - ultimate Tang jiaofang achievement"
     },
     "action": {

@@ -18,7 +18,7 @@
     },
     "costume": {
       "layer1": "sleek space uniform foundation",
-      "layers": "advanced captain uniform with rank insignia, tech-integrated fabric, command accessories, space officer styling",
+      "layers": "advanced captain uniform with rank insignia, tech-integrated fabric, command accessories",
       "layer10": "starship captain silhouette commanding bridge"
     },
     "action": {
@@ -48,7 +48,7 @@
     },
     "costume": {
       "layer1": "astronaut foundation with advanced materials",
-      "layers": "space exploration suit with clear helmet showing face, nebula-colored accents on suit, scientific instruments, explorer styling",
+      "layers": "space exploration suit with clear helmet showing face, nebula-colored accents on suit, scientific instruments",
       "layer10": "space explorer silhouette in nebula colors"
     },
     "action": {
@@ -78,7 +78,7 @@
     },
     "costume": {
       "layer1": "comfortable station jumpsuit foundation",
-      "layers": "practical station living attire, velcro shoes for zero-g, personal accessories, astronaut casual styling",
+      "layers": "practical station living attire, velcro shoes for zero-g, personal accessories",
       "layer10": "station resident silhouette in orbital home"
     },
     "action": {
@@ -108,7 +108,7 @@
     },
     "costume": {
       "layer1": "formal diplomatic foundation",
-      "layers": "space diplomat uniform representing humanity, cultural ambassador accessories, peace mission styling, historic moment dress",
+      "layers": "space diplomat uniform representing humanity, cultural ambassador accessories, historic moment dress",
       "layer10": "human diplomat silhouette meeting aliens"
     },
     "action": {
@@ -138,7 +138,7 @@
     },
     "costume": {
       "layer1": "heavy-duty spacesuit foundation",
-      "layers": "reinforced lunar work suit, construction tools attached, builder accessories, colonist worker styling",
+      "layers": "reinforced lunar work suit, construction tools attached, builder accessories",
       "layer10": "lunar worker silhouette building base"
     },
     "action": {
@@ -168,7 +168,7 @@
     },
     "costume": {
       "layer1": "extreme environment suit foundation",
-      "layers": "reinforced physics-resistant suit, time dilation monitoring equipment, survival gear, extreme explorer styling",
+      "layers": "reinforced physics-resistant suit, time dilation monitoring equipment, survival gear",
       "layer10": "gravity explorer silhouette near black hole"
     },
     "action": {
@@ -198,7 +198,7 @@
     },
     "costume": {
       "layer1": "Mars colonist foundation",
-      "layers": "casual Martian civilian attire, light pressure suit for emergencies, colonist accessories, Mars resident styling",
+      "layers": "casual Martian civilian attire, light pressure suit for emergencies, colonist accessories",
       "layer10": "Martian colonist silhouette in biodome"
     },
     "action": {
@@ -228,7 +228,7 @@
     },
     "costume": {
       "layer1": "mining spacesuit foundation",
-      "layers": "heavy-duty comet miner suit, ice drilling equipment, volatile collection gear, space miner styling",
+      "layers": "heavy-duty comet miner suit, ice drilling equipment, volatile collection gear",
       "layer10": "comet miner silhouette on nucleus"
     },
     "action": {
@@ -258,7 +258,7 @@
     },
     "costume": {
       "layer1": "galactic diplomat foundation",
-      "layers": "formal Earth representative attire with cultural elements, ambassador accessories, interstellar diplomat styling",
+      "layers": "formal Earth representative attire with cultural elements, ambassador accessories",
       "layer10": "galactic ambassador silhouette in council"
     },
     "action": {
@@ -288,7 +288,7 @@
     },
     "costume": {
       "layer1": "asteroid miner foundation",
-      "layers": "practical mining ship pilot suit, ore scanner equipment, prospector accessories, frontier miner styling",
+      "layers": "practical mining ship pilot suit, ore scanner equipment, prospector accessories",
       "layer10": "asteroid prospector silhouette piloting"
     },
     "action": {
@@ -318,7 +318,7 @@
     },
     "costume": {
       "layer1": "chief engineer foundation",
-      "layers": "engineering officer uniform, protective gear for engine room, technical accessories, warp engineer styling",
+      "layers": "engineering officer uniform, protective gear for engine room, technical accessories",
       "layer10": "warp engineer silhouette monitoring drive"
     },
     "action": {
@@ -348,7 +348,7 @@
     },
     "costume": {
       "layer1": "EVA spacesuit foundation",
-      "layers": "full spacewalk suit with life support, helmet showing face, tether and tools, spacewalker styling",
+      "layers": "full spacewalk suit with life support, helmet showing face, tether and tools",
       "layer10": "spacewalker silhouette floating free"
     },
     "action": {
@@ -378,7 +378,7 @@
     },
     "costume": {
       "layer1": "planetary scientist foundation",
-      "layers": "research vessel uniform, scientific instruments, observation equipment, planetary researcher styling",
+      "layers": "research vessel uniform, scientific instruments, observation equipment",
       "layer10": "Saturn observer silhouette with rings visible"
     },
     "action": {
@@ -408,7 +408,7 @@
     },
     "costume": {
       "layer1": "space farmer foundation",
-      "layers": "practical agricultural jumpsuit, gardening tools adapted for space, farmer accessories, orbital agriculturist styling",
+      "layers": "practical agricultural jumpsuit, gardening tools adapted for space, farmer accessories",
       "layer10": "space farmer silhouette tending crops"
     },
     "action": {
@@ -438,7 +438,7 @@
     },
     "costume": {
       "layer1": "radiation-shielded suit foundation",
-      "layers": "heavy radiation protection suit, stellar observer gear, safety equipment, stellar researcher styling",
+      "layers": "heavy radiation protection suit, stellar observer gear, safety equipment",
       "layer10": "stellar observer silhouette in supernova glow"
     },
     "action": {
@@ -468,7 +468,7 @@
     },
     "costume": {
       "layer1": "extreme pressure suit foundation",
-      "layers": "reinforced atmospheric probe pilot suit, storm survival gear, planetary atmospheric researcher styling",
+      "layers": "reinforced atmospheric probe pilot suit, storm survival gear",
       "layer10": "storm researcher silhouette in Jupiter vortex"
     },
     "action": {
@@ -498,7 +498,7 @@
     },
     "costume": {
       "layer1": "cryo-sleep garment foundation",
-      "layers": "minimal hibernation suit, frost crystals melting away, awakening styling, long-journey survivor appearance",
+      "layers": "minimal hibernation suit, frost crystals melting away, long-journey survivor appearance",
       "layer10": "awakening traveler silhouette in cryo-pod"
     },
     "action": {
@@ -528,7 +528,7 @@
     },
     "costume": {
       "layer1": "fighter pilot foundation",
-      "layers": "space fighter pilot suit with g-force protection, helmet with HUD, military insignia, combat pilot styling",
+      "layers": "space fighter pilot suit with g-force protection, helmet with HUD, military insignia",
       "layer10": "space pilot silhouette in cockpit combat"
     },
     "action": {
@@ -558,7 +558,7 @@
     },
     "costume": {
       "layer1": "xenobiologist foundation",
-      "layers": "environmental suit adapted for alien biosphere, scientific instruments, specimen collection gear, alien life researcher styling",
+      "layers": "environmental suit adapted for alien biosphere, scientific instruments, specimen collection gear",
       "layer10": "xenobiologist silhouette studying alien life"
     },
     "action": {
@@ -588,7 +588,7 @@
     },
     "costume": {
       "layer1": "ultimate explorer foundation",
-      "layers": "advanced explorer suit representing all space achievements, pioneer insignia, ultimate frontier styling",
+      "layers": "advanced explorer suit representing all space achievements, pioneer insignia",
       "layer10": "ultimate space pioneer silhouette at cosmic frontier"
     },
     "action": {

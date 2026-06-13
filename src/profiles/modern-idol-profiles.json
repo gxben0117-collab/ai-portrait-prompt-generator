@@ -18,7 +18,7 @@
     },
     "costume": {
       "layer1": "debut performance foundation sparkle",
-      "layers": "eye-catching debut stage outfit with sequins and shine, coordinated group styling, professional makeup and hair, rookie idol presentation",
+      "layers": "eye-catching debut stage outfit with sequins and shine, professional makeup and hair, rookie idol presentation",
       "layer10": "debut idol silhouette on massive stage"
     },
     "action": {
@@ -48,7 +48,7 @@
     },
     "costume": {
       "layer1": "comfortable practice wear foundation",
-      "layers": "workout practice clothes showing sweat, comfortable dance shoes, minimal practice styling, hardworking trainee appearance",
+      "layers": "workout practice clothes showing sweat, comfortable dance shoes",
       "layer10": "practicing idol silhouette in mirror reflection"
     },
     "action": {
@@ -78,7 +78,7 @@
     },
     "costume": {
       "layer1": "victory performance foundation",
-      "layers": "comeback stage outfit now with added trophy, celebration styling, emotional victory appearance, chart-topping idol presentation",
+      "layers": "comeback stage outfit now with added trophy, chart-topping idol presentation",
       "layer10": "victorious idol silhouette with trophy raised"
     },
     "action": {
@@ -108,7 +108,7 @@
     },
     "costume": {
       "layer1": "airport fashion foundation stylish",
-      "layers": "trendy comfortable travel outfit, designer accessories, sunglasses and mask, airport idol fashion styling",
+      "layers": "trendy comfortable travel outfit, designer accessories, sunglasses and mask",
       "layer10": "fashionable idol silhouette at airport"
     },
     "action": {
@@ -138,7 +138,7 @@
     },
     "costume": {
       "layer1": "concept-specific MV foundation",
-      "layers": "artistic music video styling matching concept, professional styling team work, cinematic appearance, artistic idol presentation",
+      "layers": "artistic music video styling matching concept team work, artistic idol presentation",
       "layer10": "MV star silhouette in dramatic lighting"
     },
     "action": {
@@ -168,7 +168,7 @@
     },
     "costume": {
       "layer1": "variety-appropriate casual foundation",
-      "layers": "comfortable variety show outfit allowing movement, fun styling for entertainment, variety idol appearance, approachable styling",
+      "layers": "comfortable variety show outfit allowing movement for entertainment",
       "layer10": "entertaining idol silhouette on variety set"
     },
     "action": {
@@ -198,7 +198,7 @@
     },
     "costume": {
       "layer1": "approachable idol foundation",
-      "layers": "cute friendly fan meeting outfit, accessible styling for fans, warm appearance, fan-service styling",
+      "layers": "cute friendly fan meeting outfit for fans, fan-service styling",
       "layer10": "fan-loving idol silhouette interacting closely"
     },
     "action": {
@@ -228,7 +228,7 @@
     },
     "costume": {
       "layer1": "haute couture foundation elegant",
-      "layers": "designer gown or suit for awards, luxury jewelry and accessories, professional red carpet styling, award nominee appearance",
+      "layers": "designer gown or suit for awards, luxury jewelry and accessories",
       "layer10": "award ceremony idol silhouette on red carpet"
     },
     "action": {
@@ -258,7 +258,7 @@
     },
     "costume": {
       "layer1": "comfortable home wear foundation",
-      "layers": "casual pajamas or loungewear, no makeup natural look, comfortable home styling, off-duty idol appearance",
+      "layers": "casual pajamas or loungewear, no makeup natural look, off-duty idol appearance",
       "layer10": "relaxing idol silhouette in private space"
     },
     "action": {
@@ -288,7 +288,7 @@
     },
     "costume": {
       "layer1": "brand-coordinated foundation",
-      "layers": "outfit matching brand image, product prominently featured, commercial styling perfection, brand ambassador appearance",
+      "layers": "outfit matching brand image, product prominently featured perfection",
       "layer10": "endorsement idol silhouette with product"
     },
     "action": {
@@ -318,7 +318,7 @@
     },
     "costume": {
       "layer1": "comfortable creative foundation",
-      "layers": "casual studio work clothes, comfortable for long sessions, minimal creative styling, artist-producer appearance",
+      "layers": "casual studio work clothes, comfortable for long sessions, artist-producer appearance",
       "layer10": "composer idol silhouette creating music"
     },
     "action": {
@@ -348,7 +348,7 @@
     },
     "costume": {
       "layer1": "world tour production foundation",
-      "layers": "elaborate tour costume with cultural elements, international styling, world stage appearance, global star presentation",
+      "layers": "elaborate tour costume with cultural elements, global star presentation",
       "layer10": "world star idol silhouette on international stage"
     },
     "action": {
@@ -378,7 +378,7 @@
     },
     "costume": {
       "layer1": "haute couture foundation",
-      "layers": "designer runway collection piece, high fashion styling by professionals, runway model appearance, fashion icon presentation",
+      "layers": "designer runway collection piece by professionals, fashion icon presentation",
       "layer10": "fashion idol silhouette on designer runway"
     },
     "action": {
@@ -408,7 +408,7 @@
     },
     "costume": {
       "layer1": "comfortable radio foundation",
-      "layers": "casual radio show outfit since not on camera, comfortable DJ styling, voice personality appearance, radio host styling",
+      "layers": "casual radio show outfit since not on camera",
       "layer10": "radio DJ idol silhouette broadcasting"
     },
     "action": {
@@ -438,7 +438,7 @@
     },
     "costume": {
       "layer1": "modest volunteer foundation",
-      "layers": "appropriate charity event attire, humble styling for volunteering, sincere appearance, role model presentation",
+      "layers": "appropriate charity event attire for volunteering, role model presentation",
       "layer10": "charitable idol silhouette helping others"
     },
     "action": {
@@ -468,7 +468,7 @@
     },
     "costume": {
       "layer1": "graduation ceremony foundation",
-      "layers": "special final performance outfit, meaningful styling elements, graduation styling, bittersweet final appearance",
+      "layers": "special final performance outfit elements",
       "layer10": "graduating idol silhouette in emotional moment"
     },
     "action": {
@@ -498,7 +498,7 @@
     },
     "costume": {
       "layer1": "real daily foundation",
-      "layers": "actual everyday clothes without performance styling, natural documentary appearance, authentic self presentation, real idol styling",
+      "layers": "actual everyday clothes without performance styling, authentic self presentation",
       "layer10": "real idol silhouette in documentary"
     },
     "action": {
@@ -528,7 +528,7 @@
     },
     "costume": {
       "layer1": "character-specific foundation",
-      "layers": "drama character costume, acting role styling, different persona appearance, actor transformation presentation",
+      "layers": "drama character costume, actor transformation presentation",
       "layer10": "actor idol silhouette in character"
     },
     "action": {
@@ -558,7 +558,7 @@
     },
     "costume": {
       "layer1": "casual livestream foundation",
-      "layers": "comfortable streaming outfit, light makeup for camera, approachable streaming styling, online personality appearance",
+      "layers": "comfortable streaming outfit, light makeup for camera",
       "layer10": "streaming idol silhouette connecting online"
     },
     "action": {
@@ -588,7 +588,7 @@
     },
     "costume": {
       "layer1": "iconic comeback foundation",
-      "layers": "reimagined signature outfit from debut era, mature styling showing growth, legendary return appearance, timeless idol presentation",
+      "layers": "reimagined signature outfit from debut era showing growth, timeless idol presentation",
       "layer10": "legendary idol silhouette in comeback glory"
     },
     "action": {

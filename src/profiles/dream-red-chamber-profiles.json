@@ -288,7 +288,7 @@
     },
     "costume": {
       "layer1": "literary elegant foundation in scholar colors",
-      "layers": "refined poetry society hanfu in tasteful colors, literary accessories, comfortable but elegant styling",
+      "layers": "refined poetry society hanfu in tasteful colors, literary accessories",
       "layer10": "literary gathering silhouette with cultured atmosphere"
     },
     "action": {
@@ -318,7 +318,7 @@
     },
     "costume": {
       "layer1": "practical luxury foundation in strong colors",
-      "layers": "capable manager hanfu in bold colors with phoenix patterns, practical but expensive jewelry, authority styling",
+      "layers": "capable manager hanfu in bold colors with phoenix patterns, practical but expensive jewelry",
       "layer10": "household manager silhouette with capability and authority"
     },
     "action": {
@@ -378,7 +378,7 @@
     },
     "costume": {
       "layer1": "carefree comfortable silk foundation",
-      "layers": "boyish-style hanfu in casual elegance, partially disheveled from sleep, natural relaxed styling",
+      "layers": "boyish-style hanfu in casual elegance, partially disheveled from sleep",
       "layer10": "carefree sleeping beauty silhouette among peonies"
     },
     "action": {
@@ -408,7 +408,7 @@
     },
     "costume": {
       "layer1": "capable authority foundation in clear colors",
-      "layers": "reform-minded hanfu in confident colors with modern touches, practical jewelry, progressive styling",
+      "layers": "reform-minded hanfu in confident colors with modern touches, practical jewelry",
       "layer10": "capable reformer silhouette with progressive authority"
     },
     "action": {
@@ -438,7 +438,7 @@
     },
     "costume": {
       "layer1": "artist-practical foundation with paint protection",
-      "layers": "painting hanfu in muted colors, sleeves secured for work, minimal jewelry for comfort, artistic styling",
+      "layers": "painting hanfu in muted colors, sleeves secured for work, minimal jewelry for comfort",
       "layer10": "focused artist silhouette with painting concentration"
     },
     "action": {
@@ -468,7 +468,7 @@
     },
     "costume": {
       "layer1": "soft gentle colors foundation",
-      "layers": "docile hanfu in pale gentle colors, simple but quality embroidery, minimal jewelry, timid styling",
+      "layers": "docile hanfu in pale gentle colors, simple but quality embroidery, minimal jewelry",
       "layer10": "gentle submissive silhouette with quiet presence"
     },
     "action": {
@@ -498,7 +498,7 @@
     },
     "costume": {
       "layer1": "widow's proper foundation in muted colors",
-      "layers": "young widow hanfu in plain colors without bright decoration, minimal jewelry, proper virtuous styling",
+      "layers": "young widow hanfu in plain colors without bright decoration, minimal jewelry",
       "layer10": "dutiful widow silhouette with maternal dedication"
     },
     "action": {
@@ -528,7 +528,7 @@
     },
     "costume": {
       "layer1": "servant foundation in quality fabrics",
-      "layers": "favored maid hanfu in better quality than normal servant, personality styling, rebellious grace",
+      "layers": "favored maid hanfu in better quality than normal servant, rebellious grace",
       "layer10": "defiant beauty silhouette with proud spirit"
     },
     "action": {
@@ -558,7 +558,7 @@
     },
     "costume": {
       "layer1": "celebration formal foundation in festive colors",
-      "layers": "birthday celebration hanfu in joyous colors, full formal jewelry for grandmother's birthday, celebratory styling",
+      "layers": "birthday celebration hanfu in joyous colors, full formal jewelry for grandmother's birthday",
       "layer10": "grand celebration silhouette with family joy"
     },
     "action": {
@@ -588,7 +588,7 @@
     },
     "costume": {
       "layer1": "simple plain foundation showing decline",
-      "layers": "simplified hanfu in plain colors without former luxury, minimal accessories, fallen circumstances styling",
+      "layers": "simplified hanfu in plain colors without former luxury, minimal accessories",
       "layer10": "melancholic ending silhouette in snow-covered ruins"
     },
     "action": {
