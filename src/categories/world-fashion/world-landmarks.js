@@ -1,88 +1,89 @@
 /**
- * 巴黎鐵塔｜世界地標｜旅拍時尚
- * Paris Eiffel Tower - World Landmarks - Fashion Travel
+ * 世界地標｜旅拍時尚｜環球風情
+ * World Landmarks - Fashion Travel - Global Destinations
  */
 
 export const WORLD_LANDMARKS_CATEGORY = {
   id: 'world-landmarks',
-  name: '巴黎鐵塔｜世界地標｜旅拍時尚',
+  name: '世界地標｜旅拍時尚｜環球風情',
   themeGroup: 'world-fashion',
 
   visualDNA: {
     atmosphere: [
       'iconic world landmark atmosphere',
       'international travel fashion',
-      'urban chic elegance',
-      'cosmopolitan style',
+      'destination elegance',
+      'global explorer style',
     ],
 
     colors: {
-      primary: ['Paris gray', 'urban black', 'fashionable white'],
-      secondary: ['Eiffel Tower metallic', 'sunset golden', 'street lamp warm'],
-      accent: ['city light bokeh', 'fashion accessories'],
+      primary: ['landmark natural tones', 'destination ambient colors', 'traveler fashion neutrals'],
+      secondary: ['golden hour warmth', 'natural light tones', 'architectural accents'],
+      accent: ['landmark signature colors', 'cultural elements'],
     },
 
     iconicProps: [
-      'Eiffel Tower backdrop',
-      'European architecture',
-      'cobblestone streets',
-      'street lamps',
-      'urban cafe setting',
-      'fashion shopping bags',
-      'city landmarks',
+      'world landmark backdrop',
+      'destination architecture',
+      'cultural monuments',
+      'natural wonders',
+      'historical sites',
+      'iconic structures',
+      'landmark context',
     ],
 
     costumeStyle: {
-      layer1: 'fashionable urban outfit foundation',
-      concept: 'international travel fashion style',
+      layer1: 'fashionable traveler outfit foundation',
+      concept: 'international destination fashion style',
       keywords: [
-        'elegant European fashion dress',
-        'stylish coat or jacket',
+        'elegant destination-appropriate dress',
+        'stylish travel attire',
         'fashionable accessories',
-        'designer handbag',
-        'trendy sunglasses',
-        'stylish footwear',
+        'cultural respect with fashion',
+        'photographer chic',
+        'explorer elegance',
       ],
       fabric: [
-        'fashionable wool or cotton blends',
-        'trendy urban fabrics',
-        'designer quality materials',
+        'breathable travel fabrics',
+        'elegant comfortable materials',
+        'destination-appropriate textiles',
       ],
     },
 
     bodyRequirements: {
-      bodyType: 'fashionable urban silhouette',
-      emphasis: 'international fashion model presence',
+      bodyType: 'fashionable traveler silhouette',
+      emphasis: 'international fashion presence with natural grace',
     },
 
     sceneTypes: [
-      'Eiffel Tower landmark view',
-      'European street with architecture',
-      'urban cafe terrace',
-      'city plaza with monuments',
+      'iconic landmark backdrop',
+      'natural wonder setting',
+      'historical monument context',
+      'architectural marvel environment',
     ],
 
     lighting: {
-      keyLight: 'natural urban daylight or golden hour',
-      fillLight: 'urban ambient reflection',
-      rimLight: 'city light separation',
-      ambience: 'cosmopolitan urban atmosphere',
+      keyLight: 'natural ambient light matching destination time and weather',
+      fillLight: 'environmental reflection from landmark surroundings',
+      rimLight: 'natural edge light from sun or sky',
+      ambience: 'destination-specific natural atmosphere',
     },
 
     photography: {
       framing: 'fashion travel photography composition',
-      focus: 'urban portrait with landmark context',
-      mood: 'international fashion magazine quality',
+      focus: 'portrait with landmark environmental context',
+      mood: 'international travel magazine quality',
     },
 
     prohibitions: [
       'no tourist snapshot quality',
+      'no disrespectful cultural representation',
     ],
 
     textureRequirements: [
-      'urban architecture realistic detail',
-      'fashion fabric quality rendering',
-      'natural urban lighting',
+      'landmark architecture realistic detail',
+      'natural environmental lighting',
+      'destination-authentic atmosphere',
     ],
   },
 
