@@ -180,33 +180,15 @@ export const UNIVERSAL_NEGATIVE = [
 ];
 
 /**
- * Solo Character Negative（禁止多人）
+ * Solo Character Negative（禁止多人）- 精簡版
  */
 export const SOLO_CHARACTER_NEGATIVE = [
   'multiple people',
   'crowd',
-  'group',
-  'background people',
   'background characters',
   'secondary characters',
-  'extra people',
-  'attendants',
-  'servants',
-  'guests',
-  'banquet guests',
-  'scholars',
-  'officials',
-  'gathering',
-  'meeting',
-  'assembly',
-  'audience',
-  'spectators',
-  'people sitting',
-  'people standing',
-  'human figures',
+  'group',
   'human silhouettes',
-  'distant figures',
-  'blurred figures',
 ];
 
 /**

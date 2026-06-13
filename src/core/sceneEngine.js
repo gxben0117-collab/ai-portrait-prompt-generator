@@ -23,8 +23,9 @@ export function generateScenePrompt(categoryVisualDNA, roleSceneData) {
   // 氛圍描述
   const atmosphereDescription = atmosphere.slice(0, 2).join(', ');
 
-  // 時間與天氣
-  const environmentalContext = [timeOfDay, weather].filter(Boolean).join(', ');
+  // 時間與天氣（移除具體光線時間，避免與 lighting 層衝突）
+  const cleanedTimeOfDay = cleanLightingConflicts(timeOfDay);
+  const environmentalContext = [cleanedTimeOfDay, weather].filter(Boolean).join(', ');
 
   // Solo Character Control（確保只有主角一人）
   const soloCharacterControl = 'solo female character, single person only, only one human in entire image, featured heroine, main character focus, empty environment, no attendants, no crowd, no background characters';
@@ -43,6 +44,35 @@ export function generateScenePrompt(categoryVisualDNA, roleSceneData) {
     weight: 1.2,
     layer: 'scene',
   };
+}
+
+/**
+ * 清理光線衝突關鍵字
+ * 移除具體光線時間，保留情境描述
+ */
+function cleanLightingConflicts(timeOfDay) {
+  if (!timeOfDay) return '';
+
+  // 具體光線時間關鍵字（會與 lighting 層衝突）
+  const lightingKeywords = [
+    'golden hour', 'sunset', 'sunrise', 'morning light',
+    'afternoon light', 'daylight', 'dawn', 'dusk',
+    'moonlit', 'candlelit', 'moonlight', 'candlelight'
+  ];
+
+  let cleaned = timeOfDay;
+
+  // 移除光線關鍵字
+  lightingKeywords.forEach(keyword => {
+    const regex = new RegExp(`\\b${keyword}\\b`, 'gi');
+    cleaned = cleaned.replace(regex, '').trim();
+  });
+
+  // 清理多餘空格和標點
+  cleaned = cleaned.replace(/\s+/g, ' ').replace(/^[,\s]+|[,\s]+$/g, '');
+
+  // 如果清理後為空，返回通用時間
+  return cleaned || 'atmospheric moment';
 }
 
 /**
