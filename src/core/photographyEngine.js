@@ -11,7 +11,7 @@ export const PHOTOGRAPHY_PRESETS = {
   portrait: {
     framing: 'medium close-up portrait, upper body visible',
     focus: 'shallow depth of field, f/2.8 equivalent',
-    lens: '85mm portrait lens equivalent',
+    lens: '50mm portrait lens equivalent',
     angle: 'eye-level natural perspective',
     composition: 'rule of thirds, balanced composition',
     bodyScale: 'subject occupies 35-45% of frame, head occupies no more than 30% of visible figure, full shoulder width visible, complete upper torso visible, real adult body mass, balanced head-to-shoulder ratio, avoid oversized head, avoid selfie proportions',
@@ -41,7 +41,7 @@ export const PHOTOGRAPHY_PRESETS = {
   travelPhotography: {
     framing: 'travel photography scale, subject with epic landscape',
     focus: 'balanced depth showing both subject and environment',
-    lens: '35mm wide-angle lens equivalent',
+    lens: '50mm standard lens equivalent',
     angle: 'eye-level or slight low angle for grandeur',
     composition: 'subject as focal point within vast scene',
     bodyScale: 'subject occupies 25-35% of frame, environmental portrait, character within landscape context, natural scale in environment',

@@ -97,7 +97,7 @@
         "garden pavilion with painted beams",
         "autumn leaves falling",
         "ornamental rocks",
-        "palace musicians in background"
+        "palace musical ambiance"
       ],
       "timeOfDay": "afternoon",
       "weather": "clear autumn day"
@@ -385,7 +385,7 @@
       "props": [
         "elaborate lanterns everywhere",
         "festival decorations",
-        "crowds in background",
+        "festive setting",
         "night festival atmosphere",
         "colorful lights"
       ],
@@ -499,8 +499,8 @@
     "scene": {
       "location": "palace performance stage",
       "props": [
-        "stage with audience area",
-        "musicians playing",
+        "performance stage",
+        "musical accompaniment",
         "silk ribbons for dance",
         "stage decorations",
         "performance lighting"

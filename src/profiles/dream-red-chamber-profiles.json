@@ -107,7 +107,7 @@
       "weather": "snowing outside with warm interior"
     },
     "costume": {
-      "layer1": "warm winter silk with fur trim",
+      "layer1": "Tang Dynasty noblewoman foundation",
       "layers": "luxurious winter banquet hanfu in rich burgundy with gold phoenix embroidery, fur collar, elaborate hairpins and jewelry",
       "layer10": "aristocratic winter banquet silhouette with luxury and warmth"
     },
@@ -216,12 +216,12 @@
     "scene": {
       "location": "garden during flower spirit ceremony",
       "props": [
-        "multiple maidens with flower offerings",
+        "flower offerings",
         "colorful silk ribbons on trees",
         "flower burial mounds",
         "various seasonal flowers",
         "ceremonial baskets",
-        "festive garden atmosphere"
+        "festive garden setting"
       ],
       "timeOfDay": "flower ceremony afternoon",
       "weather": "perfect spring day"
