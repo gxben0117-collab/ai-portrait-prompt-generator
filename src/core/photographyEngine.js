@@ -14,6 +14,7 @@ export const PHOTOGRAPHY_PRESETS = {
     lens: '85mm portrait lens equivalent',
     angle: 'eye-level natural perspective',
     composition: 'rule of thirds, balanced composition',
+    bodyScale: 'subject occupies 35-45% of frame, head occupies no more than 30% of visible figure, full shoulder width visible, complete upper torso visible, real adult body mass, balanced head-to-shoulder ratio, avoid oversized head, avoid selfie proportions',
   },
 
   // 全身人像配置 (修正：自然視角)
@@ -23,6 +24,7 @@ export const PHOTOGRAPHY_PRESETS = {
     lens: '50mm standard lens equivalent',
     angle: 'eye-level natural perspective',
     composition: 'centered with environmental context',
+    bodyScale: 'subject occupies 30-40% of frame, head occupies no more than 25% of visible figure, complete figure with environmental context, natural body proportions in scene, balanced character scale',
   },
 
   // 電影級構圖 (修正：避免變形)
@@ -32,6 +34,7 @@ export const PHOTOGRAPHY_PRESETS = {
     lens: '50mm cinema lens',
     angle: 'eye-level natural perspective',
     composition: 'three-quarter body composition with environmental context',
+    bodyScale: 'subject occupies 35-45% of frame, head occupies no more than 30% of visible figure, upper thighs visible, full shoulder width visible, complete torso visible, character integrated into scene, real torso depth, avoid compressed torso',
   },
 
   // 旅拍攝影
@@ -41,6 +44,7 @@ export const PHOTOGRAPHY_PRESETS = {
     lens: '35mm wide-angle lens equivalent',
     angle: 'eye-level or slight low angle for grandeur',
     composition: 'subject as focal point within vast scene',
+    bodyScale: 'subject occupies 25-35% of frame, environmental portrait, character within landscape context, natural scale in environment',
   },
 };
 
@@ -67,6 +71,7 @@ export function generatePhotographyPrompt(categoryVisualDNA, presetType = 'portr
     photography.lens,
     photography.angle,
     photography.composition,
+    photography.bodyScale,
   ].filter(Boolean).join(', ');
 
   // 攝影情緒/風格
