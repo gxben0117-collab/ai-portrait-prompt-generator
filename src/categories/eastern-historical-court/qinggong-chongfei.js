@@ -50,9 +50,9 @@ export const QINGGONG_CHONGFEI_CATEGORY = {
     },
 
     bodyRequirements: {
-      bust: 'K cup minimum',
-      bodyType: 'voluptuous mature imperial consort',
-      emphasis: 'natural curves with elegant draping',
+      bodyType: 'queen-grade voluptuous mature figure, naturally full bust without exaggeration',
+      emphasis: 'elegant curves with realistic draping, balanced proportions',
+      legs: 'long graceful legs, elongated leg line, visible upper thighs, high waist silhouette, fashion photography leg proportions',
     },
 
     sceneTypes: [
@@ -90,10 +90,10 @@ export const QINGGONG_CHONGFEI_CATEGORY = {
     ],
 
     costumeEnhancement: {
-      bodyType: 'voluptuous mature silhouette, naturally full bust, curvy feminine proportions, long graceful legs',
-      attitude: 'alluring elegance, seductive confidence, captivating gaze',
-      style: 'luxury silk nightgown, deep V silk nightdress, off-shoulder sleep dress, short silk skirt, sheer silk robe, lace-trimmed nightgown, satin sleepwear, body-skimming silk gown, bare shoulder elegance, flowing bedroom robe',
-      mood: 'tender seduction, intimate bedroom atmosphere, candlelight elegance',
+      bodyType: 'queen-grade voluptuous mature silhouette maintaining realistic anatomy, naturally full bust, luxurious feminine curves, long elegant legs with elongated leg line, balanced leg-to-torso ratio',
+      attitude: 'alluring elegance, tender seduction, captivating gaze, favored consort confidence',
+      style: 'luxury silk nightgown with deep V neckline, off-shoulder sleep dress, short flowing silk skirt revealing long legs, sheer silk outer robe, lace-trimmed sleepwear, body-skimming satin gown, bare shoulder elegance, flowing bedroom robe with high waist cut',
+      mood: 'tender seduction, intimate bedroom romance, midnight favored moment, candlelight elegance',
     },
   },
 

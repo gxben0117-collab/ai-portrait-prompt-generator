@@ -81,16 +81,16 @@ function buildBodyDescription(bodyRequirements) {
 
   const parts = [];
 
-  if (bodyRequirements.bust) {
-    parts.push(`${bodyRequirements.bust} natural chest volume`);
-  }
-
   if (bodyRequirements.bodyType) {
     parts.push(bodyRequirements.bodyType);
   }
 
   if (bodyRequirements.emphasis) {
     parts.push(bodyRequirements.emphasis);
+  }
+
+  if (bodyRequirements.legs) {
+    parts.push(bodyRequirements.legs);
   }
 
   return parts.join(', ');

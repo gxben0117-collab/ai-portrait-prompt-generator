@@ -38,28 +38,28 @@ export const SUCCUBUS_BANQUET_CATEGORY = {
 
     // 服裝風格
     costumeStyle: {
-      layer1: 'luxury deep purple silk slip nightgown foundation',
-      concept: 'cinematic low-cut satin nightgown evening dress',
+      layer1: 'black satin foundation slip dress',
+      concept: 'succubus seduction dress with short front long back design',
       keywords: [
-        'one-piece luxury satin nightgown',
-        'deep V slip dress silhouette',
-        'gothic ornate accessories',
-        'butterfly shoulder veil',
-        'jewel shoulder chain',
-        'flowing translucent cape',
+        'body-hugging short front dress revealing long legs',
+        'deep V neckline with black lace',
+        'fitted waist corset-inspired design',
+        'high slit for leg emphasis',
+        'flowing long back train',
+        'sheer black outer robe',
       ],
       fabric: [
-        'purple-black satin',
-        'moon-silver sheer veil',
-        'velvet ribbon trim',
+        'black satin body-skimming fit',
+        'sheer black lace overlay',
+        'velvet ribbon accents',
       ],
     },
 
     // 身材要求
     bodyRequirements: {
-      bust: 'K cup minimum',
-      bodyType: 'voluptuous mature silhouette',
-      emphasis: 'natural chest volume with realistic draping fabric physics',
+      bodyType: 'queen-grade voluptuous mature figure, naturally full bust without exaggeration',
+      emphasis: 'seductive curves with realistic fabric physics, balanced proportions',
+      legs: 'long elegant legs prominently featured, elongated leg line, visible upper thighs, high waist cut, fashion photography leg proportions',
     },
 
     // 場景類型
@@ -107,10 +107,10 @@ export const SUCCUBUS_BANQUET_CATEGORY = {
 
     // 服裝增強（魅魔系專屬）
     costumeEnhancement: {
-      bodyType: 'voluptuous mature silhouette, naturally full bust, curvy feminine proportions, long graceful legs',
-      attitude: 'seductive confidence, captivating gaze, commanding presence, queen aura',
-      style: 'deep plunging neckline, corset-inspired gown, body-hugging dress, high slit evening gown, short front skirt, long flowing train, black lace detailing, velvet evening dress, dark fantasy fashion, gothic luxury couture',
-      mood: 'dangerous allure, active seduction, dark queen energy',
+      bodyType: 'queen-grade voluptuous mature silhouette maintaining realistic anatomy, naturally full bust, luxurious feminine curves, long elegant legs with elongated leg line, visible upper thighs, balanced leg-to-torso ratio, fashion photography proportions',
+      attitude: 'seductive confidence, captivating gaze, commanding presence, dangerous allure, succubus queen aura',
+      style: 'deep plunging V-neckline revealing decolletage, body-hugging short front skirt exposing long legs, high slit design for leg line emphasis, flowing long back train, black lace detailing on thighs, fitted waist with corset-inspired silhouette, sheer black outer robe, gothic luxury fashion',
+      mood: 'dangerous seduction, active temptation, succubus queen energy, dark sensual power',
     },
   },
 
