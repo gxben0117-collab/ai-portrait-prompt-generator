@@ -88,6 +88,13 @@ export const QINGGONG_CHONGFEI_CATEGORY = {
       'elegant intimate atmosphere',
       'palace bedroom authentic detail',
     ],
+
+    costumeEnhancement: {
+      bodyType: 'voluptuous mature silhouette, naturally full bust, curvy feminine proportions, long graceful legs',
+      attitude: 'alluring elegance, seductive confidence, captivating gaze',
+      style: 'luxury silk nightgown, deep V silk nightdress, off-shoulder sleep dress, short silk skirt, sheer silk robe, lace-trimmed nightgown, satin sleepwear, body-skimming silk gown, bare shoulder elegance, flowing bedroom robe',
+      mood: 'tender seduction, intimate bedroom atmosphere, candlelight elegance',
+    },
   },
 
   promptWeights: {

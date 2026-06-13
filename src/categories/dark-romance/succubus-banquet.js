@@ -104,6 +104,14 @@ export const SUCCUBUS_BANQUET_CATEGORY = {
       'cinematic fabric weight and flow',
       'velvet realistic texture with depth',
     ],
+
+    // 服裝增強（魅魔系專屬）
+    costumeEnhancement: {
+      bodyType: 'voluptuous mature silhouette, naturally full bust, curvy feminine proportions, long graceful legs',
+      attitude: 'seductive confidence, captivating gaze, commanding presence, queen aura',
+      style: 'deep plunging neckline, corset-inspired gown, body-hugging dress, high slit evening gown, short front skirt, long flowing train, black lace detailing, velvet evening dress, dark fantasy fashion, gothic luxury couture',
+      mood: 'dangerous allure, active seduction, dark queen energy',
+    },
   },
 
   // 提示詞權重配置

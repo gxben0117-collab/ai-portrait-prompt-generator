@@ -10,7 +10,7 @@
  * @returns {Object} 10 層服裝 Prompt
  */
 export function generateCostumePrompt(categoryVisualDNA, roleCostumeData) {
-  const { costumeStyle, bodyRequirements, textureRequirements, prohibitions } = categoryVisualDNA;
+  const { costumeStyle, bodyRequirements, textureRequirements, prohibitions, costumeEnhancement } = categoryVisualDNA;
   const { layer1, layer10, layers } = roleCostumeData;
 
   // Layer 1: 貼身基底層 (Foundation)
@@ -28,6 +28,11 @@ export function generateCostumePrompt(categoryVisualDNA, roleCostumeData) {
   // 質感要求
   const textureDescription = textureRequirements.slice(0, 3).join(', ');
 
+  // 服裝增強（如果分類有定義）
+  const enhancementDescription = costumeEnhancement
+    ? `${costumeEnhancement.bodyType}; ${costumeEnhancement.attitude}; ${costumeEnhancement.style}; ${costumeEnhancement.mood}`
+    : '';
+
   // 組合完整服裝描述
   const positivePrompt = [
     'costume design in 6-layer structure from foundation to outer silhouette, allow creative interpretation including garments, fabrics, embroidery, jewelry, accessories, hair ornaments, belts, ribbons, and thematic decorative elements appropriate to character and cultural setting, Layer7: character-appropriate makeup and beauty styling matching theme, era, costume palette, and atmosphere while preserving original facial identity',
@@ -36,7 +41,8 @@ export function generateCostumePrompt(categoryVisualDNA, roleCostumeData) {
     `costumeLayer10: ${silhouetteLayer}`,
     bodyDescription,
     textureDescription,
-  ].join('; ');
+    enhancementDescription,
+  ].filter(Boolean).join('; ');
 
   // 禁止元素
   const negativePrompt = prohibitions
