@@ -109,7 +109,7 @@ export const SUCCUBUS_BANQUET_CATEGORY = {
     costumeEnhancement: {
       bodyType: 'queen-grade voluptuous mature silhouette maintaining realistic anatomy, naturally full bust, luxurious feminine curves, long elegant legs with elongated leg line, visible upper thighs, balanced leg-to-torso ratio, fashion photography proportions',
       attitude: 'seductive confidence, captivating gaze, commanding presence, dangerous allure, succubus queen aura',
-      style: 'deep plunging V-neckline revealing decolletage, body-hugging short front skirt exposing long legs, high slit design for leg line emphasis, flowing long back train, black lace detailing on thighs, fitted waist with corset-inspired silhouette, sheer black outer robe, gothic luxury fashion',
+      style: 'deep plunging V-neckline revealing decolletage, body-hugging short front skirt exposing long legs, high slit design for leg line emphasis, flowing long back train, lavender lace detailing on thighs, fitted waist with corset-inspired silhouette, sheer purple silk outer robe, amethyst crystal jewelry, butterfly-inspired embroidery, gothic luxury fashion',
       mood: 'dangerous seduction, active temptation, succubus queen energy, dark sensual power',
     },
   },
