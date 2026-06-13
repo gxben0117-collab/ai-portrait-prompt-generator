@@ -186,11 +186,42 @@ export const UNIVERSAL_NEGATIVE = [
 ];
 
 /**
+ * Solo Character Negative（禁止多人）
+ */
+export const SOLO_CHARACTER_NEGATIVE = [
+  'multiple people',
+  'crowd',
+  'group',
+  'background people',
+  'background characters',
+  'secondary characters',
+  'extra people',
+  'attendants',
+  'servants',
+  'guests',
+  'banquet guests',
+  'scholars',
+  'officials',
+  'gathering',
+  'meeting',
+  'assembly',
+  'audience',
+  'spectators',
+  'people sitting',
+  'people standing',
+  'human figures',
+  'human silhouettes',
+  'distant figures',
+  'blurred figures',
+];
+
+/**
  * 生成完整負面 Prompt
  */
 export function generateNegativePrompt(styleNegative, categoryProhibitions = []) {
   const allNegative = [
     ...UNIVERSAL_NEGATIVE,
+    ...SOLO_CHARACTER_NEGATIVE,
     ...styleNegative,
     ...categoryProhibitions,
   ];
