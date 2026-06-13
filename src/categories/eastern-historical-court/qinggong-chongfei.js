@@ -70,7 +70,7 @@ export const QINGGONG_CHONGFEI_CATEGORY = {
     },
 
     photography: {
-      framing: 'elegant intimate portrait',
+      mood: 'elegant intimate portrait',
       focus: 'sophisticated bedroom scene',
       mood: 'palace romance cinema quality',
     },

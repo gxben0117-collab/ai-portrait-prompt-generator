@@ -71,7 +71,7 @@ export const XIANXIA_DRAMA_CATEGORY = {
     },
 
     photography: {
-      framing: 'epic xianxia drama composition',
+      mood: 'epic xianxia drama composition',
       focus: 'fantasy epic with special effects',
       mood: 'Chinese xianxia TV series cinema quality',
     },

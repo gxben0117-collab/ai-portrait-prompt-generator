@@ -68,7 +68,7 @@ export const PAN_TANG_DRAMA_CATEGORY = {
     },
 
     photography: {
-      framing: 'TV drama episode composition',
+      mood: 'TV drama episode composition',
       focus: 'period drama cinematic quality',
       mood: 'Chinese historical TV series aesthetic',
     },

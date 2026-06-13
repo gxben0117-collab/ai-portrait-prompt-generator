@@ -70,7 +70,7 @@ export const COUNTRYSIDE_FLOWER_CATEGORY = {
     },
 
     photography: {
-      framing: 'natural landscape travel photography',
+      mood: 'natural landscape travel photography',
       focus: 'fresh outdoor portrait style',
       mood: 'pastoral romantic cinema quality',
     },

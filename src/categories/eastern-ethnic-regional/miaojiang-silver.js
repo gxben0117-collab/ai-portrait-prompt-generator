@@ -71,7 +71,7 @@ export const MIAOJIANG_SILVER_CATEGORY = {
     },
 
     photography: {
-      framing: 'ethnic portrait with cultural context',
+      mood: 'ethnic portrait with cultural context',
       focus: 'silver ornament details emphasis',
       mood: 'authentic ethnic minority documentary cinema',
     },

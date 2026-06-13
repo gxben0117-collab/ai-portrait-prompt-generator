@@ -71,7 +71,7 @@ export const CYBERPUNK_MECHA_CATEGORY = {
     },
 
     photography: {
-      framing: 'dynamic sci-fi action composition',
+      mood: 'dynamic sci-fi action composition',
       focus: 'high-tech mechanical details',
       mood: 'cyberpunk film noir quality',
     },

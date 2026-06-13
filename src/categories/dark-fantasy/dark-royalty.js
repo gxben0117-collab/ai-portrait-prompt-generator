@@ -71,7 +71,7 @@ export const DARK_ROYALTY_CATEGORY = {
     },
 
     photography: {
-      framing: 'dramatic royal portrait',
+      mood: 'dramatic royal portrait',
       focus: 'gothic vampire cinema aesthetic',
       mood: 'dark fantasy aristocratic epic',
     },

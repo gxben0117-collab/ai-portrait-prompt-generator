@@ -69,7 +69,7 @@ export const MING_ZHIJIN_CATEGORY = {
     },
 
     photography: {
-      framing: 'imperial portrait composition',
+      mood: 'imperial portrait composition',
       focus: 'ceremonial grandeur emphasis',
       mood: 'Ming Dynasty epic cinema quality',
     },

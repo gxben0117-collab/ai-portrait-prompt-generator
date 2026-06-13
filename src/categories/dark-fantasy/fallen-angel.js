@@ -81,7 +81,7 @@ export const FALLEN_ANGEL_CATEGORY = {
 
     // 攝影風格
     photography: {
-      framing: 'epic wide-angle or dramatic low-angle shot',
+      mood: 'epic wide-angle or dramatic low-angle shot',
       focus: 'cinematic depth of field with floating feather bokeh',
       mood: 'dark fantasy epic cinema quality',
     },

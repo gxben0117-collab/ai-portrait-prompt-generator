@@ -33,13 +33,10 @@ export const FACE_LOCK_ENGINE = {
     'photographic body proportions',
   ],
 
-  // 電影級鎖定鏡頭 (避免變形)
-  cinemaLens: [
-    '50mm portrait cinema lens',
+  // 視角鎖定 (避免變形，但不包含鏡頭和構圖，由 UI 控制)
+  perspectiveLock: [
     'eye-level camera',
     'natural perspective',
-    'medium full body shot',
-    'three-quarter body composition',
     'front-facing or slight three-quarter angle',
     'looking toward camera',
   ],
@@ -78,11 +75,11 @@ export const FACE_LOCK_ENGINE = {
   generate() {
     const mandatoryPrompt = this.mandatory.join(', ');
     const anatomyPrompt = this.anatomyLock.join(', ');
-    const lensPrompt = this.cinemaLens.join(', ');
+    const perspectivePrompt = this.perspectiveLock.join(', ');
     const negativePrompt = this.prohibitions.map(p => p.replace(/^no /, '')).join(', ');
 
     return {
-      positive: `(${mandatoryPrompt}:${this.weight}), ${anatomyPrompt}, ${lensPrompt}`,
+      positive: `(${mandatoryPrompt}:${this.weight}), ${anatomyPrompt}, ${perspectivePrompt}`,
       negative: negativePrompt,
       priority: 'highest',
     };

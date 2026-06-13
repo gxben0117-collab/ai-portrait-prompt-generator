@@ -70,7 +70,7 @@ export const JIANGNAN_MISTY_CATEGORY = {
     },
 
     photography: {
-      framing: 'poetic landscape composition with figure',
+      mood: 'poetic landscape composition with figure',
       focus: 'soft focus with rain and mist diffusion',
       mood: 'Chinese ink painting cinema quality',
     },

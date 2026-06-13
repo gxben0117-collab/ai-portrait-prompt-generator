@@ -69,7 +69,7 @@ export const WEIJIN_QINGTAN_CATEGORY = {
     },
 
     photography: {
-      framing: 'scholarly portrait in nature',
+      mood: 'scholarly portrait in nature',
       focus: 'soft natural atmosphere',
       mood: 'Wei-Jin period intellectual cinema',
     },

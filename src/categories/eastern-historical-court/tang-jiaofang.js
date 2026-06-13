@@ -70,7 +70,7 @@ export const TANG_JIAOFANG_CATEGORY = {
     },
 
     photography: {
-      framing: 'dynamic performance capture with motion',
+      mood: 'dynamic performance capture with motion',
       focus: 'freeze motion with ribbon blur effect',
       mood: 'theatrical dance performance cinema',
     },

@@ -80,7 +80,7 @@ export const DESERT_SILK_ROAD_CATEGORY = {
 
     // 攝影風格
     photography: {
-      framing: 'epic wide-angle desert landscape composition',
+      mood: 'epic wide-angle desert landscape composition',
       focus: 'cinematic scale travel photography',
       mood: 'historical epic adventure blockbuster quality',
     },

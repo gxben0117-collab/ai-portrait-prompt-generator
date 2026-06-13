@@ -70,7 +70,7 @@ export const WUXIA_JIANGHU_CATEGORY = {
     },
 
     photography: {
-      framing: 'dynamic action composition',
+      mood: 'dynamic action composition',
       focus: 'freeze action with motion blur on fabric and weapon',
       mood: 'Chinese wuxia film epic quality',
     },

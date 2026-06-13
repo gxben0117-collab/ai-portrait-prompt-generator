@@ -81,7 +81,7 @@ export const SUCCUBUS_BANQUET_CATEGORY = {
 
     // 攝影風格
     photography: {
-      framing: 'cinematic medium-close portrait or seated pose',
+      mood: 'cinematic medium-close portrait or seated pose',
       focus: 'shallow depth of field with velvet bokeh',
       mood: 'mature dark romantic cinema quality',
     },

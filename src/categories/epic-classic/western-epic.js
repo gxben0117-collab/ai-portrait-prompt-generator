@@ -69,7 +69,7 @@ export const WESTERN_EPIC_CATEGORY = {
     },
 
     photography: {
-      framing: 'epic heroic composition',
+      mood: 'epic heroic composition',
       focus: 'medieval cinematic quality',
       mood: 'fantasy epic film aesthetic',
     },

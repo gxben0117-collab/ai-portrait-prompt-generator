@@ -69,7 +69,7 @@ export const SONG_BIANLIANG_CATEGORY = {
     },
 
     photography: {
-      framing: 'elegant Song Dynasty portrait',
+      mood: 'elegant Song Dynasty portrait',
       focus: 'refined cultural atmosphere',
       mood: 'Song Dynasty period drama cinema',
     },

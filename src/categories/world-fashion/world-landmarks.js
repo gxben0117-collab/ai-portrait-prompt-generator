@@ -70,7 +70,6 @@ export const WORLD_LANDMARKS_CATEGORY = {
     },
 
     photography: {
-      framing: 'fashion travel photography composition',
       focus: 'portrait with landmark environmental context',
       mood: 'international travel magazine quality',
     },
