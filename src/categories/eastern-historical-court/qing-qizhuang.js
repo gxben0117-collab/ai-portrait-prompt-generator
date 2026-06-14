@@ -70,7 +70,6 @@ export const QING_QIZHUANG_CATEGORY = {
     },
 
     photography: {
-      mood: 'formal Qing court portrait',
       focus: 'Manchu costume details emphasis',
       mood: 'Qing Dynasty period drama cinema',
     },

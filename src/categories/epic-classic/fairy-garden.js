@@ -71,7 +71,6 @@ export const FAIRY_GARDEN_CATEGORY = {
     },
 
     photography: {
-      mood: 'fantasy portrait in nature',
       focus: 'magical atmosphere with bokeh',
       mood: 'fantasy fairy tale cinema quality',
     },

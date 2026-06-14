@@ -69,7 +69,6 @@ export const HAN_CHANGXIN_CATEGORY = {
     },
 
     photography: {
-      mood: 'classical Chinese portrait composition',
       focus: 'historical drama cinema quality',
       mood: 'Western Han period film aesthetic',
     },

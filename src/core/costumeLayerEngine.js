@@ -4,29 +4,53 @@
  */
 
 /**
- * 從分類 visualDNA 和角色數據生成 10 層服裝系統
+ * 從分類 visualDNA 和角色數據生成服裝 Prompt
+ * 支援兩種格式：
+ * 1. 新格式（推薦）: costume 直接是自由描述字串
+ * 2. 舊格式（兼容）: costume.layer1 / costume.layers / costume.layer10
+ *
  * @param {Object} categoryVisualDNA - 分類的 visualDNA 配置
  * @param {Object} roleCostumeData - 角色卡的服裝數據
- * @returns {Object} 10 層服裝 Prompt
+ * @returns {Object} 服裝 Prompt
  */
 export function generateCostumePrompt(categoryVisualDNA, roleCostumeData) {
   const { costumeStyle, bodyRequirements, textureRequirements, prohibitions, costumeEnhancement } = categoryVisualDNA;
-  const { layer1, layer10, layers } = roleCostumeData;
 
-  // Layer 1: 貼身基底層 (Foundation)
-  const foundationLayer = layer1 || costumeStyle.layer1;
+  let costumeDescription = '';
 
-  // Layer 2-9: 中間服裝層 (由角色卡具體定義)
-  const middleLayers = layers || buildDefaultMiddleLayers(costumeStyle);
+  // 新格式：costume 直接是字串（自由描述）
+  if (typeof roleCostumeData === 'string') {
+    costumeDescription = roleCostumeData;
+  }
+  // 如果角色卡沒提供，直接用分類的 costumeStyle
+  else if (!roleCostumeData && typeof costumeStyle === 'string') {
+    costumeDescription = costumeStyle;
+  }
+  // 舊格式兼容：costume.layer1 / costume.layers / costume.layer10
+  else if (roleCostumeData && typeof roleCostumeData === 'object') {
+    const { layer1, layer10, layers } = roleCostumeData;
 
-  // Layer 10: 最終輪廓與概念 (Final Silhouette)
-  const silhouetteLayer = layer10 || buildSilhouetteLayer(costumeStyle);
+    const foundationLayer = layer1 || (typeof costumeStyle === 'object' ? costumeStyle.layer1 : '');
+    const middleLayers = layers || (typeof costumeStyle === 'object' ? buildDefaultMiddleLayers(costumeStyle) : '');
+    const silhouetteLayer = layer10 || (typeof costumeStyle === 'object' ? buildSilhouetteLayer(costumeStyle) : '');
+
+    costumeDescription = [
+      'costume design in 10-layer structure from foundation to outer silhouette, allow creative interpretation including garments, fabrics, embroidery, jewelry, accessories, hair ornaments, belts, ribbons, and thematic decorative elements appropriate to character and cultural setting',
+      foundationLayer ? `${foundationLayer}` : '',
+      middleLayers ? `${middleLayers}` : '',
+      silhouetteLayer ? `${silhouetteLayer}` : '',
+    ].filter(Boolean).join('; ');
+  }
+  // Fallback：用分類預設
+  else if (typeof costumeStyle === 'object') {
+    costumeDescription = buildDefaultCostumeDescription(costumeStyle);
+  }
 
   // 身材要求
   const bodyDescription = buildBodyDescription(bodyRequirements);
 
   // 質感要求
-  const textureDescription = textureRequirements.slice(0, 3).join(', ');
+  const textureDescription = textureRequirements?.slice(0, 3).join(', ') || '';
 
   // 服裝增強（如果分類有定義）
   const enhancementDescription = costumeEnhancement
@@ -35,10 +59,8 @@ export function generateCostumePrompt(categoryVisualDNA, roleCostumeData) {
 
   // 組合完整服裝描述
   const positivePrompt = [
-    'costume design in 10-layer structure from foundation to outer silhouette, allow creative interpretation including garments, fabrics, embroidery, jewelry, accessories, hair ornaments, belts, ribbons, and thematic decorative elements appropriate to character and cultural setting, Layer7: character-appropriate makeup and beauty styling matching theme, era, costume palette, and atmosphere while preserving original facial identity',
-    `costumeLayer1: ${foundationLayer}`,
-    `costume middle layers: ${middleLayers}`,
-    `costumeLayer10: ${silhouetteLayer}`,
+    costumeDescription,
+    'Layer7: character-appropriate makeup and beauty styling matching theme, era, costume palette, and atmosphere while preserving original facial identity',
     bodyDescription,
     textureDescription,
     enhancementDescription,
@@ -46,8 +68,8 @@ export function generateCostumePrompt(categoryVisualDNA, roleCostumeData) {
 
   // 禁止元素
   const negativePrompt = prohibitions
-    .map(p => p.replace('no ', '').replace('must be ', '').replace('must ', ''))
-    .join(', ');
+    ? prohibitions.map(p => p.replace('no ', '').replace('must be ', '').replace('must ', '')).join(', ')
+    : '';
 
   return {
     positive: positivePrompt,
@@ -58,7 +80,15 @@ export function generateCostumePrompt(categoryVisualDNA, roleCostumeData) {
 }
 
 /**
- * 構建默認中間層服裝
+ * 構建默認服裝描述（從 costumeStyle）
+ */
+function buildDefaultCostumeDescription(costumeStyle) {
+  const { concept, keywords, fabric } = costumeStyle;
+  return `costume design in 10-layer structure, ${concept}, ${keywords.slice(0, 3).join(', ')}, ${fabric.slice(0, 2).join(', ')}`;
+}
+
+/**
+ * 構建默認中間層服裝（舊格式兼容）
  */
 function buildDefaultMiddleLayers(costumeStyle) {
   const { keywords, fabric } = costumeStyle;
@@ -66,7 +96,7 @@ function buildDefaultMiddleLayers(costumeStyle) {
 }
 
 /**
- * 構建最終輪廓層描述
+ * 構建最終輪廓層描述（舊格式兼容）
  */
 function buildSilhouetteLayer(costumeStyle) {
   const { concept, keywords } = costumeStyle;
@@ -98,27 +128,22 @@ function buildBodyDescription(bodyRequirements) {
 
 /**
  * 服裝層驗證
- * 確保 10 層系統完整性和物理真實性
  */
 export function validateCostumeLayers(costumePrompt) {
   const errors = [];
   const prompt = costumePrompt.positive.toLowerCase();
 
-  // 必須包含 Layer 1 和 Layer 10
-  if (!prompt.includes('costumelayer1')) {
-    errors.push('Missing costumeLayer1 foundation');
-  }
-
-  if (!prompt.includes('costumelayer10')) {
-    errors.push('Missing costumeLayer10 final silhouette');
+  // 必須包含 costume design 關鍵字
+  if (!prompt.includes('costume')) {
+    errors.push('Missing costume description');
   }
 
   // 必須描述質感物理
-  const physicsKeywords = ['draping', 'fabric', 'texture', 'realistic', 'physics'];
+  const physicsKeywords = ['draping', 'fabric', 'texture', 'layered', 'flowing'];
   const hasPhysics = physicsKeywords.some(keyword => prompt.includes(keyword));
 
   if (!hasPhysics) {
-    errors.push('Missing realistic fabric physics description');
+    errors.push('Missing realistic fabric description');
   }
 
   return {

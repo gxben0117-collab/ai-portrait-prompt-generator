@@ -37,23 +37,7 @@ export const DARK_ROYALTY_CATEGORY = {
       'gothic crown and scepter',
     ],
 
-    costumeStyle: {
-      layer1: 'aristocratic foundation with vampire elegance',
-      concept: 'gothic vampire royalty ceremonial dress',
-      keywords: [
-        'high-collar gothic royal gown',
-        'crimson and black color scheme',
-        'ornate vampire noble accessories',
-        'dramatic cape or cloak',
-        'gothic crown or tiara',
-        'aristocratic jewelry',
-      ],
-      fabric: [
-        'luxurious velvet',
-        'flowing black silk',
-        'crimson satin',
-      ],
-    },
+    costumeStyle: "costume design in 10-layer structure from inner garments to outer silhouette, aristocratic foundation with vampire elegance, gothic vampire royalty ceremonial dress, high-collar gothic royal gown, crimson and black color scheme, ornate vampire noble accessories, dramatic cape or cloak, gothic crown or tiara, aristocratic jewelry, luxurious velvet, flowing black silk, crimson satin",
 
     bodyRequirements: {
       bodyType: 'aristocratic vampire elegance',
@@ -76,7 +60,6 @@ export const DARK_ROYALTY_CATEGORY = {
     },
 
     photography: {
-      mood: 'dramatic royal portrait',
       focus: 'gothic vampire cinema aesthetic',
       mood: 'dark fantasy aristocratic epic',
     },

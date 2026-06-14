@@ -81,7 +81,6 @@ export const DREAM_RED_CHAMBER_CATEGORY = {
 
     // 攝影風格
     photography: {
-      mood: 'classical Chinese painting composition',
       focus: 'soft focus with garden bokeh',
       mood: 'literary period drama cinema quality',
     },

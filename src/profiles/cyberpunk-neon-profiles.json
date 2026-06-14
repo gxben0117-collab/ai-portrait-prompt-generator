@@ -19,7 +19,8 @@
     "costume": {
       "layer1": "tech-enhanced bodysuit foundation",
       "layers": "cyberpunk streetwear with LED accents, holographic fabric elements, tech accessories visible, cyber-samurai aesthetic",
-      "layer10": "neon warrior silhouette in rain-soaked street"
+      "layer6": "silhouette-defining cyber-samurai coat with LED strips, tactical armor plates, katana sheath",
+      "layer7": "neon warrior rain-soaked makeup and street-samurai styling"
     },
     "action": {
       "pose": "standing in neon rain with cyber-katana",
@@ -49,7 +50,8 @@
     "costume": {
       "layer1": "neural-interface bodysuit foundation",
       "layers": "hacker attire with visible data ports, AR glasses or neural jack, tech-wire accessories",
-      "layer10": "cyber-hacker silhouette surrounded by holographic data"
+      "layer6": "silhouette-defining hacker vest with cables, neural jack headset, data port harness",
+      "layer7": "cyber-hacker glowing-eyes makeup and digital-trance styling"
     },
     "action": {
       "pose": "seated at cyberdeck in hacking trance",
@@ -79,7 +81,8 @@
     "costume": {
       "layer1": "partially cybernetic body showing mods",
       "layers": "minimal clothing showing extensive body mods, visible mechanical limbs, glowing tech implants, cyborg aesthetic",
-      "layer10": "cyborg transformation silhouette with extensive modifications"
+      "layer6": "silhouette-defining robotic limbs, cybernetic spine, mechanical joint assemblies",
+      "layer7": "cyborg transformation tech-glow makeup and augmented styling"
     },
     "action": {
       "pose": "displaying new cybernetic enhancements",
@@ -109,7 +112,8 @@
     "costume": {
       "layer1": "high-tech corporate foundation",
       "layers": "sleek corporate-spy suit with hidden tech, designer cyberpunk fashion, expensive augmentations",
-      "layer10": "corporate agent silhouette on skyscraper edge"
+      "layer6": "silhouette-defining executive suit with armor weave, concealed weapons, elite tech accessories",
+      "layer7": "corporate agent polished makeup and elite-spy styling"
     },
     "action": {
       "pose": "standing at rooftop edge surveying corporate empire",
@@ -139,7 +143,8 @@
     "costume": {
       "layer1": "combat-optimized cyborg foundation",
       "layers": "minimal fighting gear showing combat mods, battle-scarred cybernetics, aggressive tech enhancements",
-      "layer10": "cyber-fighter silhouette in combat stance"
+      "layer6": "silhouette-defining combat chassis, enhanced striking limbs, arena fighter armor",
+      "layer7": "cyber-fighter battle-scarred makeup and aggressive styling"
     },
     "action": {
       "pose": "aggressive combat stance with enhanced limbs",
@@ -169,7 +174,8 @@
     "costume": {
       "layer1": "nightlife fashion foundation with LEDs",
       "layers": "cyberpunk club attire with light-up elements, holographic accessories, party-tech jewelry",
-      "layer10": "neon nightlife silhouette in cyberpunk bar"
+      "layer6": "silhouette-defining LED dress, glowing accessories, neon nightlife layers",
+      "layer7": "neon nightlife luminous makeup and party styling"
     },
     "action": {
       "pose": "seated at bar with glowing cocktail",
@@ -199,7 +205,8 @@
     "costume": {
       "layer1": "speed-optimized racing foundation",
       "layers": "aerodynamic cyber-racing suit, helmet with HUD display, speed-enhanced gear",
-      "layer10": "speed demon silhouette on racing vehicle"
+      "layer6": "silhouette-defining racing suit with speed lines, aerodynamic helmet, velocity gear",
+      "layer7": "speed demon adrenaline makeup and racer styling"
     },
     "action": {
       "pose": "leaning into high-speed turn on vehicle",
@@ -229,7 +236,8 @@
     "costume": {
       "layer1": "holographic performance foundation",
       "layers": "cyber-idol outfit with programmable LED patterns, holographic costume elements, pop-star tech accessories",
-      "layer10": "digital diva silhouette on holographic stage"
+      "layer6": "silhouette-defining holographic stage costume, LED pattern dress, digital diva accessories",
+      "layer7": "digital diva performance makeup and cyber-idol styling"
     },
     "action": {
       "pose": "performing with holographic effects surrounding",
@@ -259,7 +267,8 @@
     "costume": {
       "layer1": "underground criminal foundation",
       "layers": "black market dealer attire, illegal tech visible, criminal accessories",
-      "layer10": "black market operative silhouette in shadows"
+      "layer6": "silhouette-defining dealer coat, contraband pouches, underground accessories",
+      "layer7": "black market operative shadowy makeup and criminal styling"
     },
     "action": {
       "pose": "conducting illegal tech transaction",
@@ -289,7 +298,8 @@
     "costume": {
       "layer1": "virtual avatar foundation with impossible elements",
       "layers": "idealized VR avatar outfit, impossible virtual fashion, fantasy avatar presentation",
-      "layer10": "virtual being silhouette in digital paradise"
+      "layer6": "silhouette-defining impossible virtual garments, digital fantasy dress, VR avatar accessories",
+      "layer7": "virtual being idealized makeup and digital paradise styling"
     },
     "action": {
       "pose": "experiencing virtual reality with full immersion",
@@ -319,7 +329,8 @@
     "costume": {
       "layer1": "AI-human hybrid foundation",
       "layers": "transitioning from data to physical form, holographic body elements, digital-physical fusion",
-      "layer10": "awakening AI silhouette achieving form"
+      "layer6": "silhouette-defining data-body transition form, holographic manifestation, consciousness vessel",
+      "layer7": "awakening AI digital-glow makeup and consciousness styling"
     },
     "action": {
       "pose": "emerging from digital realm into awareness",
@@ -349,7 +360,8 @@
     "costume": {
       "layer1": "tactical cyber-police foundation",
       "layers": "high-tech police uniform with armor plating, law enforcement cybernetics, badge and tech gear",
-      "layer10": "cyber-cop silhouette on patrol"
+      "layer6": "silhouette-defining police armor vest, tactical gear, enforcement accessories",
+      "layer7": "cyber-cop authoritative makeup and law enforcement styling"
     },
     "action": {
       "pose": "patrolling with authority and readiness",
@@ -379,7 +391,8 @@
     "costume": {
       "layer1": "neural-access foundation",
       "layers": "memory thief attire with neural ports, consciousness-hacking tech, mental infiltration gear, mind-crime styling",
-      "layer10": "memory thief silhouette stealing consciousness"
+      "layer6": "silhouette-defining neural extraction suit, memory theft cables, consciousness hacker gear",
+      "layer7": "memory thief intrusive makeup and mind-crime styling"
     },
     "action": {
       "pose": "connected to neural extraction system",
@@ -409,7 +422,8 @@
     "costume": {
       "layer1": "bio-modified foundation showing genetic changes",
       "layers": "experimental subject attire, visible genetic enhancements, bio-tech accessories",
-      "layer10": "bio-enhanced silhouette with genetic modifications"
+      "layer6": "silhouette-defining bio-suit, genetic modification indicators, evolution accessories",
+      "layer7": "bio-enhanced experimental makeup and genetic styling"
     },
     "action": {
       "pose": "displaying genetic enhancements achieved",
@@ -439,7 +453,8 @@
     "costume": {
       "layer1": "resistance fighter foundation",
       "layers": "rebel cyberpunk gear with makeshift tech, resistance symbols, improvised enhancements",
-      "layer10": "cyber-rebel silhouette planning revolution"
+      "layer6": "silhouette-defining rebel vest with patches, improvised armor, resistance insignia",
+      "layer7": "cyber-rebel determined makeup and revolutionary styling"
     },
     "action": {
       "pose": "rallying resistance with determination",
@@ -469,7 +484,8 @@
     "costume": {
       "layer1": "survival poverty foundation",
       "layers": "worn cyberpunk street clothes, cheap basic cybernetics, survival gear, lower-class styling",
-      "layer10": "slum survivor silhouette in lower city"
+      "layer6": "silhouette-defining patched jacket, worn layers, makeshift survival gear",
+      "layer7": "slum survivor weathered makeup and survival styling"
     },
     "action": {
       "pose": "surviving in lower city with resilience",
@@ -499,7 +515,8 @@
     "costume": {
       "layer1": "system-crash affected foundation",
       "layers": "attire showing tech malfunction effects, cybernetics glitching, digital corruption visible",
-      "layer10": "digital survivor silhouette in system collapse"
+      "layer6": "silhouette-defining glitching outfit, malfunctioning tech accessories, corrupted layers",
+      "layer7": "digital survivor error-code makeup and system-crash styling"
     },
     "action": {
       "pose": "struggling as systems fail around",
@@ -529,7 +546,8 @@
     "costume": {
       "layer1": "casual home foundation",
       "layers": "comfortable cyberpunk home attire, relaxed tech accessories with visible basic mods",
-      "layer10": "pet owner silhouette with robotic companion"
+      "layer6": "silhouette-defining comfortable home clothes, casual tech-wear, domestic accessories",
+      "layer7": "pet owner relaxed makeup and domestic styling"
     },
     "action": {
       "pose": "interacting affectionately with robot pet",
@@ -559,7 +577,8 @@
     "costume": {
       "layer1": "temporal tech foundation",
       "layers": "time-hacker attire with temporal stabilizers, chronological tech accessories, timeline navigation gear",
-      "layer10": "time thief silhouette manipulating temporal tech"
+      "layer6": "silhouette-defining time-suit with chronometers, temporal stabilizer vest, timeline gear",
+      "layer7": "time thief multi-timeline makeup and temporal styling"
     },
     "action": {
       "pose": "manipulating time technology actively",
@@ -589,7 +608,8 @@
     "costume": {
       "layer1": "posthuman perfection foundation",
       "layers": "transcendent form beyond clothing - bio-mechanical fusion perfection, consciousness made visible",
-      "layer10": "posthuman silhouette - ultimate cyberpunk evolution achieved, human limitation transcended, new existence form"
+      "layer6": "silhouette-defining posthuman body - bio-mechanical perfection, transcendent form, evolution manifest",
+      "layer7": "posthuman silhouette transcendent makeup and ultimate evolution styling"
     },
     "action": {
       "pose": "existing in evolved posthuman state",

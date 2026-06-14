@@ -111,7 +111,7 @@ export const TECHNICAL_NEGATIVE = [
 /**
  * 攝影層優化 - 移除重複的技術參數
  */
-export function optimizePhotographyPrompt(photographyPrompt, existingPrompt = '') {
+export function optimizePhotographyPrompt(photographyPrompt, _existingPrompt = '') {
   let optimized = photographyPrompt.positive;
 
   // 檢查是否已經包含類似的技術參數

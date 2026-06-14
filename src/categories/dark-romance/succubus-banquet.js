@@ -37,27 +37,11 @@ export const SUCCUBUS_BANQUET_CATEGORY = {
     ],
 
     // 服裝風格
-    costumeStyle: {
-      layer1: 'black satin foundation slip dress',
-      concept: 'succubus seduction dress with short front long back design',
-      keywords: [
-        'body-hugging short front dress revealing long legs',
-        'deep V neckline with black lace',
-        'fitted waist corset-inspired design',
-        'high slit for leg emphasis',
-        'flowing long back train',
-        'sheer black outer robe',
-      ],
-      fabric: [
-        'black satin body-skimming fit',
-        'sheer black lace overlay',
-        'velvet ribbon accents',
-      ],
-    },
+    costumeStyle: 'costume design in 10-layer structure from inner garments to outer silhouette, luxury dark fantasy couture, dark aristocratic fashion, royal feminine elegance, succubus queen aesthetic, high fashion fantasy costume, cinematic luxury garments, black satin foundation slip dress, succubus seduction dress with short front long back design, body-hugging short front dress revealing long legs, deep V neckline with black lace, fitted waist corset-inspired design, high slit for leg emphasis, flowing long back train, sheer black outer robe, black satin body-skimming fit, sheer black lace overlay, velvet ribbon accents, amethyst crystal jewelry, gothic ornamental details',
 
     // 身材要求
     bodyRequirements: {
-      bodyType: 'queen-grade voluptuous mature figure, naturally full bust without exaggeration',
+      bodyType: 'succubus queen physique, tall elegant silhouette, luxuriously feminine figure, full feminine curves, generous bust, defined elegant waist, graceful hips, long elegant legs, supernaturally beautiful proportions, powerful feminine presence, aristocratic demonic elegance, queen-like posture, balanced anatomy despite supernatural beauty, mature feminine beauty',
       emphasis: 'seductive curves with realistic fabric physics, balanced proportions',
       legs: 'long elegant legs prominently featured, elongated leg line, visible upper thighs, high waist cut, fashion photography leg proportions',
     },
@@ -81,7 +65,6 @@ export const SUCCUBUS_BANQUET_CATEGORY = {
 
     // 攝影風格
     photography: {
-      mood: 'cinematic medium-close portrait or seated pose',
       focus: 'shallow depth of field with velvet bokeh',
       mood: 'mature dark romantic cinema quality',
     },
@@ -107,7 +90,7 @@ export const SUCCUBUS_BANQUET_CATEGORY = {
 
     // 服裝增強（魅魔系專屬）
     costumeEnhancement: {
-      bodyType: 'queen-grade voluptuous mature silhouette maintaining realistic anatomy, naturally full bust, luxurious feminine curves, long elegant legs with elongated leg line, visible upper thighs, balanced leg-to-torso ratio, fashion photography proportions',
+      bodyType: 'succubus queen physique, tall elegant silhouette, luxuriously feminine figure, full feminine curves, generous bust, defined elegant waist, graceful hips, long elegant legs with elongated leg line, visible upper thighs, balanced leg-to-torso ratio, fashion photography proportions, powerful feminine presence, aristocratic demonic elegance',
       attitude: 'seductive confidence, captivating gaze, commanding presence, dangerous allure, succubus queen aura',
       style: 'deep plunging V-neckline revealing decolletage, body-hugging short front skirt exposing long legs, high slit design for leg line emphasis, flowing long back train, lavender lace detailing on thighs, fitted waist with corset-inspired silhouette, sheer purple silk outer robe, amethyst crystal jewelry, butterfly-inspired embroidery, gothic luxury fashion',
       mood: 'dangerous seduction, active temptation, succubus queen energy, dark sensual power',

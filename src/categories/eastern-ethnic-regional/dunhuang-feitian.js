@@ -71,7 +71,6 @@ export const DUNHUANG_FEITIAN_CATEGORY = {
     },
 
     photography: {
-      mood: 'dynamic flying pose composition',
       focus: 'celestial motion with ribbon flow',
       mood: 'sacred Buddhist mural cinema quality',
     },

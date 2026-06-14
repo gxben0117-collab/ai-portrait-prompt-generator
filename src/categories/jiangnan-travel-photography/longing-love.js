@@ -81,7 +81,6 @@ export const LONGING_LOVE_CATEGORY = {
 
     // 攝影風格
     photography: {
-      mood: 'epic wide-angle travel photography composition',
       focus: 'cinematic scale showing full landscape and architecture',
       mood: 'romantic fairy-tale blockbuster cinema quality',
       technique: 'motion blur on red ribbon, sharp focus on character',

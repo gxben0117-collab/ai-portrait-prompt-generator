@@ -1,7 +1,7 @@
 {
   "name": "ai-portrait-prompt-generator",
-  "version": "2.0.0",
-  "description": "AI 人像提示詞生成器 v2.0 - 五層模組化引擎 + 540 張角色卡",
+  "version": "2.0.2",
+  "description": "AI 人像提示詞生成器 v2.0.1 - 五層模組化引擎 + 540 張角色卡",
   "type": "module",
   "main": "src/main.js",
   "scripts": {

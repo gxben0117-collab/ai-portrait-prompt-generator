@@ -71,13 +71,14 @@ export const FACE_LOCK_ENGINE = {
 
   // 生成完整臉部鎖定 Prompt
   generate() {
+    const instructionPrefix = 'Use my uploaded character face as fixed template';
     const mandatoryPrompt = this.mandatory.join(', ');
     const anatomyPrompt = this.anatomyLock.join(', ');
     const perspectivePrompt = this.perspectiveLock.join(', ');
     const negativePrompt = this.prohibitions.map(p => p.replace(/^no /, '')).join(', ');
 
     return {
-      positive: `(${mandatoryPrompt}:${this.weight}), ${anatomyPrompt}, ${perspectivePrompt}`,
+      positive: `${instructionPrefix}, (${mandatoryPrompt}:${this.weight}), ${anatomyPrompt}, ${perspectivePrompt}`,
       negative: negativePrompt,
       priority: 'highest',
     };

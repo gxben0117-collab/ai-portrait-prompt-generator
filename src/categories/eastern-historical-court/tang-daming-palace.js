@@ -80,7 +80,6 @@ export const TANG_DAMING_PALACE_CATEGORY = {
 
     // 攝影風格
     photography: {
-      mood: 'cinematic historical drama composition',
       focus: 'shallow depth with palace architecture bokeh',
       mood: 'authentic Tang Dynasty court cinema quality',
     },

@@ -38,23 +38,7 @@ export const FALLEN_ANGEL_CATEGORY = {
     ],
 
     // 服裝風格
-    costumeStyle: {
-      layer1: 'cold white silk inner layer with black shadow veil',
-      concept: 'cinematic fallen angel sacred broken costume',
-      keywords: [
-        'black-white sacred robe with trailing',
-        'remnant wing cape draping',
-        'silver holy armor fragments',
-        'gothic embroidery details',
-        'ash-covered fabric texture',
-        'divine destruction aesthetic',
-      ],
-      fabric: [
-        'burned sacred white cloth',
-        'obsidian black feather material',
-        'cold silver metallic fragments',
-      ],
-    },
+    costumeStyle: "costume design in 10-layer structure from inner garments to outer silhouette, cold white silk inner layer with black shadow veil, cinematic fallen angel sacred broken costume, black-white sacred robe with trailing, remnant wing cape draping, silver holy armor fragments, gothic embroidery details, ash-covered fabric texture, divine destruction aesthetic, burned sacred white cloth, obsidian black feather material, cold silver metallic fragments",
 
     // 身材要求
     bodyRequirements: {
@@ -81,7 +65,6 @@ export const FALLEN_ANGEL_CATEGORY = {
 
     // 攝影風格
     photography: {
-      mood: 'epic wide-angle or dramatic low-angle shot',
       focus: 'cinematic depth of field with floating feather bokeh',
       mood: 'dark fantasy epic cinema quality',
     },

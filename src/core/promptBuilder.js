@@ -18,7 +18,7 @@ import { generateUserControlPrompt, getUserControlDescription } from './userCont
  * @returns {Object} 完整的 Prompt 配置
  */
 export function buildPrompt(category, roleCard, options = {}) {
-  const { visualDNA, promptWeights } = category;
+  const { visualDNA } = category;
   const {
     styleOverride = null,
     photographyPreset = null,

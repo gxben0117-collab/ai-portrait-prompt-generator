@@ -70,7 +70,6 @@ export const ANIME_STREET_CATEGORY = {
     },
 
     photography: {
-      mood: 'anime-style composition adapted to reality',
       focus: 'vibrant street photography style',
       mood: 'youth culture documentary with anime aesthetic',
     },

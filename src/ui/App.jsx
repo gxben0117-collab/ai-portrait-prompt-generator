@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import CategorySelector from './CategorySelector.jsx';
 import ProfileCard from './ProfileCard.jsx';
 
@@ -80,13 +80,13 @@ function App() {
     return (
       <div className="app">
         <div className="header">
-          <h1>🎨 美圖咒語系統 v2.0</h1>
-          <p>AI 人像提示詞生成器 - 五層模組化引擎</p>
+          <h1>美圖咒語系統</h1>
+          <p>AI 人像提示詞生成引擎 · 五層模組化架構</p>
         </div>
         <div className="container">
           <div className="loading">
             <div className="spinner"></div>
-            <p>載入中...</p>
+            <p>載入中…</p>
           </div>
         </div>
       </div>
@@ -97,11 +97,11 @@ function App() {
     return (
       <div className="app">
         <div className="header">
-          <h1>🎨 美圖咒語系統 v2.0</h1>
+          <h1>美圖咒語系統</h1>
         </div>
         <div className="container">
           <div className="error">
-            <h3>❌ 錯誤</h3>
+            <h3>發生錯誤</h3>
             <p>{error}</p>
           </div>
         </div>
@@ -112,11 +112,8 @@ function App() {
   return (
     <div className="app">
       <div className="header">
-        <h1>🎨 美圖咒語系統 v2.0</h1>
-        <p>AI 人像提示詞生成器 - 五層模組化引擎</p>
-        <p style={{ fontSize: '0.9rem', marginTop: '10px' }}>
-          {categories.length} 個分類 | 目標 540 張角色卡
-        </p>
+        <h1>美圖咒語系統</h1>
+        <p>AI 人像提示詞生成引擎 · 五層模組化架構，一鍵生成電影級咒語</p>
       </div>
 
       <div className="container">
@@ -130,22 +127,21 @@ function App() {
             <button className="back-button" onClick={handleBack}>
               ← 返回分類列表
             </button>
-            <h2 style={{ marginBottom: '20px', color: '#667eea' }}>
-              {selectedCategory.name}
-            </h2>
+            <h2 className="section-title">{selectedCategory.name}</h2>
+            <p className="section-sub">
+              {selectedCategory.visualDNA?.atmosphere?.[0] || '精心設計的視覺風格'}
+            </p>
             {loading ? (
               <div className="loading">
                 <div className="spinner"></div>
-                <p>載入角色卡中...</p>
+                <p>載入角色卡中…</p>
               </div>
             ) : profiles.length > 0 ? (
               <ProfileCard profiles={profiles} category={selectedCategory} />
             ) : (
-              <div style={{ textAlign: 'center', padding: '60px 20px', color: '#888' }}>
-                <h3>🎨 角色卡開發中</h3>
-                <p style={{ marginTop: '10px' }}>
-                  此分類的 20 張角色卡正在精心設計中，敬請期待！
-                </p>
+              <div className="loading">
+                <h3 style={{ color: 'var(--text-1)', marginBottom: '10px' }}>角色卡開發中</h3>
+                <p>此分類的 20 張角色卡正在精心設計中，敬請期待。</p>
               </div>
             )}
           </div>

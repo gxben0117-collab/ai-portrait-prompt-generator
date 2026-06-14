@@ -80,7 +80,6 @@ export const NINE_TAIL_FOX_CATEGORY = {
 
     // 攝影風格
     photography: {
-      mood: 'epic cinematic composition showing all nine tails',
       focus: 'dramatic depth with spirit-fire bokeh',
       mood: 'eastern mythology fantasy epic quality',
     },

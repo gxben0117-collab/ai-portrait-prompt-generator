@@ -10,7 +10,7 @@
  * @returns {Object} 場景 Prompt 配置
  */
 export function generateScenePrompt(categoryVisualDNA, roleSceneData) {
-  const { sceneTypes, iconicProps, atmosphere, lighting } = categoryVisualDNA;
+  const { iconicProps, atmosphere } = categoryVisualDNA;
   const { location, props, timeOfDay, weather } = roleSceneData;
 
   // 構建場景主體描述（只用角色卡的 location，不加分類的 sceneTypes 避免污染）

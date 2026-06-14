@@ -71,7 +71,6 @@ export const HAUTE_COUTURE_WEDDING_CATEGORY = {
     },
 
     photography: {
-      mood: 'luxury bridal portrait composition',
       focus: 'haute couture dress detail emphasis',
       mood: 'high-end wedding magazine quality',
     },
