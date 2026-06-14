@@ -9,6 +9,42 @@
 
 ---
 
+## [2.0.6] - 2026-06-14
+
+### 🎨 化妝描述精確化
+
+#### 核心理念
+**人臉已鎖住 → 在正確的五官上追加配合服飾的化妝**
+
+#### 優化內容
+```
+apply makeup on the locked facial features:
+  - eyeshadow color matching costume palette
+  - lipstick shade matching theme color
+  - natural blush on existing cheeks
+  - eyebrow color enhancement only
+
+hairstyle design matching costume era and cultural background
+hair accessories and ornaments matching outfit aesthetic
+maintain all facial feature shapes and sizes unchanged
+```
+
+#### 明確表達
+- ✅ 化妝是「追加」在已鎖定的五官上
+- ✅ 眼影、口紅、腮紅顏色配合服飾色調
+- ✅ 髮型設計配合服飾時代和文化背景
+- ✅ 髮飾配合服裝美學
+- ✅ 所有五官形狀和尺寸保持不變
+
+### 📝 技術改進
+- `src/core/costumeLayerEngine.js`: 精確化妝描述，強調在鎖定五官上追加
+
+### 📦 構建
+- 構建時間: 520ms
+- 主文件大小: 176.04 KB → 57.18 KB (gzip)
+
+---
+
 ## [2.0.5] - 2026-06-14
 
 ### 🔧 化妝與髮型優化
