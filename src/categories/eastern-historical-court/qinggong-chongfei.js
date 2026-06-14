@@ -1,6 +1,6 @@
 /**
  * 寢宮寵妃｜深夜情話｜私密氛圍
- * Imperial Bedchamber Consort - Midnight Intimacy
+ * Imperial Palace Consort - Evening Leisure
  */
 
 export const QINGGONG_CHONGFEI_CATEGORY = {
@@ -10,10 +10,10 @@ export const QINGGONG_CHONGFEI_CATEGORY = {
 
   visualDNA: {
     atmosphere: [
-      'imperial bedchamber intimate atmosphere',
-      'favored consort private moment',
-      'midnight palace romance',
-      'luxurious bedroom elegance',
+      'luxury imperial resting chamber',
+      'palace evening leisure',
+      'warm candlelit atmosphere',
+      'quiet palace residence',
     ],
 
     colors: {
@@ -23,40 +23,40 @@ export const QINGGONG_CHONGFEI_CATEGORY = {
     },
 
     iconicProps: [
-      'luxurious palace bed with drapes',
-      'silk bedding and pillows',
-      'ornate bedroom furniture',
-      'candlelight',
+      'luxury silk couch',
+      'jade wine vessels',
+      'ornate palace screens',
+      'warm candlelight',
+      'silk curtains',
       'incense burner',
-      'palace screens',
-      'embroidered curtains',
+      'embroidered wall hangings',
     ],
 
-    costumeStyle: 'costume design in 10-layer structure from inner garments to outer silhouette, luxury silk nightgown with deep V neckline, off-shoulder sleep dress in pink-purple palette, short flowing silk skirt revealing long legs, sheer silk outer robe with lavender embroidery, lace-trimmed sleepwear detailing, body-skimming satin gown with natural draping, bare shoulder elegance, flowing bedroom robe with high waist cut, golden hair ornaments, delicate pearl jewelry, palace beauty aesthetic',
+    costumeStyle: 'costume design in 10-layer structure from inner garments to outer silhouette, elegant pink-purple silk robe, layered palace loungewear, flowing embroidered silk dress, traditional palace indoor attire, high-quality silk garments, layered embroidered palace garments, gold hair ornaments, delicate pearl jewelry, refined court beauty aesthetic',
 
     bodyRequirements: {
-      bodyType: 'imperial consort physique, luxuriously feminine figure, generous bust, defined elegant waist, graceful hips, long slender legs, mature feminine beauty, soft romantic curves, healthy adult proportions, palace beauty silhouette',
+      bodyType: 'imperial consort physique, elegant feminine silhouette, balanced mature proportions, defined elegant waist, graceful hips, long slender legs, mature feminine beauty, healthy adult proportions, natural realistic curves, palace beauty silhouette',
       emphasis: 'elegant curves with realistic draping, balanced proportions',
-      legs: 'long graceful legs, elongated leg line, visible upper thighs, high waist silhouette, fashion photography leg proportions',
+      legs: 'long graceful legs, elongated leg line, high waist silhouette, fashion photography leg proportions',
     },
 
     sceneTypes: [
-      'imperial bedchamber interior',
-      'palace private chamber',
-      'luxurious bedroom with silk drapes',
-      'intimate palace setting',
+      'imperial palace resting chamber',
+      'palace residence interior',
+      'luxury silk couch setting',
+      'quiet palace evening scene',
     ],
 
     lighting: {
       keyLight: 'soft warm candlelight',
       fillLight: 'gentle moonlight through window',
       rimLight: 'silk fabric edge glow',
-      ambience: 'intimate romantic palace atmosphere',
+      ambience: 'warm elegant palace atmosphere',
     },
 
     photography: {
-      focus: 'sophisticated bedroom scene',
-      mood: 'palace romance cinema quality',
+      focus: 'sophisticated palace scene',
+      mood: 'palace elegance cinema quality',
     },
 
     prohibitions: [
@@ -69,15 +69,15 @@ export const QINGGONG_CHONGFEI_CATEGORY = {
     textureRequirements: [
       'luxury silk realistic draping',
       'soft candlelight on fabric',
-      'elegant intimate atmosphere',
-      'palace bedroom authentic detail',
+      'elegant palace atmosphere',
+      'authentic historical detail',
     ],
 
     costumeEnhancement: {
-      bodyType: 'imperial consort physique, luxuriously feminine figure, full feminine curves, generous bust, defined elegant waist, graceful hips, long slender legs, soft romantic curves, mature feminine beauty, healthy adult proportions, palace beauty silhouette, elegant feminine posture',
-      attitude: 'alluring elegance, tender seduction, captivating gaze, favored consort confidence',
-      style: 'deep V neckline pink-purple silk nightgown, off-shoulder sleep dress, short flowing silk skirt revealing long legs, sheer silk outer robe with golden embroidery, lace-trimmed sleepwear, body-skimming satin gown, bare shoulder elegance, flowing bedroom robe with high waist cut, palace intimate aesthetic',
-      mood: 'tender seduction, intimate bedroom romance, midnight favored moment, candlelight elegance',
+      bodyType: 'imperial consort physique, elegant feminine silhouette, balanced mature proportions, natural realistic curves, defined elegant waist, graceful hips, long slender legs, healthy adult proportions, palace beauty silhouette, refined feminine posture',
+      attitude: 'graceful elegance, refined court beauty, confident noble presence, gentle composed expression',
+      style: 'elegant pink-purple silk robe, layered embroidered palace garments, traditional indoor court attire, flowing silk dress with golden embroidery, high-quality palace loungewear, refined court aesthetic',
+      mood: 'graceful elegance, palace evening leisure, warm candlelit atmosphere, refined nobility',
     },
   },
 

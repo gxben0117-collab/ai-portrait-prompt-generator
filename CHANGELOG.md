@@ -9,6 +9,28 @@
 
 ---
 
+## [2.0.3] - 2026-06-14
+
+### 🔒 安全優化
+- **寢宮寵妃審查優化**: 移除高風險性暗示詞彙，提升通過率
+  - 移除：`deep V neckline`, `off-shoulder`, `sleepwear`, `nightgown`, `bedroom romance`, `seduction`, `tipsy`, `visible upper thighs`, `generous bust`, `voluptuous body type`
+  - 改用：`elegant silk robe`, `palace loungewear`, `graceful elegance`, `refined court beauty`, `balanced mature proportions`
+  - 場景改為：`luxury imperial resting chamber`, `palace evening leisure`, `warm candlelit atmosphere`
+
+### 🔧 優化
+- **50mm 全身防大頭**: 添加距離和比例描述，防止頭部過大、肩部過窄、軀幹過短
+  - 新增：`camera positioned several meters away`, `full body captured from distance`, `natural human proportions`, `head size proportional to body`
+
+### 📝 技術改進
+- `src/categories/eastern-historical-court/qinggong-chongfei.js`: 全面安全詞彙替換
+- `src/core/userControlEngine.js`: 50mm 鏡頭描述優化
+
+### 📦 構建
+- 構建時間: 546ms
+- 主文件大小: 175.44 KB → 56.93 KB (gzip)
+
+---
+
 ## [2.0.2] - 2026-06-14
 
 ### ✨ 新增

@@ -157,7 +157,7 @@ export function generateUserControlPrompt(userConfig = {}) {
   // 構建 Prompt
   const positivePrompt = [
     paramLabels,
-    '50mm cinema lens',
+    '50mm cinema lens, camera positioned several meters away, full body captured from distance, natural human proportions, head size proportional to body',
     aspectRatioPrompt,
     shot.framing,
     fabric.prompt,
