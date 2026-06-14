@@ -72,10 +72,10 @@ export function buildPrompt(category, roleCard, options = {}) {
   const positiveComponents = [
     faceLock.positive,
     userControlPrompt.positive,
+    actionPrompt ? `(${actionPrompt}:1.2)` : '', // 動作姿勢加權，位置提前
     optimizedScene.positive,
     lightingPrompt,
     optimizedCostume.positive,
-    actionPrompt,
     optimizedPhotography.positive,
     stylePrompt.positive,
     generateTechnicalQuality(),
