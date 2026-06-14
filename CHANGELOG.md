@@ -9,6 +9,45 @@
 
 ---
 
+## [2.0.5] - 2026-06-14
+
+### 🔧 化妝與髮型優化
+
+#### 修正過度限制
+- v2.0.4 完全移除了化妝和髮型變化，但這是過度限制
+
+#### 正確的區分
+
+**✅ 允許變化（不影響臉部辨識）**:
+- 化妝：眼影、口紅、腮紅（外加上去，不改變五官）
+- 髮型：配合服飾和時代的髮型變化
+- 髮飾：頭飾、髮簪、髮帶等
+
+**❌ 禁止變化（會破壞臉部辨識）**:
+- 眼睛大小和形狀
+- 鼻子形狀和寬度
+- 嘴巴形狀和大小
+- 臉型輪廓
+- 下巴形狀
+
+#### 新增精確描述
+```
+makeup applied on existing facial features (eyeshadow, lipstick, blush only),
+hairstyle matching costume era and theme,
+hair accessories matching outfit design,
+no facial feature alteration,
+no face shape change
+```
+
+### 📝 技術改進
+- `src/core/costumeLayerEngine.js`: 新增明確的化妝和髮型規則
+
+### 📦 構建
+- 構建時間: 510ms
+- 主文件大小: 175.89 KB → 57.13 KB (gzip)
+
+---
+
 ## [2.0.4] - 2026-06-14
 
 ### 🎯 臉部身份保留重大優化

@@ -60,6 +60,7 @@ export function generateCostumePrompt(categoryVisualDNA, roleCostumeData) {
   // 組合完整服裝描述
   const positivePrompt = [
     costumeDescription,
+    'makeup applied on existing facial features (eyeshadow, lipstick, blush only), hairstyle matching costume era and theme, hair accessories matching outfit design, no facial feature alteration, no face shape change',
     bodyDescription,
     textureDescription,
     enhancementDescription,
