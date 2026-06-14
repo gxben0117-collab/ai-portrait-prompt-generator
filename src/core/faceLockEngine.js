@@ -6,18 +6,19 @@
 export const FACE_LOCK_ENGINE = {
   // 強制性臉部保留指令 (Highest Weight)
   mandatory: [
-    'preserve uploaded face identity',
-    'maintain original face shape',
-    'maintain original eye shape',
-    'maintain original nose shape',
-    'maintain original mouth shape',
-    'maintain original jawline',
-    'preserve facial proportions',
-    'preserve natural asymmetry',
-    'retain authentic skin texture',
-    'no beautification',
-    'no face replacement',
-    'no generic AI beauty face',
+    'face identity preservation',
+    'same woman from uploaded photo',
+    'recognizable as same person',
+    'preserve exact facial geometry',
+    'preserve exact eye size',
+    'preserve exact eye spacing',
+    'preserve exact eyebrow shape',
+    'preserve exact nose shape',
+    'preserve exact mouth shape',
+    'preserve exact chin shape',
+    'maintain original age appearance',
+    'maintain original facial proportions',
+    'real person facial structure',
   ],
 
   // 真實人體解剖結構鎖定
@@ -41,11 +42,32 @@ export const FACE_LOCK_ENGINE = {
 
   // 禁止的臉部修改 (Critical - 更完整)
   prohibitions: [
-    'no AI beauty filter',
-    'no face swap',
-    'no generic pretty face template',
+    'no beautification',
+    'no beauty filter',
+    'no facial reshaping',
+    'no eye enlargement',
+    'no nose slimming',
+    'no jaw slimming',
+    'no V-face',
+    'no AI beauty face',
+    'no face replacement',
+    'beautified face',
+    'beauty pageant face',
+    'V-line face',
+    'slim face filter',
+    'larger eyes',
+    'nose enhancement',
+    'lip augmentation',
+    'cosmetic surgery look',
+    'celebrity face',
+    'asian beauty standard face',
+    'instagram model face',
+    'xiaohongshu beauty face',
+    'douyin beauty filter',
+    'korean beauty filter',
+    'different person',
+    'identity drift',
     'no facial feature standardization',
-    'no Instagram beauty filter',
     'no anime face conversion',
     'no game character face template',
     'doll face',
@@ -67,15 +89,15 @@ export const FACE_LOCK_ENGINE = {
   ],
 
   // Prompt 權重設定
-  weight: 1.6,
+  weight: 1.8,
 
   // 生成完整臉部鎖定 Prompt
   generate() {
-    const instructionPrefix = 'Use my uploaded character face as fixed template';
+    const instructionPrefix = 'Use uploaded face as immutable identity reference';
     const mandatoryPrompt = this.mandatory.join(', ');
     const anatomyPrompt = this.anatomyLock.join(', ');
     const perspectivePrompt = this.perspectiveLock.join(', ');
-    const negativePrompt = this.prohibitions.map(p => p.replace(/^no /, '')).join(', ');
+    const negativePrompt = this.prohibitions.join(', ');
 
     return {
       positive: `${instructionPrefix}, (${mandatoryPrompt}:${this.weight}), ${anatomyPrompt}, ${perspectivePrompt}`,

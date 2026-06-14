@@ -41,7 +41,7 @@ export const SUCCUBUS_BANQUET_CATEGORY = {
 
     // 身材要求
     bodyRequirements: {
-      bodyType: 'succubus queen physique, tall elegant silhouette, luxuriously feminine figure, full feminine curves, generous bust, defined elegant waist, graceful hips, long elegant legs, supernaturally beautiful proportions, powerful feminine presence, aristocratic demonic elegance, queen-like posture, balanced anatomy despite supernatural beauty, mature feminine beauty',
+      bodyType: 'succubus queen physique, tall elegant silhouette, luxuriously feminine figure, full feminine curves, generous bust, defined elegant waist, graceful hips, long elegant legs, supernaturally beautiful proportions, powerful feminine presence, aristocratic demonic elegance, queen-like posture, balanced anatomy despite supernatural beauty, ',
       emphasis: 'seductive curves with realistic fabric physics, balanced proportions',
       legs: 'long elegant legs prominently featured, elongated leg line, visible upper thighs, high waist cut, fashion photography leg proportions',
     },

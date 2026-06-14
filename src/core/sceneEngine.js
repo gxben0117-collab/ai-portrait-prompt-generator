@@ -27,8 +27,8 @@ export function generateScenePrompt(categoryVisualDNA, roleSceneData) {
   const cleanedTimeOfDay = cleanLightingConflicts(timeOfDay);
   const environmentalContext = [cleanedTimeOfDay, weather].filter(Boolean).join(', ');
 
-  // Solo Character Control（確保只有主角一人）
-  const soloCharacterControl = 'solo female character, single person only, only one human in entire image, featured heroine, main character focus, empty environment, no attendants, no crowd, no background characters';
+  // Solo Character Control（確保只有主角一人，但不暗示美化）
+  const soloCharacterControl = 'solo female character, single person only, only one human in entire image, empty environment, no attendants, no crowd, no background characters';
 
   // 組合完整場景描述
   const positivePrompt = [

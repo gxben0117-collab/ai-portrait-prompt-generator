@@ -51,8 +51,8 @@ export const XIANXIA_DRAMA_CATEGORY = {
     },
 
     bodyRequirements: {
-      bodyType: 'ethereal immortal cultivator',
-      emphasis: 'transcendent supernatural presence',
+      bodyType: 'natural human proportions, elegant silhouette, balanced adult anatomy',
+      emphasis: 'realistic human figure in fantasy setting',
     },
 
     sceneTypes: [

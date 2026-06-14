@@ -32,10 +32,10 @@ export const QINGGONG_CHONGFEI_CATEGORY = {
       'embroidered wall hangings',
     ],
 
-    costumeStyle: 'costume design in 10-layer structure from inner garments to outer silhouette, elegant pink-purple silk robe, layered palace loungewear, flowing embroidered silk dress, traditional palace indoor attire, high-quality silk garments, layered embroidered palace garments, gold hair ornaments, delicate pearl jewelry, refined court beauty aesthetic',
+    costumeStyle: 'costume design in 10-layer structure from inner garments to outer silhouette, elegant pink-purple silk robe, layered palace loungewear, flowing embroidered silk dress, traditional palace indoor attire, high-quality silk garments, layered embroidered palace garments, gold hair ornaments, delicate pearl jewelry, elegant nobility aesthetic',
 
     bodyRequirements: {
-      bodyType: 'imperial consort physique, elegant feminine silhouette, balanced mature proportions, defined elegant waist, graceful hips, long slender legs, mature feminine beauty, healthy adult proportions, natural realistic curves, palace beauty silhouette',
+      bodyType: 'imperial consort physique, elegant feminine silhouette, balanced mature proportions, defined elegant waist, graceful hips, long slender legs, healthy adult proportions, natural realistic curves, natural elegant silhouette',
       emphasis: 'elegant curves with realistic draping, balanced proportions',
       legs: 'long graceful legs, elongated leg line, high waist silhouette, fashion photography leg proportions',
     },
@@ -74,8 +74,8 @@ export const QINGGONG_CHONGFEI_CATEGORY = {
     ],
 
     costumeEnhancement: {
-      bodyType: 'imperial consort physique, elegant feminine silhouette, balanced mature proportions, natural realistic curves, defined elegant waist, graceful hips, long slender legs, healthy adult proportions, palace beauty silhouette, refined feminine posture',
-      attitude: 'graceful elegance, refined court beauty, confident noble presence, gentle composed expression',
+      bodyType: 'imperial consort physique, elegant feminine silhouette, balanced mature proportions, natural realistic curves, defined elegant waist, graceful hips, long slender legs, healthy adult proportions, natural elegant silhouette, refined feminine posture',
+      attitude: 'graceful elegance, elegant nobility, confident noble presence, gentle composed expression',
       style: 'elegant pink-purple silk robe, layered embroidered palace garments, traditional indoor court attire, flowing silk dress with golden embroidery, high-quality palace loungewear, refined court aesthetic',
       mood: 'graceful elegance, palace evening leisure, warm candlelit atmosphere, refined nobility',
     },

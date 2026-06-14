@@ -60,7 +60,6 @@ export function generateCostumePrompt(categoryVisualDNA, roleCostumeData) {
   // 組合完整服裝描述
   const positivePrompt = [
     costumeDescription,
-    'Layer7: character-appropriate makeup and beauty styling matching theme, era, costume palette, and atmosphere while preserving original facial identity',
     bodyDescription,
     textureDescription,
     enhancementDescription,

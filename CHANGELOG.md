@@ -9,6 +9,66 @@
 
 ---
 
+## [2.0.4] - 2026-06-14
+
+### 🎯 臉部身份保留重大優化
+
+#### 問題診斷
+- 原系統臉部保留評分：60/100
+- 主要問題：眼睛變大、鼻樑變挺、下巴變尖、臉部變窄 = AI Beauty Face
+
+#### 解決方案：超強臉部鎖定
+
+**Face Lock 權重提升**: 1.6 → **1.8**
+
+**新增精確臉部特徵鎖定**:
+```
+preserve exact eye size
+preserve exact eye spacing
+preserve exact eyebrow shape
+preserve exact nose shape
+preserve exact mouth shape
+preserve exact chin shape
+maintain original age appearance
+same woman from uploaded photo
+recognizable as same person
+```
+
+**移除所有美化暗示詞彙**:
+- ❌ `featured heroine`, `main character focus` (sceneEngine.js)
+- ❌ `Layer7: makeup and beauty styling` (costumeLayerEngine.js)
+- ❌ `ethereal immortal cultivator`, `transcendent supernatural presence` (xianxia-drama.js)
+- ❌ `mature feminine beauty`, `palace beauty silhouette`, `refined court beauty` (qinggong-chongfei.js, succubus-banquet.js)
+
+**負面提示詞大幅增強**:
+```
+beautified face, beauty pageant face, V-line face, slim face filter,
+eye enlargement, larger eyes, nose enhancement, nose slimming,
+lip augmentation, cosmetic surgery look, celebrity face,
+asian beauty standard face, instagram model face,
+xiaohongshu beauty face, douyin beauty filter, korean beauty filter,
+different person, identity drift
+```
+
+### 🎯 預期效果
+- **臉部保留評分**: 60 → **90+**
+- **身份辨識度**: 大幅提升，「一眼看出還是媽媽」
+- **場景服裝**: 保持 95 分高質量
+
+### 📝 技術改進
+- `src/core/faceLockEngine.js`: 全面升級臉部鎖定系統，權重 1.6→1.8
+- `src/core/sceneEngine.js`: 移除 `featured heroine`, `main character focus`
+- `src/core/costumeLayerEngine.js`: 移除 Layer7 美化暗示
+- `src/categories/eastern-mythology/xianxia-drama.js`: 移除仙俠美化詞彙
+- `src/categories/eastern-historical-court/qinggong-chongfei.js`: 移除宮廷美化詞彙
+- `src/categories/dark-romance/succubus-banquet.js`: 移除美化詞彙
+
+### 📦 構建
+- 構建時間: 614ms
+- 主文件大小: 175.67 KB → 57.03 KB (gzip)
+
+---
+
 ## [2.0.3] - 2026-06-14
 
 ### 🔒 安全優化
